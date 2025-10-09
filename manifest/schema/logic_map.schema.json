@@ -1,0 +1,24 @@
+{
+  "$schema":"http://json-schema.org/draft-07/schema#",
+  "type":"object",
+  "required":["modules"],
+  "properties":{
+    "modules":{"type":"array","items":{
+      "type":"object","required":["name","procedures"],
+      "properties":{
+        "name":{"type":"string"},
+        "procedures":{"type":"array","items":{
+          "type":"object","required":["name","kind"],
+          "properties":{
+            "name":{"type":"string"},
+            "kind":{"enum":["Sub","Function"]},
+            "calls":{"type":"array","items":{"type":"string"}},
+            "reads":{"type":"array","items":{"type":"string"}},
+            "writes":{"type":"array","items":{"type":"string"}}
+          }
+        }}
+      }
+    }}
+  },
+  "additionalProperties":false
+}
