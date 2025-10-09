@@ -3,21 +3,31 @@
   "type":"object",
   "required":["forms"],
   "properties":{
-    "forms":{"type":"array","items":{
-      "type":"object","required":["name","controls"],
-      "properties":{
-        "name":{"type":"string"},
-        "controls":{"type":"array","items":{
-          "type":"object","required":["name","type"],
-          "properties":{
-            "name":{"type":"string"},
-            "type":{"type":"string"},
-            "bound_range":{"type":["string","null"]},
-            "events":{"type":"array","items":{"type":"string"}}
+    "forms":{
+      "type":"array",
+      "minItems": 0,
+      "items":{
+        "type":"object",
+        "required":["name","controls"],
+        "properties":{
+          "name":{"type":"string"},
+          "controls":{
+            "type":"array",
+            "minItems": 0,
+            "items":{
+              "type":"object",
+              "required":["name","type"],
+              "properties":{
+                "name":{"type":"string"},
+                "type":{"type":"string"},
+                "bound_range":{"type":["string","null"]},
+                "events":{"type":"array","items":{"type":"string"}}
+              }
+            }
           }
-        }}
+        }
       }
-    }}
+    }
   },
-  "additionalProperties":false
+  "additionalProperties": false
 }
