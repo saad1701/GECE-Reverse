@@ -1,0 +1,417 @@
+
+"Assumptions - Proposal infos":[
+ {
+  "TOTAL ": "Percentage",
+  "Column6": "Hours",
+  "Column7": "Cost",
+  "Column8": "List"
+ },
+ {
+  "0": "Totals (Incl. T&L)",
+  "TOTAL ": 1,
+  "Column6": 3320.762790191827,
+  "Column7": 168070.18506367953,
+  "Column8": 291166.1462893637,
+  "Column9": "EUR"
+ },
+ {
+  "0": "Local Engineering",
+  "TOTAL ": 0.5399999999999999,
+  "Column6": 1793.2119067035865,
+  "Column7": 135709.91661189083,
+  "Column8": 260980.60886902083,
+  "Column9": "EUR"
+ },
+ {
+  "0": "Remote Engineering",
+  "TOTAL ": 0.46,
+  "Column6": 1527.5508834882405,
+  "Column7": 32360.26845178869,
+  "Column8": 62231.28548420902,
+  "Column9": "EUR"
+ },
+ {
+  "0": "TRAVEL & LIVING",
+  "TOTAL ": 0.12489963097667903,
+  "Column7": 20800,
+  "Column8": 22880.000000000004,
+  "Column9": "EUR"
+ },
+ null,
+ null,
+ {
+  "Column4": "Proposal Number:",
+  "TOTAL ": "PIT-01125",
+  "Column8": "Proposal Engineer:",
+  "Column9": "Muster Name"
+ },
+ {
+  "Column4": "Customer Name:",
+  "TOTAL ": "ÉSAI",
+  "Column8": "Project Manager:",
+  "Column9": "Muster Name"
+ },
+ {
+  "Column4": "Project Name:",
+  "TOTAL ": "ICSS SYSTEM ",
+  "Column8": "Opportunity ID",
+  "Column9": "BGBQA200046"
+ },
+ {
+  "Column4": "Proposal Revision:",
+  "TOTAL ": "1"
+ },
+ {
+  "Column4": "Date:",
+  "TOTAL ": "17\/01\/25"
+ },
+ {
+  "Column4": "Scope Language:",
+  "TOTAL ": "English"
+ },
+ null,
+ {
+  "Column4": "Select bidding country",
+  "Column8": "Select default remote engineering Country"
+ },
+ {
+  "Column4": "Spain",
+  "Column8": "Argentina (EEC)",
+  "Column9": "Set globally the remote engineering country from the front end only."
+ },
+ null,
+ {
+  "Column4": "Select Industry",
+  "Column8": "Select customer type"
+ },
+ {
+  "Column4": "COG - Upstream",
+  "Column8": "EPC"
+ },
+ null,
+ {
+  "Column4": "Select Toolkit",
+  "Column8": "Toolkit factor"
+ },
+ {
+  "Column4": "Default",
+  "Column8": 0
+ },
+ null,
+ {
+  "Column4": "Select WPA",
+  "Column8": "Select WPA type"
+ },
+ {
+  "Column4": "Green Field",
+  "Column8": "Base model - Export"
+ },
+ null,
+ {
+  "Column4": "CLASS Toolset"
+ },
+ null,
+ {
+  "Column4": "Timing",
+  "TOTAL ": "Required",
+  "Column6": "UNITS"
+ },
+ {
+  "Column4": "Project Phase",
+  "TOTAL ": "2025 - Q1",
+  "Column6": "Phase",
+  "Column7": 7
+ },
+ null,
+ {
+  "Column4": "Specifications",
+  "TOTAL ": "Required",
+  "Column6": "UNITS"
+ },
+ {
+  "Column4": "Standard Functional Specification",
+  "TOTAL ": "NO",
+  "Column6": "Y\/N",
+  "Column7": false,
+  "Column8": "TOOLKIT_1"
+ },
+ {
+  "Column4": "System Engineering",
+  "TOTAL ": "Required",
+  "Column6": "UNITS"
+ },
+ {
+  "Column4": "Standard Cabinets",
+  "TOTAL ": "YES",
+  "Column6": "Y\/N",
+  "Column7": true,
+  "Column8": "TOOLKIT_2"
+ },
+ {
+  "Column4": "Architecture Generation",
+  "TOTAL ": "NO",
+  "Column6": "Y\/N",
+  "Column7": false,
+  "Column8": "TOOLKIT_3"
+ },
+ {
+  "Column4": "Human Machine Interface",
+  "TOTAL ": "Required",
+  "Column6": "UNITS"
+ },
+ {
+  "Column4": "Engineering Workbench (IEW) - Graphic symbols",
+  "TOTAL ": "YES",
+  "Column6": "Y\/N",
+  "Column7": true,
+  "Column8": "TOOLKIT_4"
+ },
+ {
+  "Column4": "F&G Layout Graphics Generation",
+  "TOTAL ": "NO",
+  "Column6": "Y\/N",
+  "Column7": false,
+  "Column8": "TOOLKIT_5"
+ },
+ {
+  "Column4": "Configuration\/Programming",
+  "TOTAL ": "Required",
+  "Column6": "UNITS"
+ },
+ {
+  "Column4": "Control Templates",
+  "TOTAL ": "YES",
+  "Column6": "Y\/N",
+  "Column7": true,
+  "Column8": "TOOLKIT_6"
+ },
+ {
+  "Column4": "SIS Templates",
+  "TOTAL ": "YES",
+  "Column6": "Y\/N",
+  "Column7": true,
+  "Column8": "TOOLKIT_7"
+ },
+ {
+  "Column4": "TMC Templates",
+  "TOTAL ": "NO",
+  "Column6": "Y\/N",
+  "Column7": false,
+  "Column8": "TOOLKIT_8"
+ },
+ {
+  "Column4": "Engineering Workbench (IEW) - Control",
+  "TOTAL ": "YES",
+  "Column6": "Y\/N",
+  "Column7": true,
+  "Column8": "TOOLKIT_9"
+ },
+ {
+  "Column4": "Engineering Workbench (IEW) - Safety",
+  "TOTAL ": "YES",
+  "Column6": "Y\/N",
+  "Column7": true,
+  "Column8": "TOOLKIT_10"
+ },
+ {
+  "Column4": "TMC Device Generation",
+  "TOTAL ": "NO",
+  "Column6": "Y\/N",
+  "Column7": false,
+  "Column8": "TOOLKIT_11"
+ },
+ {
+  "Column4": "C&E Editor",
+  "TOTAL ": "NO",
+  "Column6": "Y\/N",
+  "Column7": false,
+  "Column8": "TOOLKIT_12"
+ },
+ {
+  "Column4": "Process Interlock Generation",
+  "TOTAL ": "NO",
+  "Column6": "Y\/N",
+  "Column7": false,
+  "Column8": "TOOLKIT_13"
+ },
+ {
+  "Column4": "SIS C&E Logic Generation",
+  "TOTAL ": "NO",
+  "Column6": "Y\/N",
+  "Column7": false,
+  "Column8": "TOOLKIT_14"
+ },
+ {
+  "Column4": "Sequence Editor",
+  "TOTAL ": "NO",
+  "Column6": "Y\/N",
+  "Column7": false,
+  "Column8": "TOOLKIT_15"
+ },
+ {
+  "Column4": "Sequence Generation",
+  "TOTAL ": "NO",
+  "Column6": "Y\/N",
+  "Column7": false,
+  "Column8": "TOOLKIT_16"
+ },
+ {
+  "Column4": "Low Effort Deployment",
+  "TOTAL ": "NO",
+  "Column6": "Y\/N",
+  "Column7": false,
+  "Column8": "TOOLKIT_17"
+ },
+ {
+  "Column4": "Test",
+  "TOTAL ": "Required",
+  "Column6": "UNITS"
+ },
+ {
+  "Column4": "Standard Test Process \/ Procedures",
+  "TOTAL ": "YES",
+  "Column6": "Y\/N",
+  "Column7": true,
+  "Column8": "TOOLKIT_18"
+ },
+ {
+  "Column4": "Tie Back Simulation",
+  "TOTAL ": "NO",
+  "Column6": "Y\/N",
+  "Column7": false,
+  "Column8": "TOOLKIT_19"
+ },
+ {
+  "Column4": "Automatic Testing",
+  "TOTAL ": "NO",
+  "Column6": "Y\/N",
+  "Column7": false,
+  "Column8": "TOOLKIT_20"
+ },
+ {
+  "Column4": "Test Log Tool",
+  "TOTAL ": "YES",
+  "Column6": "Y\/N",
+  "Column7": true,
+  "Column8": "TOOLKIT_21"
+ },
+ {
+  "Column4": "Tools",
+  "TOTAL ": "Required",
+  "Column6": "UNITS"
+ },
+ {
+  "Column4": "Integrity",
+  "TOTAL ": "YES",
+  "Column6": "Y\/N",
+  "Column7": true,
+  "Column8": "TOOLKIT_22"
+ },
+ null,
+ null,
+ null,
+ {
+  "0": "Revision History",
+  "Column7": "Assumptions"
+ },
+ null,
+ {
+  "0": "Save each revision to a new file, with the revision number as part of the file name. Add rows as necessary. The cells have 'word wrap' set, so expand the height of a row as necessary to display all the text entered.",
+  "Column7": "List here the assumptions that have been made so as to produce this estimate. Add rows as necessary. If an assumption is removed for a revision then leave it in place but change the font to strikethrough. The cells have 'word wrap' set, so expand the height of a row as necessary to display all the text entered."
+ },
+ null,
+ {
+  "0": 1,
+  "Column4": "Original version"
+ },
+ null,
+ null,
+ null,
+ null,
+ null,
+ null,
+ null,
+ null,
+ null,
+ null,
+ null,
+ null,
+ null,
+ null,
+ null,
+ null,
+ null,
+ null,
+ null,
+ null,
+ {
+  "Column4": "Control Processor  Notes"
+ },
+ null,
+ null,
+ null,
+ {
+  "Column4": "Device Integrator  Notes"
+ },
+ null,
+ null,
+ null,
+ {
+  "Column4": "Triconex  Notes"
+ },
+ null,
+ null,
+ null,
+ {
+  "Column4": "Report Notes"
+ },
+ null,
+ null,
+ null,
+ {
+  "Column4": "Free Format  Notes"
+ },
+ null,
+ null,
+ null,
+ {
+  "Column4": "Training  Notes"
+ },
+ null,
+ null,
+ null,
+ {
+  "Column4": "Site  Notes"
+ },
+ null,
+ null,
+ null,
+ {
+  "Column4": "Test  Notes"
+ },
+ null,
+ null,
+ null,
+ {
+  "Column4": "Documentation Notes"
+ },
+ null,
+ null,
+ null,
+ {
+  "Column4": "Meetings   Notes"
+ },
+ null,
+ null,
+ null,
+ {
+  "Column4": "TL Notes"
+ },
+ null,
+ null,
+ null,
+ {
+  "Column4": "System Notes"
+ },
+ null,
+],

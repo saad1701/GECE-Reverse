@@ -1,0 +1,569 @@
+
+"Proposal Summary":[
+ null,
+ {
+  "Column1": "ASSUMPTIONS",
+  "Column6": "SCHEDULE"
+ },
+ null,
+ {
+  "Column1": "Item",
+  "DATE: ": "Description",
+  "10\/04\/2025 20:02": "Qty",
+  "Column4": "Unit",
+  "Column6": "ID",
+  "Column7": "Task Name",
+  "Column8": "Week",
+  "Column9": "Month"
+ },
+ {
+  "Column1": "1  ",
+  "DATE: ": "HMI (values as number of elements included)",
+  "Column6": 1,
+  "Column7": "Customer order confirmation (PO)",
+  "Column8": 1,
+  "Column9": 1
+ },
+ {
+  "DATE: ": "     - Overview Graphics",
+  "10\/04\/2025 20:02": 6,
+  "Column4": "Displays",
+  "Column6": 2,
+  "Column7": "Kick-off Meeting",
+  "Column8": 2,
+  "Column9": 1
+ },
+ {
+  "DATE: ": "     - Process Graphics",
+  "10\/04\/2025 20:02": 87,
+  "Column4": "Displays",
+  "Column6": 3,
+  "Column7": "Project Management",
+  "Column8": 1,
+  "Column9": 1
+ },
+ {
+  "DATE: ": "     - Repeat Process Graphics",
+  "10\/04\/2025 20:02": 21,
+  "Column4": "Displays",
+  "Column6": 4,
+  "Column7": "Review",
+  "Column8": 2,
+  "Column9": 1
+ },
+ {
+  "DATE: ": "     - ESD \/ Bypass displays",
+  "10\/04\/2025 20:02": 0,
+  "Column4": "Displays",
+  "Column6": 5,
+  "Column7": "Hardware Requirements Review",
+  "Column8": 2,
+  "Column9": 1
+ },
+ {
+  "DATE: ": "     - Trend Displays",
+  "10\/04\/2025 20:02": 21.25,
+  "Column4": "Displays",
+  "Column6": 6,
+  "Column7": "Engineering Scope Review",
+  "Column8": 2,
+  "Column9": 1
+ },
+ {
+  "DATE: ": "     - Group Display Graphics",
+  "10\/04\/2025 20:02": 8.200000000000001,
+  "Column4": "Displays",
+  "Column6": 7,
+  "Column7": "Specification Development",
+  "Column8": 4,
+  "Column9": 1
+ },
+ {
+  "DATE: ": "     - Faceplates overlays",
+  "10\/04\/2025 20:02": 30,
+  "Column4": "Overlays",
+  "Column6": 8,
+  "Column7": "Task Based",
+  "Column8": 2,
+  "Column9": 1
+ },
+ {
+  "Column1": 2,
+  "DATE: ": "Configured DCS Analog Inputs ",
+  "10\/04\/2025 20:02": 111,
+  "Column4": "points",
+  "Column6": 9,
+  "Column7": "Duration Based",
+  "Column8": 2,
+  "Column9": 1
+ },
+ {
+  "Column1": 3,
+  "DATE: ": "Configured DCS Analog Outputs",
+  "10\/04\/2025 20:02": 7,
+  "Column4": "points",
+  "Column6": 10,
+  "Column7": "Customer Design Input Transmittal",
+  "Column8": 5,
+  "Column9": 2
+ },
+ {
+  "Column1": 4,
+  "DATE: ": "Configured DCS Digital Inputs",
+  "10\/04\/2025 20:02": 377,
+  "Column4": "points",
+  "Column6": 11,
+  "Column7": "Design",
+  "Column8": 5,
+  "Column9": 2
+ },
+ {
+  "Column1": 5,
+  "DATE: ": "Configured DCS Digital Outputs",
+  "10\/04\/2025 20:02": 224,
+  "Column4": "points",
+  "Column6": 12,
+  "Column7": "System Engineering",
+  "Column8": 5,
+  "Column9": 2
+ },
+ {
+  "Column1": 6,
+  "DATE: ": "Quantity of Gateways",
+  "10\/04\/2025 20:02": 2,
+  "Column4": "gateways",
+  "Column6": 13,
+  "Column7": "Release Hardware",
+  "Column8": 12,
+  "Column9": 3
+ },
+ {
+  "Column1": 7,
+  "DATE: ": "Quantity of Different Protocols",
+  "10\/04\/2025 20:02": 2,
+  "Column4": "protocols",
+  "Column6": 14,
+  "Column7": "HMI Design",
+  "Column8": 14,
+  "Column9": 4
+ },
+ {
+  "Column1": 8,
+  "DATE: ": "Configured Soft Analog Inputs",
+  "10\/04\/2025 20:02": 527,
+  "Column4": "points",
+  "Column6": 15,
+  "Column7": "Database Design",
+  "Column8": 5,
+  "Column9": 2
+ },
+ {
+  "Column1": 9,
+  "DATE: ": "Configured Soft Analog Outputs",
+  "10\/04\/2025 20:02": 27,
+  "Column4": "points",
+  "Column6": 16,
+  "Column7": "Communication Interface Design",
+  "Column8": 15,
+  "Column9": 4
+ },
+ {
+  "Column1": 10,
+  "DATE: ": "Configured Soft Digital Inputs",
+  "10\/04\/2025 20:02": 3792,
+  "Column4": "points",
+  "Column6": 17,
+  "Column7": "Application Design",
+  "Column8": 16,
+  "Column9": 4
+ },
+ {
+  "Column1": 11,
+  "DATE: ": "Configured Soft Digital Outputs",
+  "10\/04\/2025 20:02": 553,
+  "Column4": "points",
+  "Column6": 18,
+  "Column7": "Report Design",
+  "Column8": 16,
+  "Column9": 4
+ },
+ {
+  "Column1": 12,
+  "DATE: ": "Configured Triconex Analog Inputs ",
+  "10\/04\/2025 20:02": 279,
+  "Column4": "points",
+  "Column6": 19,
+  "Column7": "Task Based",
+  "Column8": 5,
+  "Column9": 2
+ },
+ {
+  "Column1": 13,
+  "DATE: ": "Configured Triconex Analog Outputs",
+  "10\/04\/2025 20:02": 31,
+  "Column4": "points",
+  "Column6": 20,
+  "Column7": "Duration Based",
+  "Column8": 5,
+  "Column9": 2
+ },
+ {
+  "Column1": 14,
+  "DATE: ": "Configured Triconex Digital Inputs",
+  "10\/04\/2025 20:02": 477,
+  "Column4": "points",
+  "Column6": 21,
+  "Column7": "Design Freeze",
+  "Column8": 16,
+  "Column9": 4
+ },
+ {
+  "Column1": 15,
+  "DATE: ": "Configured Triconex Digital Outputs",
+  "10\/04\/2025 20:02": 330,
+  "Column4": "points",
+  "Column6": 22,
+  "Column7": "Implementation",
+  "Column8": 16,
+  "Column9": 4
+ },
+ {
+  "Column1": 16,
+  "DATE: ": "Historian Points",
+  "10\/04\/2025 20:02": 706,
+  "Column4": "points",
+  "Column6": 23,
+  "Column7": "HW Implementation",
+  "Column8": 16,
+  "Column9": 4
+ },
+ {
+  "Column1": 17,
+  "DATE: ": "Invensys Standard Reports",
+  "10\/04\/2025 20:02": 0,
+  "Column4": "Pages of reports",
+  "Column6": 24,
+  "Column7": "HMI Implementation",
+  "Column8": 25,
+  "Column9": 6
+ },
+ {
+  "Column1": 18,
+  "DATE: ": "Internal Factory Acceptance Test",
+  "Column6": 25,
+  "Column7": "Database Implementation",
+  "Column8": 16,
+  "Column9": 4
+ },
+ {
+  "DATE: ": "     - 0% I\/O testing",
+  "10\/04\/2025 20:02": "No",
+  "Column6": 26,
+  "Column7": "Communication Interface Implementation",
+  "Column8": 33,
+  "Column9": 8
+ },
+ {
+  "DATE: ": "     - Application testing",
+  "10\/04\/2025 20:02": "Yes",
+  "Column6": 27,
+  "Column7": "Application Implementation",
+  "Column8": 34,
+  "Column9": 8
+ },
+ {
+  "Column1": 19,
+  "DATE: ": "Factory Acceptance Test",
+  "10\/04\/2025 20:02": 0,
+  "Column4": "hours",
+  "Column6": 28,
+  "Column7": "Report Implementation",
+  "Column8": 34,
+  "Column9": 8
+ },
+ {
+  "DATE: ": "     - 0% I\/O testing",
+  "10\/04\/2025 20:02": "No",
+  "Column6": 29,
+  "Column7": "Task Based",
+  "Column8": 16,
+  "Column9": 4
+ },
+ {
+  "DATE: ": "     - Application testing",
+  "10\/04\/2025 20:02": "No",
+  "Column6": 30,
+  "Column7": "Duration Based",
+  "Column8": 16,
+  "Column9": 4
+ },
+ {
+  "Column1": 20,
+  "DATE: ": "PCS Staging\/FAT Location",
+  "10\/04\/2025 20:02": "Invensys Facility (Spain)",
+  "Column4": "   ",
+  "Column6": 31,
+  "Column7": "Testing",
+  "Column8": 34,
+  "Column9": 8
+ },
+ {
+  "Column1": 21,
+  "DATE: ": "Site Activities (man-hours)",
+  "Column4": "   ",
+  "Column6": 32,
+  "Column7": "HW Receipt at Staging",
+  "Column8": 34,
+  "Column9": 8
+ },
+ {
+  "DATE: ": "     - Site Survey \/ Studies",
+  "10\/04\/2025 20:02": 0,
+  "Column4": "hours",
+  "Column6": 33,
+  "Column7": "Staging",
+  "Column8": 34,
+  "Column9": 8
+ },
+ {
+  "DATE: ": "     - Assistance for Commissioning, Post-commissioning and Startup",
+  "10\/04\/2025 20:02": 0,
+  "Column4": "hours",
+  "Column6": 34,
+  "Column7": "Pre-FAT",
+  "Column8": 36,
+  "Column9": 9
+ },
+ {
+  "DATE: ": "     - Site Acceptance Test assistance",
+  "10\/04\/2025 20:02": 0,
+  "Column4": "hours",
+  "Column6": 35,
+  "Column7": "FAT",
+  "Column8": 49,
+  "Column9": 12
+ },
+ {
+  "Column1": 22,
+  "DATE: ": "Cabinet Design Engineering",
+  "10\/04\/2025 20:02": "Yes",
+  "Column6": 36,
+  "Column7": "Task Based",
+  "Column8": 34,
+  "Column9": 8
+ },
+ {
+  "Column1": 23,
+  "DATE: ": "Sequence Control",
+  "10\/04\/2025 20:02": "No",
+  "Column6": 37,
+  "Column7": "Duration Based",
+  "Column8": 34,
+  "Column9": 8
+ },
+ {
+  "Column1": 24,
+  "DATE: ": "Alarm configuration",
+  "10\/04\/2025 20:02": "Yes",
+  "Column6": 38,
+  "Column7": "Shipment",
+  "Column8": 50,
+  "Column9": 12
+ },
+ {
+  "Column1": 25,
+  "DATE: ": "Environment Configuration",
+  "10\/04\/2025 20:02": "Yes",
+  "Column6": 39,
+  "Column7": "Site",
+  "Column8": 51,
+  "Column9": 12
+ },
+ {
+  "Column1": 26,
+  "DATE: ": "Project Management",
+  "10\/04\/2025 20:02": "Yes",
+  "Column6": 40,
+  "Column7": "Installation Supervision",
+  "Column8": 51,
+  "Column9": 12
+ },
+ {
+  "Column1": 27,
+  "DATE: ": "Project Meetings:",
+  "Column6": 41,
+  "Column7": "SAT",
+  "Column8": 51,
+  "Column9": 12
+ },
+ {
+  "DATE: ": "     - Kick off Meeting",
+  "10\/04\/2025 20:02": 0,
+  "Column4": "hours",
+  "Column6": 42,
+  "Column7": "Commissioning Support",
+  "Column8": 51,
+  "Column9": 12
+ },
+ {
+  "DATE: ": "     - Design review Meeting",
+  "10\/04\/2025 20:02": 0,
+  "Column4": "hours",
+  "Column6": 43,
+  "Column7": "Task Based",
+  "Column8": 51,
+  "Column9": 12
+ },
+ {
+  "DATE: ": "     - Progress Meeting",
+  "10\/04\/2025 20:02": 0,
+  "Column4": "hours",
+  "Column6": 44,
+  "Column7": "Duration Based",
+  "Column8": 51,
+  "Column9": 12
+ },
+ {
+  "DATE: ": "     - Other Meeting",
+  "10\/04\/2025 20:02": 0,
+  "Column4": "hours",
+  "Column6": 45,
+  "Column7": "Training",
+  "Column8": 5,
+  "Column9": 2
+ },
+ {
+  "DATE: ": "     - Close-out Meeting",
+  "10\/04\/2025 20:02": 0,
+  "Column4": "hours",
+  "Column6": 46,
+  "Column7": "Course 1 (date to be defined)",
+  "Column8": 5,
+  "Column9": 2
+ },
+ {
+  "Column1": 28,
+  "DATE: ": "Travel & Living expenses",
+  "10\/04\/2025 20:02": "Cost + 10%",
+  "Column6": 47,
+  "Column7": "Course 2 (date to be defined)",
+  "Column8": 5,
+  "Column9": 2
+ },
+ {
+  "Column1": 29,
+  "DATE: ": "3rd Party Device hardware and programming",
+  "10\/04\/2025 20:02": "Not included",
+  "Column6": 48,
+  "Column7": "Course 3 (date to be defined)",
+  "Column8": 5,
+  "Column9": 2
+ },
+ {
+  "Column1": 30,
+  "DATE: ": "Field Device hardware and programming",
+  "10\/04\/2025 20:02": "Not included",
+  "Column6": 49,
+  "Column7": "Course 4 (date to be defined)",
+  "Column8": 5,
+  "Column9": 2
+ },
+ {
+  "Column1": 31,
+  "DATE: ": "Documentation List",
+  "Column6": 50,
+  "Column7": "Course 5 (date to be defined)",
+  "Column8": 5,
+  "Column9": 2
+ },
+ {
+  "DATE: ": "     - Bill Of Material ( BOM )",
+  "10\/04\/2025 20:02": "Yes",
+  "Column6": 51,
+  "Column7": "Project close-up",
+  "Column8": 51,
+  "Column9": 12
+ },
+ {
+  "DATE: ": "     - System Architecture",
+  "10\/04\/2025 20:02": "Yes"
+ },
+ {
+  "DATE: ": "     - System Interconnections",
+  "10\/04\/2025 20:02": "Yes"
+ },
+ {
+  "DATE: ": "     - Power & Grounding ",
+  "10\/04\/2025 20:02": "Yes"
+ },
+ {
+  "DATE: ": "     - Cabinet Mechanical",
+  "10\/04\/2025 20:02": "Yes"
+ },
+ {
+  "DATE: ": "     - Cabinet Electrical",
+  "10\/04\/2025 20:02": "Yes"
+ },
+ {
+  "DATE: ": "     - Power & heat consumption",
+  "10\/04\/2025 20:02": "Yes"
+ },
+ {
+  "DATE: ": "     - Logic + Field Information",
+  "10\/04\/2025 20:02": "Yes"
+ },
+ {
+  "DATE: ": "     - Quality Assurance  Plan",
+  "10\/04\/2025 20:02": "No"
+ },
+ {
+  "DATE: ": "     - Tag list",
+  "10\/04\/2025 20:02": "Yes"
+ },
+ null,
+ null,
+ null,
+ null,
+ null,
+ {
+  "DATE: ": "Testing"
+ },
+ {
+  "10\/04\/2025 20:02": "Pre FAT IO Test %",
+  "Column5": 0
+ },
+ {
+  "10\/04\/2025 20:02": "FAT IO Test %",
+  "Column5": 0
+ },
+ {
+  "10\/04\/2025 20:02": "FAT Duration",
+  "Column5": 0,
+  "Column6": "Hours"
+ },
+ null,
+ null,
+ {
+  "DATE: ": "Site Services"
+ },
+ {
+  "10\/04\/2025 20:02": "Site Survey \/ Studies",
+  "Column5": 0,
+  "Column6": "hours"
+ },
+ {
+  "10\/04\/2025 20:02": "Installation Supervision",
+  "Column5": 0,
+  "Column6": "hours"
+ },
+ {
+  "10\/04\/2025 20:02": "Commissionning support",
+  "Column5": 0,
+  "Column6": "hours"
+ },
+ {
+  "10\/04\/2025 20:02": "SAT",
+  "Column5": 0,
+  "Column6": "hours"
+ }
+],

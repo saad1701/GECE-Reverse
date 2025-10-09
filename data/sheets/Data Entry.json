@@ -1,0 +1,1188 @@
+],
+"Data Entry":[
+ {
+  "TOTAL ": "Percentage",
+  "Column6": "Hours",
+  "Column7": "Cost",
+  "Column8": "List"
+ },
+ {
+  "0": "Totals (Incl. T&L)",
+  "TOTAL ": 1,
+  "Column6": 3320.762790191827,
+  "Column7": 168070.18506367953,
+  "Column8": 291166.1462893637,
+  "Column9": "EUR"
+ },
+ {
+  "0": "Local Engineering",
+  "TOTAL ": 0.5399999999999999,
+  "Column6": 1793.2119067035865,
+  "Column7": 135709.91661189083,
+  "Column8": 260980.60886902083,
+  "Column9": "EUR"
+ },
+ {
+  "0": "Remote Engineering",
+  "TOTAL ": 0.46,
+  "Column6": 1527.5508834882405,
+  "Column7": 32360.26845178869,
+  "Column8": 62231.28548420902,
+  "Column9": "EUR"
+ },
+ {
+  "0": "TRAVEL & LIVING",
+  "TOTAL ": 0.12489963097667903,
+  "Column7": 20800,
+  "Column8": 22880.000000000004,
+  "Column9": "EUR"
+ },
+ null,
+ null,
+ null,
+ {
+  "Column4": "Hard Wired IO Summary"
+ },
+ null,
+ {
+  "Column4": "TYPE",
+  "TOTAL ": "QTY",
+  "Column6": "UNITS",
+  "Column7": "RECOMMENDED",
+  "Column9": "Digital Control # of Contacts",
+  "Column12": "Estimated  loops",
+  "Column13": "QTY"
+ },
+ {
+  "Column4": "Analog Input ",
+  "TOTAL ": 111,
+  "Column6": "AI",
+  "Column7": "NA",
+  "Column9": "IN",
+  "Column10": "OUT",
+  "Column12": "control loops",
+  "Column13": 7
+ },
+ {
+  "Column4": "Analog Output",
+  "TOTAL ": 7,
+  "Column6": "AO",
+  "Column7": "NA",
+  "Column9": 2,
+  "Column10": 1,
+  "Column12": "analog indicators",
+  "Column13": 104
+ },
+ {
+  "Column4": "Digital Input",
+  "TOTAL ": 377,
+  "Column6": "DI",
+  "Column7": "NA",
+  "Column9": "Recommended",
+  "Column12": "motor \/ valve control",
+  "Column13": 224
+ },
+ {
+  "Column4": "Digital Output",
+  "TOTAL ": 224,
+  "Column6": "DO",
+  "Column7": "NA",
+  "Column9": 2,
+  "Column10": 1,
+  "Column12": "status contacts",
+  "Column13": 0
+ },
+ {
+  "Column4": "Total I\/O ",
+  "TOTAL ": 719,
+  "Column6": "I\/O",
+  "Column7": "NA",
+  "Column12": "Total # loops",
+  "Column13": 335
+ },
+ null,
+ {
+  "Column4": "Control Processor",
+  "TOTAL ": "QTY",
+  "Column6": "UNITS",
+  "Column7": "RECOMMENDED"
+ },
+ {
+  "Column4": "Complex Analog Control Loop",
+  "TOTAL ": 0,
+  "Column6": "Complexity",
+  "Column7": 0.1
+ },
+ {
+  "Column4": "Complex Digital Control Loop",
+  "TOTAL ": 0,
+  "Column6": "Complexity",
+  "Column7": 0.1
+ },
+ {
+  "Column4": "I\/O with intelligent devices",
+  "Column6": "Intelligent Devices",
+  "Column7": 0
+ },
+ null,
+ {
+  "Column4": "Sequence Control",
+  "TOTAL ": "QTY",
+  "Column6": "UNITS",
+  "Column7": "RECOMMENDED"
+ },
+ {
+  "Column4": "Loop affected by Sequence",
+  "Column6": "Loops",
+  "Column7": 0
+ },
+ {
+  "Column4": "Complex Sequence Control",
+  "Column6": "Complexity",
+  "Column7": 0
+ },
+ null,
+ {
+  "Column4": "Start Up and Shutdown Sequence",
+  "TOTAL ": "QTY",
+  "Column6": "UNITS",
+  "Column7": "RECOMMENDED"
+ },
+ {
+  "Column4": "Loop affected by Group Start",
+  "TOTAL ": 0,
+  "Column6": "Loops",
+  "Column7": 0.05
+ },
+ {
+  "Column4": "Complex Group Start",
+  "TOTAL ": 0,
+  "Column6": "Complexity",
+  "Column7": 0.05
+ },
+ null,
+ null,
+ {
+  "Column4": "Device Interface Summary"
+ },
+ null,
+ {
+  "Column4": "I\/O Count",
+  "TOTAL ": "SOFT I\/O",
+  "Column8": true
+ },
+ {
+  "Column4": "TYPE",
+  "TOTAL ": "QTY",
+  "Column6": "UNITS",
+  "Column7": "Calculated I\/O",
+  "Column9": "Digital Control # of Contacts",
+  "Column12": "Estimated  loops",
+  "Column13": "QTY"
+ },
+ {
+  "Column4": "AI Through PLC \/ 3rd party device ",
+  "TOTAL ": 527,
+  "Column6": "AI",
+  "Column7": 527,
+  "Column9": "IN",
+  "Column10": "OUT",
+  "Column12": "control loops",
+  "Column13": 27
+ },
+ {
+  "Column4": "AO Through PLC \/ 3rd party device ",
+  "TOTAL ": 27,
+  "Column6": "AO",
+  "Column7": 27,
+  "Column9": 2,
+  "Column10": 1,
+  "Column12": "analog indicators",
+  "Column13": 500
+ },
+ {
+  "Column4": "DI Through PLC \/ 3rd party device ",
+  "TOTAL ": 3792,
+  "Column6": "DI",
+  "Column7": 3792,
+  "Column9": "Recommended",
+  "Column12": "motor \/ valve control",
+  "Column13": 553
+ },
+ {
+  "Column4": "DO Through PLC \/ 3rd party device  ",
+  "TOTAL ": 553,
+  "Column6": "DO",
+  "Column7": 553,
+  "Column9": 2,
+  "Column10": 1,
+  "Column12": "status contacts",
+  "Column13": 2686
+ },
+ {
+  "Column4": "Total I\/O ",
+  "TOTAL ": 4899,
+  "Column6": "I\/O",
+  "Column7": "NA",
+  "Column12": "Total # loops",
+  "Column13": 3766
+ },
+ null,
+ {
+  "Column4": "Device Integration",
+  "TOTAL ": "QTY",
+  "Column6": "UNITS",
+  "Column7": "RECOMMENDED"
+ },
+ {
+  "Column4": "Devices",
+  "TOTAL ": 2,
+  "Column6": "Devices",
+  "Column7": 0
+ },
+ {
+  "Column4": "Number of Different Protocols",
+  "TOTAL ": 2,
+  "Column6": "Protocols",
+  "Column7": 0
+ },
+ {
+  "Column4": "Complexity Factor",
+  "TOTAL ": 0,
+  "Column6": "Complexity",
+  "Column7": 0.1
+ },
+ null,
+ {
+  "Column4": "Sequence Control",
+  "TOTAL ": "QTY",
+  "Column6": "UNITS",
+  "Column7": "RECOMMENDED"
+ },
+ {
+  "Column4": "Loop affected by Sequence",
+  "Column6": "Loops",
+  "Column7": 0
+ },
+ {
+  "Column4": "Complex Sequence Control",
+  "Column6": "Complexity",
+  "Column7": 0
+ },
+ null,
+ {
+  "Column4": "Start Up and Shutdown Sequence",
+  "TOTAL ": "QTY",
+  "Column6": "UNITS",
+  "Column7": "RECOMMENDED"
+ },
+ {
+  "Column4": "Loop affected by Group Start",
+  "TOTAL ": 0,
+  "Column6": "Loops",
+  "Column7": 0.05
+ },
+ {
+  "Column4": "Complex Group Start",
+  "TOTAL ": 0,
+  "Column6": "Complexity",
+  "Column7": 0.05
+ },
+ null,
+ null,
+ {
+  "Column4": "ESD Summary"
+ },
+ null,
+ {
+  "Column4": "I\/O Count"
+ },
+ {
+  "Column4": "TYPE",
+  "TOTAL ": "QTY",
+  "Column6": "UNITS",
+  "Column7": "CALCULATED",
+  "Column9": "Digital Control # of Contacts",
+  "Column12": "Estimated  loops",
+  "Column13": "QTY"
+ },
+ {
+  "Column4": "AI for ESD and F&G",
+  "TOTAL ": 279,
+  "Column6": "AI",
+  "Column7": 837,
+  "Column9": "IN",
+  "Column10": "OUT",
+  "Column12": "control loops",
+  "Column13": 31
+ },
+ {
+  "Column4": "AO for ESD and F&G",
+  "TOTAL ": 31,
+  "Column6": "AO",
+  "Column7": 62,
+  "Column9": 1,
+  "Column10": 1,
+  "Column12": "analog indicators",
+  "Column13": 248
+ },
+ {
+  "Column4": "DI for ESD and F&G",
+  "TOTAL ": 477,
+  "Column6": "DI",
+  "Column7": 1097.1,
+  "Column9": "Rec",
+  "Column10": "Rec",
+  "Column12": "motor \/ valve control",
+  "Column13": 330
+ },
+ {
+  "Column4": "DO for ESD and F&G",
+  "TOTAL ": 330,
+  "Column6": "DO",
+  "Column7": 758.9999999999999,
+  "Column9": 1,
+  "Column10": 1,
+  "Column12": "status contacts",
+  "Column13": 147
+ },
+ {
+  "Column4": "Total I\/O ",
+  "TOTAL ": 1117,
+  "Column6": "I\/O",
+  "Column7": 2755.1,
+  "Column12": "Total # loops",
+  "Column13": 756
+ },
+ null,
+ {
+  "Column4": "Triconex",
+  "TOTAL ": "QTY",
+  "Column6": "UNITS",
+  "Column7": "RECOMMENDED"
+ },
+ {
+  "Column4": "System Type",
+  "TOTAL ": "ESD",
+  "Column6": "ESD\/BMS\/TMC",
+  "Column7": "NA",
+  "Column8": 1,
+  "Column12": "System Type"
+ },
+ {
+  "Column4": "Human Machine Interface",
+  "TOTAL ": "NO",
+  "Column6": "Y\/N",
+  "Column7": "NA",
+  "Column8": false,
+  "Column12": "ESD",
+  "Column13": 1
+ },
+ {
+  "Column4": "Marshalling Panel Required",
+  "TOTAL ": "NO",
+  "Column6": "Y\/N",
+  "Column7": "NA",
+  "Column8": false,
+  "Column12": "BMS",
+  "Column13": 2
+ },
+ {
+  "Column4": "Programming  Required",
+  "TOTAL ": "YES",
+  "Column6": "Y\/N",
+  "Column7": "NA",
+  "Column8": true,
+  "Column12": "TMC",
+  "Column13": 3
+ },
+ {
+  "Column4": "Complexity Factor",
+  "TOTAL ": 0,
+  "Column6": "Complexity",
+  "Column7": 0.1
+ },
+ {
+  "Column4": "Misc. Light and Switches",
+  "Column6": "Complexity",
+  "Column7": 0
+ },
+ null,
+ {
+  "Column4": "Start Up and Shutdown Sequence",
+  "TOTAL ": "QTY",
+  "Column6": "UNITS",
+  "Column7": "RECOMMENDED"
+ },
+ {
+  "Column4": "Loop affected by Group Start",
+  "Column6": "Loops",
+  "Column7": 0
+ },
+ {
+  "Column4": "Complex Group Start",
+  "Column6": "Complexity",
+  "Column7": 0
+ },
+ null,
+ {
+  "Column4": "TMC"
+ },
+ {
+  "Column4": "DRIVE",
+  "TOTAL ": "QTY",
+  "Column6": "UNITS",
+  "Column7": "RECOMMENDED"
+ },
+ {
+  "Column4": "Gas Turbine",
+  "TOTAL ": 0,
+  "Column7": "NA"
+ },
+ {
+  "Column4": "Single Shaft",
+  "TOTAL ": 0,
+  "Column7": "NA"
+ },
+ {
+  "Column4": "Multi Shaft",
+  "TOTAL ": 0,
+  "Column7": "NA"
+ },
+ {
+  "Column4": "Aeroderivative",
+  "TOTAL ": 0,
+  "Column7": "NA"
+ },
+ {
+  "Column4": "Steam Turbine",
+  "TOTAL ": 0,
+  "Column7": "NA"
+ },
+ {
+  "Column4": "Single Extraction",
+  "TOTAL ": 0,
+  "Column7": "NA"
+ },
+ {
+  "Column4": "Double Extraction",
+  "TOTAL ": 0,
+  "Column7": "NA"
+ },
+ {
+  "Column4": "Reheat",
+  "TOTAL ": 0,
+  "Column7": "NA"
+ },
+ {
+  "Column4": "PRV Controls",
+  "TOTAL ": "NO",
+  "Column6": "Y\/N",
+  "Column7": "NA",
+  "Column8": false
+ },
+ {
+  "Column4": "PRV Valves",
+  "TOTAL ": 0,
+  "Column7": "NA"
+ },
+ {
+  "Column4": "Motor Driven",
+  "TOTAL ": 0,
+  "Column7": "NA"
+ },
+ null,
+ {
+  "Column4": "LOAD",
+  "TOTAL ": "QTY",
+  "Column6": "UNITS",
+  "Column7": "RECOMMENDED"
+ },
+ {
+  "Column4": "Compressor",
+  "TOTAL ": 0,
+  "Column7": "NA",
+  "Column12": "Type of Compressor"
+ },
+ {
+  "Column4": "Surge Control",
+  "TOTAL ": "NO",
+  "Column6": "Y\/N",
+  "Column7": "NA",
+  "Column8": false,
+  "Column12": "NA",
+  "Column13": 1
+ },
+ {
+  "Column4": "Type of Compressor",
+  "TOTAL ": "NA",
+  "Column7": "NA",
+  "Column8": 1,
+  "Column12": "Centrifugal",
+  "Column13": 2
+ },
+ {
+  "Column4": "Recycle Valves",
+  "TOTAL ": 0,
+  "Column7": "NA",
+  "Column12": "Axial",
+  "Column13": 3
+ },
+ {
+  "Column4": "Load Sharing",
+  "TOTAL ": "NO",
+  "Column6": "Y\/N",
+  "Column7": "NA",
+  "Column8": false,
+  "Column12": "Refrigeration",
+  "Column13": 4
+ },
+ {
+  "Column4": "Generator",
+  "TOTAL ": 0,
+  "Column7": "NA"
+ },
+ {
+  "Column4": "Autosynchronization",
+  "TOTAL ": "NO",
+  "Column6": "Y\/N",
+  "Column7": "NA",
+  "Column8": false
+ },
+ {
+  "Column4": "Power System Stabilizer",
+  "TOTAL ": "NO",
+  "Column6": "Y\/N",
+  "Column7": "NA",
+  "Column8": false
+ },
+ {
+  "Column4": "Load Sharing",
+  "TOTAL ": "NO",
+  "Column6": "Y\/N",
+  "Column7": "NA",
+  "Column8": false
+ },
+ null,
+ null,
+ {
+  "Column4": "Report Summary"
+ },
+ null,
+ {
+  "Column4": "Report Type",
+  "TOTAL ": "QTY",
+  "Column6": "UNITS",
+  "Column7": "ESTIMATED"
+ },
+ {
+  "Column4": "Standard Template report",
+  "TOTAL ": 0,
+  "Column6": "Reports",
+  "Column7": 18
+ },
+ {
+  "Column4": "Custom Template report",
+  "TOTAL ": 0,
+  "Column6": "Hours",
+  "Column7": "NA"
+ },
+ {
+  "Column4": "Mass or Heat Balance Report",
+  "TOTAL ": 0,
+  "Column6": "Hours",
+  "Column7": "NA"
+ },
+ {
+  "Column4": "Corporate network interface",
+  "TOTAL ": "NO",
+  "Column6": "Y\/N",
+  "Column7": "NA",
+  "Column8": false
+ },
+ null,
+ null,
+ {
+  "Column4": "Free Format Applications",
+  "Column9": "Industry Recommended Applications"
+ },
+ {
+  "Column4": "The highest combined rate is application 1 & 2, lowest is 7 & 8 refer to QTY comments"
+ },
+ {
+  "TOTAL ": "QTY",
+  "Column6": "UNITS",
+  "Column7": "AVG RATE",
+  "Column9": "Recommended Applications",
+  "Column12": "QTY",
+  "Column13": "UNITS"
+ },
+ {
+  "Column4": "Application 1",
+  "Column6": "Hours",
+  "Column7": 74.09290896896442,
+  "Column9": "APP_1",
+  "Column12": 0,
+  "Column13": "Hours"
+ },
+ {
+  "Column4": "Application 2",
+  "Column6": "Hours",
+  "Column7": 74.09290896896442,
+  "Column9": "APP_2",
+  "Column12": 0,
+  "Column13": "Hours"
+ },
+ {
+  "Column4": "Application 3",
+  "Column6": "Hours",
+  "Column7": 71.17113870289838,
+  "Column9": "APP_3",
+  "Column12": 0,
+  "Column13": "Hours"
+ },
+ {
+  "Column4": "Application 4",
+  "Column6": "Hours",
+  "Column7": 71.17113870289838,
+  "Column9": "APP_4",
+  "Column12": 0,
+  "Column13": "Hours"
+ },
+ {
+  "Column4": "Application 5",
+  "Column6": "Hours",
+  "Column7": 68.69544185215898,
+  "Column9": "APP_5",
+  "Column12": 0,
+  "Column13": "Hours"
+ },
+ {
+  "Column4": "Application 6",
+  "Column6": "Hours",
+  "Column7": 68.69544185215898,
+  "Column9": "APP_6",
+  "Column12": 0,
+  "Column13": "Hours"
+ },
+ {
+  "Column4": "Application 7",
+  "Column6": "Hours",
+  "Column7": 67.22001904016527,
+  "Column9": "APP_7",
+  "Column12": 0,
+  "Column13": "Hours"
+ },
+ {
+  "Column4": "Application 8",
+  "Column6": "Hours",
+  "Column7": 67.22001904016527,
+  "Column9": "APP_8",
+  "Column12": 0,
+  "Column13": "Hours"
+ },
+ null,
+ null,
+ {
+  "Column4": "Custom Training"
+ },
+ null,
+ {
+  "TOTAL ": "QTY",
+  "Column6": "UNITS",
+  "Column7": "RECOMMENDED"
+ },
+ {
+  "Column4": "Course 1",
+  "TOTAL ": 0,
+  "Column6": "Hours",
+  "Column7": "NA"
+ },
+ {
+  "Column4": "Course 2",
+  "TOTAL ": 0,
+  "Column6": "Hours",
+  "Column7": "NA"
+ },
+ {
+  "Column4": "Course 3",
+  "TOTAL ": 0,
+  "Column6": "Hours",
+  "Column7": "NA"
+ },
+ {
+  "Column4": "Course 4",
+  "TOTAL ": 0,
+  "Column6": "Hours",
+  "Column7": "NA"
+ },
+ {
+  "Column4": "Course 5",
+  "TOTAL ": 0,
+  "Column6": "Hours",
+  "Column7": "NA"
+ },
+ null,
+ null,
+ {
+  "Column4": "Site Services"
+ },
+ null,
+ {
+  "TOTAL ": "QTY",
+  "Column6": "UNITS",
+  "Column7": "ESTIMATED"
+ },
+ {
+  "Column4": "Site Survey",
+  "Column6": "Hours",
+  "Column7": "NA"
+ },
+ {
+  "Column4": "Power up \/ Installation supervision",
+  "Column6": "Hours",
+  "Column7": "NA"
+ },
+ {
+  "Column4": "Commissioning",
+  "Column6": "Hours",
+  "Column7": "NA"
+ },
+ {
+  "Column4": "Site Acceptance Test ( SAT)",
+  "TOTAL ": 0,
+  "Column6": "Hours",
+  "Column7": 61
+ },
+ {
+  "Column4": "High Risk Site",
+  "TOTAL ": "NO",
+  "Column6": "Y\/N",
+  "Column7": "NA",
+  "Column8": false
+ },
+ null,
+ null,
+ {
+  "Column4": "Testing Summary"
+ },
+ null,
+ {
+  "TOTAL ": "QTY",
+  "Column6": "UNITS",
+  "Column7": "RECOMMENDED"
+ },
+ {
+  "Column4": "Percentage of I\/O tested during pre-FAT",
+  "TOTAL ": 0,
+  "Column6": "%",
+  "Column7": 1
+ },
+ {
+  "Column4": "Percentage of I\/O tested during FAT",
+  "TOTAL ": 0,
+  "Column6": "%",
+  "Column7": 0.15
+ },
+ {
+  "Column4": "Software Simulation",
+  "TOTAL ": "YES",
+  "Column6": "Y\/N",
+  "Column7": "NA",
+  "Column8": true
+ },
+ {
+  "Column4": "Minimum man-hours required to support FAT",
+  "TOTAL ": 0,
+  "Column6": "Hours",
+  "Column7": 0
+ },
+ {
+  "Column4": "Rental Cost for staging floor",
+  "Column6": "EUR\/m2\/Month",
+  "Column7": "NA"
+ },
+ null,
+ null,
+ {
+  "Column4": "Documentation summary"
+ },
+ null,
+ {
+  "Column4": "Documentation",
+  "TOTAL ": "Required",
+  "Column6": "UNITS",
+  "Column7": "ESTIMATED"
+ },
+ {
+  "Column4": "Bill Of Material ( BOM )",
+  "TOTAL ": "YES",
+  "Column6": "Y\/N",
+  "Column7": "NA",
+  "Column8": true
+ },
+ {
+  "Column4": "System Architecture",
+  "TOTAL ": "YES",
+  "Column6": "Y\/N",
+  "Column7": "NA",
+  "Column8": true
+ },
+ {
+  "Column4": "System Interconnections",
+  "TOTAL ": "YES",
+  "Column6": "Y\/N",
+  "Column7": "NA",
+  "Column8": true
+ },
+ {
+  "Column4": "Power & Grounding ",
+  "TOTAL ": "YES",
+  "Column6": "Y\/N",
+  "Column7": "NA",
+  "Column8": true
+ },
+ {
+  "Column4": "Cabinet Mechanical",
+  "TOTAL ": "YES",
+  "Column6": "Y\/N",
+  "Column7": "NA",
+  "Column8": true
+ },
+ {
+  "Column4": "Cabinet Electrical",
+  "TOTAL ": "YES",
+  "Column6": "Y\/N",
+  "Column7": "NA",
+  "Column8": true
+ },
+ {
+  "Column4": "Power & heat consumption",
+  "TOTAL ": "YES",
+  "Column6": "Y\/N",
+  "Column7": "NA",
+  "Column8": true
+ },
+ {
+  "Column4": "Logic + Field Information",
+  "TOTAL ": "YES",
+  "Column6": "Y\/N",
+  "Column7": "NA",
+  "Column8": true
+ },
+ {
+  "Column4": "Quality Assurance  Plan",
+  "TOTAL ": "YES",
+  "Column6": "Y\/N",
+  "Column7": "NA",
+  "Column8": true
+ },
+ {
+  "Column4": "Tag list",
+  "TOTAL ": "YES",
+  "Column6": "Y\/N",
+  "Column7": "NA",
+  "Column8": true
+ },
+ {
+  "Column4": "Existing PFS ( PAS , Standards etc.. )",
+  "TOTAL ": "YES",
+  "Column6": "Y\/N",
+  "Column7": "NA",
+  "Column8": true
+ },
+ null,
+ null,
+ {
+  "Column4": "Meetings"
+ },
+ null,
+ {
+  "TOTAL ": "QTY",
+  "Column6": "UNITS",
+  "Column7": "ESTIMATED"
+ },
+ {
+  "Column4": "Kick Off",
+  "TOTAL ": 0,
+  "Column6": "Hours",
+  "Column7": 48
+ },
+ {
+  "Column4": "Design Review",
+  "TOTAL ": 0,
+  "Column6": "Hours",
+  "Column7": 139
+ },
+ {
+  "Column4": "Progress Meeting",
+  "TOTAL ": 0,
+  "Column6": "Hours",
+  "Column7": 35
+ },
+ {
+  "Column4": "Other Meeting",
+  "TOTAL ": 0,
+  "Column6": "Hours",
+  "Column7": 0
+ },
+ {
+  "Column4": "Close out Meeting",
+  "TOTAL ": 0,
+  "Column6": "Hours",
+  "Column7": 0
+ },
+ null,
+ null,
+ {
+  "Column4": "Travel & Living"
+ },
+ null,
+ {
+  "Column4": "Travel Cost (Local Engineering)",
+  "TOTAL ": "QTY",
+  "Column6": "UNITS",
+  "Column7": "ESTIMATED",
+  "Column9": "Typically Travel and living are extra and charge at cost +10%"
+ },
+ {
+  "Column4": "# of trips required",
+  "TOTAL ": 2,
+  "Column6": "Trips",
+  "Column7": "NA",
+  "Column9": "Use only this area when the T&L is mandatory."
+ },
+ {
+  "Column4": "#Persons per trip",
+  "TOTAL ": 2,
+  "Column6": "Persons",
+  "Column7": "NA"
+ },
+ {
+  "Column4": "# days per trip",
+  "TOTAL ": 4,
+  "Column6": "Days",
+  "Column7": "NA"
+ },
+ {
+  "Column4": "Travel Cost( approx )",
+  "TOTAL ": 4000,
+  "Column6": "EUR",
+  "Column7": "NA"
+ },
+ {
+  "Column4": "Daily Allowance ( incl Meal \/ Car \/ Hotel )",
+  "TOTAL ": 300,
+  "Column6": "EUR",
+  "Column7": "NA"
+ },
+ null,
+ {
+  "Column4": "Travel Cost (FAT - Remote Engineering)",
+  "TOTAL ": "QTY",
+  "Column6": "UNITS",
+  "Column7": "ESTIMATED"
+ },
+ {
+  "Column4": "# of trips required",
+  "Column6": "Trips",
+  "Column7": 1
+ },
+ {
+  "Column4": "#Persons per trip",
+  "Column6": "Persons",
+  "Column7": 1
+ },
+ {
+  "Column4": "# days per trip",
+  "Column6": "Days",
+  "Column7": 0
+ },
+ {
+  "Column4": "Travel Cost( approx )",
+  "Column6": "EUR",
+  "Column7": "NA"
+ },
+ {
+  "Column4": "Hotel (approx)",
+  "Column6": "EUR",
+  "Column7": "NA"
+ },
+ null,
+ {
+  "Column4": "Travel Cost (Sites activities - Remote Engineering)",
+  "TOTAL ": "QTY",
+  "Column6": "UNITS",
+  "Column7": "ESTIMATED"
+ },
+ {
+  "Column4": "# of trips required",
+  "Column6": "Trips",
+  "Column7": 1
+ },
+ {
+  "Column4": "#Persons per trip",
+  "Column6": "Persons",
+  "Column7": 1
+ },
+ {
+  "Column4": "# days per trip",
+  "Column6": "Days",
+  "Column7": 0
+ },
+ {
+  "Column4": "Travel Cost( approx )",
+  "Column6": "EUR",
+  "Column7": "NA"
+ },
+ {
+  "Column4": "Hotel (approx)",
+  "Column6": "EUR",
+  "Column7": "NA"
+ },
+ null,
+ null,
+ null,
+ {
+  "Column4": "System Summary"
+ },
+ {
+  "TOTAL ": "IA",
+  "Column8": "TRICONEX"
+ },
+ {
+  "Column4": "System Hardware",
+  "TOTAL ": "QTY",
+  "Column6": "ESTIMATED",
+  "Column7": "UNITS",
+  "Column8": "QTY",
+  "Column9": "ESTIMATED"
+ },
+ {
+  "Column4": "Workstations",
+  "TOTAL ": 8,
+  "Column6": 12,
+  "Column7": "System",
+  "Column9": 1
+ },
+ {
+  "Column4": "Controllers",
+  "Column6": 5,
+  "Column7": "Chassis",
+  "Column8": 8,
+  "Column9": 7
+ },
+ {
+  "Column4": "IO Module",
+  "Column6": 53,
+  "Column7": "IO Module",
+  "Column9": 49
+ },
+ {
+  "Column4": "Device Interface",
+  "Column6": 2,
+  "Column7": "Comm Module",
+  "Column9": 0
+ },
+ {
+  "TOTAL ": "IA",
+  "Column8": "TRICONEX"
+ },
+ {
+  "Column4": "Cabinets",
+  "Column6": "ESTIMATED",
+  "Column7": "UNITS",
+  "Column8": "QTY",
+  "Column9": "ESTIMATED"
+ },
+ {
+  "Column4": "Processor Cabinet Required",
+  "Column6": 1
+ },
+ {
+  "Column4": "I\/O Cabinet Required",
+  "Column6": 2,
+  "Column7": "Cabinets",
+  "Column9": 5
+ },
+ {
+  "Column4": "I\/O Marshalling Cabinet Required",
+  "Column6": "NA",
+  "Column7": "Cabinets",
+  "Column9": 0
+ },
+ {
+  "Column4": "Consoles Required",
+  "TOTAL ": 8,
+  "Column6": 8
+ },
+ null,
+ {
+  "Column4": "Hardware + Software Cost",
+  "Column6": "UNITS",
+  "Column7": "ESTIMATED"
+ },
+ {
+  "Column4": "Total cost of hardware ",
+  "TOTAL ": 0,
+  "Column6": "EUR",
+  "Column7": "NA"
+ },
+ {
+  "Column4": "Total cost of Buyout ",
+  "TOTAL ": 0,
+  "Column6": "EUR",
+  "Column7": "NA"
+ },
+ null,
+ {
+  "Column4": "Project Infos",
+  "Column6": "UNITS",
+  "Column7": "ESTIMATED"
+ },
+ {
+  "Column4": "Number of repeat Units \/ Plants",
+  "TOTAL ": 1,
+  "Column6": "Units",
+  "Column7": "NA"
+ },
+ {
+  "Column4": "Minimum Duration",
+  "Column6": "Weeks",
+  "Column7": 51.04521556698505
+ },
+ null,
+ {
+  "Column4": "Start Date",
+  "Column6": "MM\/DD\/YYYY",
+  "Column7": "01\/02\/2026"
+ },
+ {
+  "Column4": "End Date",
+  "Column6": "MM\/DD\/YYYY",
+  "Column7": "12\/25\/2026"
+ },
+ null,
+ {
+  "Column4": "Schedule Information"
+ },
+ {
+  "Column4": "Time to kick-off meeting",
+  "Column6": "Weeks",
+  "Column7": 2
+ },
+ {
+  "Column4": "Receipt of hardware at project office",
+  "Column6": "Weeks",
+  "Column7": 10
+ },
+ {
+  "Column4": "Preparation of hardware for shipment to site",
+  "Column6": "Weeks",
+  "Column7": 1
+ },
+ {
+  "Column4": "Transportation time to site",
+  "Column6": "Weeks",
+  "Column7": 1
+ }

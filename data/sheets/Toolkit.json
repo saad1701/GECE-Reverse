@@ -1,0 +1,2099 @@
+"Toolkit":[
+ {
+  "Column2": "Toolkit Factor",
+  "Column9": "Project Class",
+  "TOOLKIT_LIST_ROW": "Oil & Gas"
+ },
+ {
+  "TOOLKIT_LIST_ROW": "Default"
+ },
+ null,
+ null,
+ null,
+ {
+  "Column3": 0
+ },
+ null,
+ null,
+ {
+  "Column2": "Tuned Factors",
+  "Column3": "Value",
+  "Column5": "Customer Type",
+  "Column6": "TASK",
+  "Column7": "NAME",
+  "Column8": "Oil & Gas",
+  "Column9": "Default",
+  "Column16": "Project CLASS"
+ },
+ {
+  "Column2": "TOOLKIT_SPEC_TASK1",
+  "Column3": 0,
+  "Column5": "EPC",
+  "Column6": "Project Functionnal Specifications ( PFS )",
+  "Column7": "TOOLKIT_SPEC_TASK1",
+  "Column8": 0.2,
+  "Column9": 0,
+  "Column18": "Project Size"
+ },
+ {
+  "Column2": "TOOLKIT_SPEC_TASK2",
+  "Column3": 0,
+  "Column6": "Factory Acceptance Test Preocedure",
+  "Column7": "TOOLKIT_SPEC_TASK2",
+  "Column8": 0,
+  "Column9": 0,
+  "Column18": "Small",
+  "Column19": "Medium",
+  "Column20": "Large"
+ },
+ {
+  "Column2": "TOOLKIT_SPEC_TASK3",
+  "Column3": 0,
+  "Column6": "Site Acceptance Test Procedure",
+  "Column7": "TOOLKIT_SPEC_TASK3",
+  "Column8": 0,
+  "Column9": 0,
+  "Column16": "Tools",
+  "Column18": "0-1000 hours",
+  "Column19": "1000-10000 hours",
+  "Column20": "10 000 hours and up",
+  "Column22": "Can be applied to Tracking activities",
+  "Column26": "CLASS Savings",
+  "Column29": "Tracking Activity",
+  "Column31": "Recommended"
+ },
+ {
+  "Column2": "TOOLKIT_SPEC_TASK4",
+  "Column3": 0,
+  "Column6": "Quality Assurance Plan",
+  "Column7": "TOOLKIT_SPEC_TASK4",
+  "Column8": 0,
+  "Column9": 0,
+  "Column16": "Tie-back simulation",
+  "Column17": "TOOLKIT_19",
+  "Column18": 0.12359738414889865,
+  "Column19": 0.12359738414889865,
+  "Column20": 0.12359738414889865,
+  "Column21": 0,
+  "Column22": "TEST",
+  "Column26": "SPEC",
+  "Column27": 0.023723733980793048,
+  "Column29": "SPECIFICATIONS",
+  "Column31": 0.11292878659732257
+ },
+ {
+  "Column2": "TOOLKIT_SPEC_TASK5",
+  "Column3": 0,
+  "Column6": "BODD",
+  "Column7": "TOOLKIT_SPEC_TASK5",
+  "Column8": 0,
+  "Column9": 0,
+  "Column16": "Integrity",
+  "Column17": "TOOLKIT_22",
+  "Column18": 0.010244339673524271,
+  "Column19": 0.023723733980793048,
+  "Column20": 0.033159309995881195,
+  "Column21": 0.023723733980793048,
+  "Column22": "TEST, SPEC, DOC",
+  "Column26": "SYSENG",
+  "Column27": 0,
+  "Column29": "SYSTEM ENGINEERING",
+  "Column31": 0.04006723619426815
+ },
+ {
+  "Column2": "TOOLKIT_SPEC_TASK6",
+  "Column3": 0,
+  "Column7": "TOOLKIT_SPEC_TASK6",
+  "Column8": 0,
+  "Column9": 0,
+  "Column16": "Test Log Tool",
+  "Column17": "TOOLKIT_21",
+  "Column18": 0,
+  "Column19": 0,
+  "Column20": 0,
+  "Column21": 0,
+  "Column22": "TEST",
+  "Column26": "HMI",
+  "Column27": 0.13083551565770446,
+  "Column29": "HUMAN MACHINE INTERFACE",
+  "Column31": 0.18343643069202611
+ },
+ {
+  "Column2": "TOOLKIT_SPEC_TASK7",
+  "Column3": 0,
+  "Column7": "TOOLKIT_SPEC_TASK7",
+  "Column8": 0,
+  "Column9": 0,
+  "Column16": "Testing Methodology",
+  "Column17": "TOOLKIT_18",
+  "Column18": 0,
+  "Column19": 0,
+  "Column20": 0,
+  "Column21": 0,
+  "Column22": "TEST",
+  "Column26": "CP",
+  "Column27": 0.41605519039135014,
+  "Column29": "CONFIGURATION \/ PROGRAMMING",
+  "Column31": 0.12956948030505
+ },
+ {
+  "Column2": "TOOLKIT_SPEC_TASK8",
+  "Column3": 0,
+  "Column7": "TOOLKIT_SPEC_TASK8",
+  "Column8": 0,
+  "Column9": 0,
+  "Column16": "Control Template",
+  "Column17": "TOOLKIT_6",
+  "Column18": 0.028892721554954873,
+  "Column19": 0.028892721554954873,
+  "Column20": 0.028892721554954873,
+  "Column21": 0.028892721554954873,
+  "Column22": "DCS, DI",
+  "Column26": "ESD",
+  "Column27": 0.27999999999999997,
+  "Column29": "DATA INTERFACE",
+  "Column31": 0.043484483839166775
+ },
+ {
+  "Column2": "TOOLKIT_SPEC_TASK9",
+  "Column3": 0,
+  "Column7": "TOOLKIT_SPEC_TASK9",
+  "Column8": 0,
+  "Column9": 0,
+  "Column16": "Safety Template",
+  "Column17": "TOOLKIT_7",
+  "Column18": 0.05,
+  "Column19": 0.05,
+  "Column20": 0.05,
+  "Column21": 0.05,
+  "Column22": "ESD",
+  "Column26": "DI",
+  "Column27": 0.41605519039135014,
+  "Column29": "TRICONEX ESD",
+  "Column31": 0.1
+ },
+ {
+  "Column2": "TOOLKIT_SPEC_TASK10",
+  "Column3": 0,
+  "Column7": "TOOLKIT_SPEC_TASK10",
+  "Column8": 0,
+  "Column9": 0,
+  "Column16": "TMC Template 2.0",
+  "Column17": "TOOLKIT_8",
+  "Column18": 0.062,
+  "Column19": 0.093,
+  "Column20": 0.093,
+  "Column21": 0,
+  "Column22": "ESD",
+  "Column26": "TEST",
+  "Column27": 0.023723733980793048,
+  "Column29": "REPORTS",
+  "Column31": 0.050478407803802396
+ },
+ {
+  "Column2": "TOOLKIT_SYSENG_TASK1",
+  "Column3": 0,
+  "Column6": "Panel \/ Console Design",
+  "Column7": "TOOLKIT_SYSENG_TASK1",
+  "Column8": 0,
+  "Column9": 0,
+  "Column16": "Engineering Workbench (IEW) - Control",
+  "Column17": "TOOLKIT_9",
+  "Column18": 0.38716246883639527,
+  "Column19": 0.38716246883639527,
+  "Column20": 0.38716246883639527,
+  "Column21": 0.38716246883639527,
+  "Column22": "DCS, DI",
+  "Column26": "DOC",
+  "Column27": 0.023723733980793048,
+  "Column29": "APPLICATIONS",
+  "Column31": 0
+ },
+ {
+  "Column2": "TOOLKIT_SYSENG_TASK2",
+  "Column3": 0,
+  "Column6": "SYS_CFG \/ Netwrok Configuration",
+  "Column7": "TOOLKIT_SYSENG_TASK2",
+  "Column8": 0,
+  "Column9": 0,
+  "Column16": "Engineering Workbench (IEW) - Safety",
+  "Column17": "TOOLKIT_10",
+  "Column18": 0.22999999999999998,
+  "Column19": 0.22999999999999998,
+  "Column20": 0.22999999999999998,
+  "Column21": 0.22999999999999998,
+  "Column22": "ESD",
+  "Column29": "TESTING",
+  "Column31": 0.19417886685277277
+ },
+ {
+  "Column2": "TOOLKIT_SYSENG_TASK3",
+  "Column3": 0,
+  "Column7": "TOOLKIT_SYSENG_TASK3",
+  "Column8": 0,
+  "Column9": 0,
+  "Column16": "LED",
+  "Column17": "TOOLKIT_17",
+  "Column18": 0.010299782012408222,
+  "Column19": 0.010299782012408222,
+  "Column20": 0.010299782012408222,
+  "Column21": 0,
+  "Column22": "TEST",
+  "Column29": "DOCUMENTATION",
+  "Column31": 0.06382889503441222
+ },
+ {
+  "Column2": "TOOLKIT_SYSENG_TASK4",
+  "Column3": 0,
+  "Column7": "TOOLKIT_SYSENG_TASK4",
+  "Column8": 0,
+  "Column9": 0,
+  "Column16": "Engineering Workbench (IEW) - Graphic symbols",
+  "Column17": "TOOLKIT_4",
+  "Column18": 0.13083551565770446,
+  "Column19": 0.13083551565770446,
+  "Column20": 0.13083551565770446,
+  "Column21": 0.13083551565770446,
+  "Column22": "HMI",
+  "Column29": "CUSTOM TRAINING",
+  "Column31": 0
+ },
+ {
+  "Column2": "TOOLKIT_SYSENG_TASK5",
+  "Column3": 0,
+  "Column7": "TOOLKIT_SYSENG_TASK5",
+  "Column8": 0,
+  "Column9": 0,
+  "Column16": "Standard Cabinets",
+  "Column17": "TOOLKIT_2",
+  "Column18": 0,
+  "Column19": 0,
+  "Column20": 0,
+  "Column21": 0,
+  "Column22": "SYSENG",
+  "Column29": "PROJECT MANAGEMENT",
+  "Column31": 0.085
+ },
+ {
+  "Column2": "TOOLKIT_SYSENG_TASK6",
+  "Column3": 0,
+  "Column7": "TOOLKIT_SYSENG_TASK6",
+  "Column8": 0,
+  "Column9": 0,
+  "Column16": "TOTAL",
+  "Column21": 0.8506144400298477,
+  "Column29": "MEETINGS",
+  "Column31": 0.06435996994984805
+ },
+ {
+  "Column2": "TOOLKIT_SYSENG_TASK7",
+  "Column3": 0,
+  "Column7": "TOOLKIT_SYSENG_TASK7",
+  "Column8": 0,
+  "Column9": 0,
+  "Column29": "CLEAN ORDER PROCESSING",
+  "Column31": 0
+ },
+ {
+  "Column2": "TOOLKIT_SYSENG_TASK8",
+  "Column3": 0,
+  "Column7": "TOOLKIT_SYSENG_TASK8",
+  "Column8": 0,
+  "Column9": 0,
+  "Column29": "SITE",
+  "Column31": 0.017667442731330838
+ },
+ {
+  "Column2": "TOOLKIT_SYSENG_TASK9",
+  "Column3": 0,
+  "Column7": "TOOLKIT_SYSENG_TASK9",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column2": "TOOLKIT_SYSENG_TASK10",
+  "Column3": 0,
+  "Column7": "TOOLKIT_SYSENG_TASK10",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column2": "TOOLKIT_HMI_TASK1",
+  "Column3": 0,
+  "Column6": "HMI Display element",
+  "Column7": "TOOLKIT_HMI_TASK1",
+  "Column8": 0.5,
+  "Column9": 0
+ },
+ {
+  "Column2": "TOOLKIT_HMI_TASK2",
+  "Column3": 0,
+  "Column6": "Overview \/ Hierarchy displays",
+  "Column7": "TOOLKIT_HMI_TASK2",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column2": "TOOLKIT_HMI_TASK3",
+  "Column3": 0,
+  "Column6": "Process displays",
+  "Column7": "TOOLKIT_HMI_TASK3",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column2": "TOOLKIT_HMI_TASK4",
+  "Column3": 0,
+  "Column6": "Repeat Process displays",
+  "Column7": "TOOLKIT_HMI_TASK4",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column2": "TOOLKIT_HMI_TASK5",
+  "Column3": 0,
+  "Column6": "ESD \/ Bypass displays",
+  "Column7": "TOOLKIT_HMI_TASK5",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column2": "TOOLKIT_HMI_TASK6",
+  "Column3": 0,
+  "Column6": "Trend displays",
+  "Column7": "TOOLKIT_HMI_TASK6",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column2": "TOOLKIT_HMI_TASK7",
+  "Column3": 0,
+  "Column6": "Group displays",
+  "Column7": "TOOLKIT_HMI_TASK7",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column2": "TOOLKIT_HMI_TASK8",
+  "Column3": 0,
+  "Column6": " Faceplate overlays",
+  "Column7": "TOOLKIT_HMI_TASK8",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column2": "TOOLKIT_HMI_TASK9",
+  "Column3": 0,
+  "Column6": "Configure Environments ",
+  "Column7": "TOOLKIT_HMI_TASK9",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column2": "TOOLKIT_HMI_TASK10",
+  "Column3": 0,
+  "Column6": "Configure Annunciators & Alarm Mgr",
+  "Column7": "TOOLKIT_HMI_TASK10",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column2": "TOOLKIT_CP_TASK1",
+  "Column3": 0,
+  "Column6": "Design",
+  "Column7": "TOOLKIT_CP_TASK1",
+  "Column8": 0.5,
+  "Column9": 0
+ },
+ {
+  "Column2": "TOOLKIT_CP_TASK2",
+  "Column3": 0,
+  "Column6": "Analog Input and  Pulse Input",
+  "Column7": "TOOLKIT_CP_TASK2",
+  "Column8": 0.5,
+  "Column9": 0
+ },
+ {
+  "Column2": "TOOLKIT_CP_TASK3",
+  "Column3": 0,
+  "Column6": "Anolog Output",
+  "Column7": "TOOLKIT_CP_TASK3",
+  "Column8": 0.5,
+  "Column9": 0
+ },
+ {
+  "Column2": "TOOLKIT_CP_TASK4",
+  "Column3": 0,
+  "Column6": "Digital Input",
+  "Column7": "TOOLKIT_CP_TASK4",
+  "Column8": 0.5,
+  "Column9": 0
+ },
+ {
+  "Column2": "TOOLKIT_CP_TASK5",
+  "Column3": 0,
+  "Column6": "Digital output",
+  "Column7": "TOOLKIT_CP_TASK5",
+  "Column8": 0.5,
+  "Column9": 0
+ },
+ {
+  "Column2": "TOOLKIT_CP_TASK6",
+  "Column3": 0,
+  "Column6": "Logic",
+  "Column7": "TOOLKIT_CP_TASK6",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column2": "TOOLKIT_CP_TASK7",
+  "Column3": 0,
+  "Column6": "Sequence Start up",
+  "Column7": "TOOLKIT_CP_TASK7",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column2": "TOOLKIT_CP_TASK8",
+  "Column3": 0,
+  "Column6": "Sequence Control",
+  "Column7": "TOOLKIT_CP_TASK8",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column2": "TOOLKIT_CP_TASK9",
+  "Column3": 0,
+  "Column7": "TOOLKIT_CP_TASK9",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column2": "TOOLKIT_CP_TASK10",
+  "Column3": 0,
+  "Column7": "TOOLKIT_CP_TASK10",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column2": "TOOLKIT_DI_TASK1",
+  "Column3": 0,
+  "Column6": "Design",
+  "Column7": "TOOLKIT_DI_TASK1",
+  "Column8": 0.5,
+  "Column9": 0
+ },
+ {
+  "Column2": "TOOLKIT_DI_TASK2",
+  "Column3": 0,
+  "Column6": "Analog Input and  Pulse Input",
+  "Column7": "TOOLKIT_DI_TASK2",
+  "Column8": 0.5,
+  "Column9": 0
+ },
+ {
+  "Column2": "TOOLKIT_DI_TASK3",
+  "Column3": 0,
+  "Column6": "Anolog Output",
+  "Column7": "TOOLKIT_DI_TASK3",
+  "Column8": 0.5,
+  "Column9": 0
+ },
+ {
+  "Column2": "TOOLKIT_DI_TASK4",
+  "Column3": 0,
+  "Column6": "Digital Input",
+  "Column7": "TOOLKIT_DI_TASK4",
+  "Column8": 0.5,
+  "Column9": 0
+ },
+ {
+  "Column2": "TOOLKIT_DI_TASK5",
+  "Column3": 0,
+  "Column6": "Digital output",
+  "Column7": "TOOLKIT_DI_TASK5",
+  "Column8": 0.5,
+  "Column9": 0
+ },
+ {
+  "Column2": "TOOLKIT_DI_TASK6",
+  "Column3": 0,
+  "Column6": "Logic",
+  "Column7": "TOOLKIT_DI_TASK6",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column2": "TOOLKIT_DI_TASK7",
+  "Column3": 0,
+  "Column6": "Sequence Start up",
+  "Column7": "TOOLKIT_DI_TASK7",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column2": "TOOLKIT_DI_TASK8",
+  "Column3": 0,
+  "Column6": "Sequence Control",
+  "Column7": "TOOLKIT_DI_TASK8",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column2": "TOOLKIT_DI_TASK9",
+  "Column3": 0,
+  "Column7": "TOOLKIT_DI_TASK9",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column2": "TOOLKIT_DI_TASK10",
+  "Column3": 0,
+  "Column7": "TOOLKIT_DI_TASK10",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column2": "TOOLKIT_ESD_TASK1",
+  "Column3": 0,
+  "Column6": "Design ",
+  "Column7": "TOOLKIT_ESD_TASK1",
+  "Column8": 0.5,
+  "Column9": 0
+ },
+ {
+  "Column2": "TOOLKIT_ESD_TASK2",
+  "Column3": 0,
+  "Column6": "Analog Input and  Pulse Input",
+  "Column7": "TOOLKIT_ESD_TASK2",
+  "Column8": 0.5,
+  "Column9": 0
+ },
+ {
+  "Column2": "TOOLKIT_ESD_TASK3",
+  "Column3": 0,
+  "Column6": "Anolog Output",
+  "Column7": "TOOLKIT_ESD_TASK3",
+  "Column8": 0.5,
+  "Column9": 0
+ },
+ {
+  "Column2": "TOOLKIT_ESD_TASK4",
+  "Column3": 0,
+  "Column6": "Digital Input",
+  "Column7": "TOOLKIT_ESD_TASK4",
+  "Column8": 0.5,
+  "Column9": 0
+ },
+ {
+  "Column2": "TOOLKIT_ESD_TASK5",
+  "Column3": 0,
+  "Column6": "Digital output",
+  "Column7": "TOOLKIT_ESD_TASK5",
+  "Column8": 0.5,
+  "Column9": 0
+ },
+ {
+  "Column2": "TOOLKIT_ESD_TASK6",
+  "Column3": 0,
+  "Column6": "Logic",
+  "Column7": "TOOLKIT_ESD_TASK6",
+  "Column8": 0.2,
+  "Column9": 0
+ },
+ {
+  "Column2": "TOOLKIT_ESD_TASK7",
+  "Column3": 0,
+  "Column6": "Sequence Start up",
+  "Column7": "TOOLKIT_ESD_TASK7",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column2": "TOOLKIT_ESD_TASK8",
+  "Column3": 0,
+  "Column6": "TMC Drive",
+  "Column7": "TOOLKIT_ESD_TASK8",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column2": "TOOLKIT_ESD_TASK9",
+  "Column3": 0,
+  "Column6": "TMC Load",
+  "Column7": "TOOLKIT_ESD_TASK9",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column2": "TOOLKIT_ESD_TASK10",
+  "Column3": 0,
+  "Column7": "TOOLKIT_ESD_TASK10",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column2": "TOOLKIT_REP_TASK1",
+  "Column3": 0,
+  "Column6": "Historical Data",
+  "Column7": "TOOLKIT_REP_TASK1",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column2": "TOOLKIT_REP_TASK2",
+  "Column3": 0,
+  "Column6": "Standard Template report",
+  "Column7": "TOOLKIT_REP_TASK2",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column2": "TOOLKIT_REP_TASK3",
+  "Column3": 0,
+  "Column6": "Custom Template report",
+  "Column7": "TOOLKIT_REP_TASK3",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column2": "TOOLKIT_REP_TASK4",
+  "Column3": 0,
+  "Column7": "TOOLKIT_REP_TASK4",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column2": "TOOLKIT_REP_TASK5",
+  "Column3": 0,
+  "Column7": "TOOLKIT_REP_TASK5",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column2": "TOOLKIT_REP_TASK6",
+  "Column3": 0,
+  "Column7": "TOOLKIT_REP_TASK6",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column2": "TOOLKIT_REP_TASK7",
+  "Column3": 0,
+  "Column7": "TOOLKIT_REP_TASK7",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column2": "TOOLKIT_REP_TASK8",
+  "Column3": 0,
+  "Column7": "TOOLKIT_REP_TASK8",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column2": "TOOLKIT_REP_TASK9",
+  "Column3": 0,
+  "Column7": "TOOLKIT_REP_TASK9",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column2": "TOOLKIT_REP_TASK10",
+  "Column3": 0,
+  "Column7": "TOOLKIT_REP_TASK10",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column2": "TOOLKIT_APP_TASK1",
+  "Column3": 0,
+  "Column6": "Application 1",
+  "Column7": "TOOLKIT_APP_TASK1",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column2": "TOOLKIT_APP_TASK2",
+  "Column3": 0,
+  "Column6": "Application 2",
+  "Column7": "TOOLKIT_APP_TASK2",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column2": "TOOLKIT_APP_TASK3",
+  "Column3": 0,
+  "Column6": "Application 3",
+  "Column7": "TOOLKIT_APP_TASK3",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column2": "TOOLKIT_APP_TASK4",
+  "Column3": 0,
+  "Column6": "Application 4",
+  "Column7": "TOOLKIT_APP_TASK4",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column2": "TOOLKIT_APP_TASK5",
+  "Column3": 0,
+  "Column6": "Application 5",
+  "Column7": "TOOLKIT_APP_TASK5",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column2": "TOOLKIT_APP_TASK6",
+  "Column3": 0,
+  "Column6": "Application 6",
+  "Column7": "TOOLKIT_APP_TASK6",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column2": "TOOLKIT_APP_TASK7",
+  "Column3": 0,
+  "Column6": "Application 7",
+  "Column7": "TOOLKIT_APP_TASK7",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column2": "TOOLKIT_APP_TASK8",
+  "Column3": 0,
+  "Column6": "Application 8",
+  "Column7": "TOOLKIT_APP_TASK8",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column2": "TOOLKIT_APP_TASK9",
+  "Column3": 0,
+  "Column6": "Business Application",
+  "Column7": "TOOLKIT_APP_TASK9",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column2": "TOOLKIT_APP_TASK10",
+  "Column3": 0,
+  "Column7": "TOOLKIT_APP_TASK10",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column2": "TOOLKIT_TEST_TASK1",
+  "Column3": 0,
+  "Column6": "Factory Acceptance Test ( FAT )",
+  "Column7": "TOOLKIT_TEST_TASK1",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column2": "TOOLKIT_TEST_TASK2",
+  "Column3": 0,
+  "Column6": "Internal I\/O Testing",
+  "Column7": "TOOLKIT_TEST_TASK2",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column2": "TOOLKIT_TEST_TASK3",
+  "Column3": 0,
+  "Column6": "System Integration",
+  "Column7": "TOOLKIT_TEST_TASK3",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column2": "TOOLKIT_TEST_TASK4",
+  "Column3": 0,
+  "Column6": "Packing \/Inventory  + system assembly",
+  "Column7": "TOOLKIT_TEST_TASK4",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column2": "TOOLKIT_TEST_TASK5",
+  "Column3": 0,
+  "Column6": "Simulation",
+  "Column7": "TOOLKIT_TEST_TASK5",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column2": "TOOLKIT_TEST_TASK6",
+  "Column3": 0,
+  "Column6": "Rental cost",
+  "Column7": "TOOLKIT_TEST_TASK6",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column2": "TOOLKIT_TEST_TASK7",
+  "Column3": 0,
+  "Column7": "TOOLKIT_TEST_TASK7",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column2": "TOOLKIT_TEST_TASK8",
+  "Column3": 0,
+  "Column7": "TOOLKIT_TEST_TASK8",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column2": "TOOLKIT_TEST_TASK9",
+  "Column3": 0,
+  "Column7": "TOOLKIT_TEST_TASK9",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column2": "TOOLKIT_TEST_TASK10",
+  "Column3": 0,
+  "Column7": "TOOLKIT_TEST_TASK10",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column2": "TOOLKIT_DOC_TASK1",
+  "Column3": 0,
+  "Column6": "Bill of Material ( BOM )",
+  "Column7": "TOOLKIT_DOC_TASK1",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column2": "TOOLKIT_DOC_TASK2",
+  "Column3": 0,
+  "Column6": "System Architecture",
+  "Column7": "TOOLKIT_DOC_TASK2",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column2": "TOOLKIT_DOC_TASK3",
+  "Column3": 0,
+  "Column6": "System Interconnections",
+  "Column7": "TOOLKIT_DOC_TASK3",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column2": "TOOLKIT_DOC_TASK4",
+  "Column3": 0,
+  "Column6": "Power & Grounding ",
+  "Column7": "TOOLKIT_DOC_TASK4",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column2": "TOOLKIT_DOC_TASK5",
+  "Column3": 0,
+  "Column6": "Cabinet Mechanical",
+  "Column7": "TOOLKIT_DOC_TASK5",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column2": "TOOLKIT_DOC_TASK6",
+  "Column3": 0,
+  "Column6": "Cabinet Electrical",
+  "Column7": "TOOLKIT_DOC_TASK6",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column2": "TOOLKIT_DOC_TASK7",
+  "Column3": 0,
+  "Column6": "Power & heat consumption",
+  "Column7": "TOOLKIT_DOC_TASK7",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column2": "TOOLKIT_DOC_TASK8",
+  "Column3": 0,
+  "Column6": "Logic + Field Informations",
+  "Column7": "TOOLKIT_DOC_TASK8",
+  "Column8": 0.2,
+  "Column9": 0
+ },
+ {
+  "Column2": "TOOLKIT_DOC_TASK9",
+  "Column3": 0,
+  "Column6": "Custom documentation",
+  "Column7": "TOOLKIT_DOC_TASK9",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column2": "TOOLKIT_DOC_TASK10",
+  "Column3": 0,
+  "Column6": "Taglist",
+  "Column7": "TOOLKIT_DOC_TASK10",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column5": "Customer Type",
+  "Column6": "TASK",
+  "Column7": "NAME",
+  "Column8": "Oil & Gas",
+  "Column9": "Default"
+ },
+ {
+  "Column5": "End user",
+  "Column6": "Project Functionnal Specifications ( PFS )",
+  "Column7": "TOOLKIT_SPEC_TASK1",
+  "Column8": 0.2,
+  "Column9": 0
+ },
+ {
+  "Column6": "Factory Acceptance Test Preocedure",
+  "Column7": "TOOLKIT_SPEC_TASK2",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column6": "Site Acceptance Test Procedure",
+  "Column7": "TOOLKIT_SPEC_TASK3",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column6": "Quality Assurance Plan",
+  "Column7": "TOOLKIT_SPEC_TASK4",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column6": "BODD",
+  "Column7": "TOOLKIT_SPEC_TASK5",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column7": "TOOLKIT_SPEC_TASK6",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column7": "TOOLKIT_SPEC_TASK7",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column7": "TOOLKIT_SPEC_TASK8",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column7": "TOOLKIT_SPEC_TASK9",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column7": "TOOLKIT_SPEC_TASK10",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column6": "Panel \/ Console Design",
+  "Column7": "TOOLKIT_SYSENG_TASK1",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column6": "SYS_CFG \/ Netwrok Configuration",
+  "Column7": "TOOLKIT_SYSENG_TASK2",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column7": "TOOLKIT_SYSENG_TASK3",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column7": "TOOLKIT_SYSENG_TASK4",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column7": "TOOLKIT_SYSENG_TASK5",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column7": "TOOLKIT_SYSENG_TASK6",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column7": "TOOLKIT_SYSENG_TASK7",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column7": "TOOLKIT_SYSENG_TASK8",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column7": "TOOLKIT_SYSENG_TASK9",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column7": "TOOLKIT_SYSENG_TASK10",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column6": "HMI Display element",
+  "Column7": "TOOLKIT_HMI_TASK1",
+  "Column8": 0.5,
+  "Column9": 0
+ },
+ {
+  "Column6": "Overview \/ Hierarchy displays",
+  "Column7": "TOOLKIT_HMI_TASK2",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column6": "Process displays",
+  "Column7": "TOOLKIT_HMI_TASK3",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column6": "Repeat Process displays",
+  "Column7": "TOOLKIT_HMI_TASK4",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column6": "ESD \/ Bypass displays",
+  "Column7": "TOOLKIT_HMI_TASK5",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column6": "Trend displays",
+  "Column7": "TOOLKIT_HMI_TASK6",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column6": "Group displays",
+  "Column7": "TOOLKIT_HMI_TASK7",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column6": " Faceplate overlays",
+  "Column7": "TOOLKIT_HMI_TASK8",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column6": "Configure Environments ",
+  "Column7": "TOOLKIT_HMI_TASK9",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column6": "Configure Annunciators & Alarm Mgr",
+  "Column7": "TOOLKIT_HMI_TASK10",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column6": "Design",
+  "Column7": "TOOLKIT_CP_TASK1",
+  "Column8": 0.5,
+  "Column9": 0
+ },
+ {
+  "Column6": "Analog Input and  Pulse Input",
+  "Column7": "TOOLKIT_CP_TASK2",
+  "Column8": 0.5,
+  "Column9": 0
+ },
+ {
+  "Column6": "Anolog Output",
+  "Column7": "TOOLKIT_CP_TASK3",
+  "Column8": 0.5,
+  "Column9": 0
+ },
+ {
+  "Column6": "Digital Input",
+  "Column7": "TOOLKIT_CP_TASK4",
+  "Column8": 0.5,
+  "Column9": 0
+ },
+ {
+  "Column6": "Digital output",
+  "Column7": "TOOLKIT_CP_TASK5",
+  "Column8": 0.5,
+  "Column9": 0
+ },
+ {
+  "Column6": "Logic",
+  "Column7": "TOOLKIT_CP_TASK6",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column6": "Sequence Start up",
+  "Column7": "TOOLKIT_CP_TASK7",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column6": "Sequence Control",
+  "Column7": "TOOLKIT_CP_TASK8",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column7": "TOOLKIT_CP_TASK9",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column7": "TOOLKIT_CP_TASK10",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column6": "Design",
+  "Column7": "TOOLKIT_DI_TASK1",
+  "Column8": 0.5,
+  "Column9": 0
+ },
+ {
+  "Column6": "Analog Input and  Pulse Input",
+  "Column7": "TOOLKIT_DI_TASK2",
+  "Column8": 0.5,
+  "Column9": 0
+ },
+ {
+  "Column6": "Anolog Output",
+  "Column7": "TOOLKIT_DI_TASK3",
+  "Column8": 0.5,
+  "Column9": 0
+ },
+ {
+  "Column6": "Digital Input",
+  "Column7": "TOOLKIT_DI_TASK4",
+  "Column8": 0.5,
+  "Column9": 0
+ },
+ {
+  "Column6": "Digital output",
+  "Column7": "TOOLKIT_DI_TASK5",
+  "Column8": 0.5,
+  "Column9": 0
+ },
+ {
+  "Column6": "Logic",
+  "Column7": "TOOLKIT_DI_TASK6",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column6": "Sequence Start up",
+  "Column7": "TOOLKIT_DI_TASK7",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column6": "Sequence Control",
+  "Column7": "TOOLKIT_DI_TASK8",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column7": "TOOLKIT_DI_TASK9",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column7": "TOOLKIT_DI_TASK10",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column6": "Design ",
+  "Column7": "TOOLKIT_ESD_TASK1",
+  "Column8": 0.5,
+  "Column9": 0
+ },
+ {
+  "Column6": "Analog Input and  Pulse Input",
+  "Column7": "TOOLKIT_ESD_TASK2",
+  "Column8": 0.5,
+  "Column9": 0
+ },
+ {
+  "Column6": "Anolog Output",
+  "Column7": "TOOLKIT_ESD_TASK3",
+  "Column8": 0.5,
+  "Column9": 0
+ },
+ {
+  "Column6": "Digital Input",
+  "Column7": "TOOLKIT_ESD_TASK4",
+  "Column8": 0.5,
+  "Column9": 0
+ },
+ {
+  "Column6": "Digital output",
+  "Column7": "TOOLKIT_ESD_TASK5",
+  "Column8": 0.5,
+  "Column9": 0
+ },
+ {
+  "Column6": "Logic",
+  "Column7": "TOOLKIT_ESD_TASK6",
+  "Column8": 0.2,
+  "Column9": 0
+ },
+ {
+  "Column6": "Sequence Start up",
+  "Column7": "TOOLKIT_ESD_TASK7",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column6": "TMC Drive",
+  "Column7": "TOOLKIT_ESD_TASK8",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column6": "TMC Load",
+  "Column7": "TOOLKIT_ESD_TASK9",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column7": "TOOLKIT_ESD_TASK10",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column6": "Historical Data",
+  "Column7": "TOOLKIT_REP_TASK1",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column6": "Standard Template report",
+  "Column7": "TOOLKIT_REP_TASK2",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column6": "Custom Template report",
+  "Column7": "TOOLKIT_REP_TASK3",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column7": "TOOLKIT_REP_TASK4",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column7": "TOOLKIT_REP_TASK5",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column7": "TOOLKIT_REP_TASK6",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column7": "TOOLKIT_REP_TASK7",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column7": "TOOLKIT_REP_TASK8",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column7": "TOOLKIT_REP_TASK9",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column7": "TOOLKIT_REP_TASK10",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column6": "Application 1",
+  "Column7": "TOOLKIT_APP_TASK1",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column6": "Application 2",
+  "Column7": "TOOLKIT_APP_TASK2",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column6": "Application 3",
+  "Column7": "TOOLKIT_APP_TASK3",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column6": "Application 4",
+  "Column7": "TOOLKIT_APP_TASK4",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column6": "Application 5",
+  "Column7": "TOOLKIT_APP_TASK5",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column6": "Application 6",
+  "Column7": "TOOLKIT_APP_TASK6",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column6": "Application 7",
+  "Column7": "TOOLKIT_APP_TASK7",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column6": "Application 8",
+  "Column7": "TOOLKIT_APP_TASK8",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column6": "Business Application",
+  "Column7": "TOOLKIT_APP_TASK9",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column7": "TOOLKIT_APP_TASK10",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column6": "Factory Acceptance Test ( FAT )",
+  "Column7": "TOOLKIT_TEST_TASK1",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column6": "Internal I\/O Testing",
+  "Column7": "TOOLKIT_TEST_TASK2",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column6": "System Integration",
+  "Column7": "TOOLKIT_TEST_TASK3",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column6": "Packing \/Inventory  + system assembly",
+  "Column7": "TOOLKIT_TEST_TASK4",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column6": "Simulation",
+  "Column7": "TOOLKIT_TEST_TASK5",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column6": "Rental cost",
+  "Column7": "TOOLKIT_TEST_TASK6",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column7": "TOOLKIT_TEST_TASK7",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column7": "TOOLKIT_TEST_TASK8",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column7": "TOOLKIT_TEST_TASK9",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column7": "TOOLKIT_TEST_TASK10",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column6": "Bill of Material ( BOM )",
+  "Column7": "TOOLKIT_DOC_TASK1",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column6": "System Architecture",
+  "Column7": "TOOLKIT_DOC_TASK2",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column6": "System Interconnections",
+  "Column7": "TOOLKIT_DOC_TASK3",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column6": "Power & Grounding ",
+  "Column7": "TOOLKIT_DOC_TASK4",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column6": "Cabinet Mechanical",
+  "Column7": "TOOLKIT_DOC_TASK5",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column6": "Cabinet Electrical",
+  "Column7": "TOOLKIT_DOC_TASK6",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column6": "Power & heat consumption",
+  "Column7": "TOOLKIT_DOC_TASK7",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column6": "Logic + Field Informations",
+  "Column7": "TOOLKIT_DOC_TASK8",
+  "Column8": 0.2,
+  "Column9": 0
+ },
+ {
+  "Column6": "Custom documentation",
+  "Column7": "TOOLKIT_DOC_TASK9",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column6": "Taglist",
+  "Column7": "TOOLKIT_DOC_TASK10",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column5": "Customer Type",
+  "Column6": "TASK",
+  "Column7": "NAME",
+  "Column8": "Oil & Gas",
+  "Column9": "Default"
+ },
+ {
+  "Column5": "Other",
+  "Column6": "Project Functionnal Specifications ( PFS )",
+  "Column7": "TOOLKIT_SPEC_TASK1",
+  "Column8": 0.2,
+  "Column9": 0
+ },
+ {
+  "Column6": "Factory Acceptance Test Preocedure",
+  "Column7": "TOOLKIT_SPEC_TASK2",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column6": "Site Acceptance Test Procedure",
+  "Column7": "TOOLKIT_SPEC_TASK3",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column6": "Quality Assurance Plan",
+  "Column7": "TOOLKIT_SPEC_TASK4",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column6": "BODD",
+  "Column7": "TOOLKIT_SPEC_TASK5",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column7": "TOOLKIT_SPEC_TASK6",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column7": "TOOLKIT_SPEC_TASK7",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column7": "TOOLKIT_SPEC_TASK8",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column7": "TOOLKIT_SPEC_TASK9",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column7": "TOOLKIT_SPEC_TASK10",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column6": "Panel \/ Console Design",
+  "Column7": "TOOLKIT_SYSENG_TASK1",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column6": "SYS_CFG \/ Netwrok Configuration",
+  "Column7": "TOOLKIT_SYSENG_TASK2",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column7": "TOOLKIT_SYSENG_TASK3",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column7": "TOOLKIT_SYSENG_TASK4",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column7": "TOOLKIT_SYSENG_TASK5",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column7": "TOOLKIT_SYSENG_TASK6",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column7": "TOOLKIT_SYSENG_TASK7",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column7": "TOOLKIT_SYSENG_TASK8",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column7": "TOOLKIT_SYSENG_TASK9",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column7": "TOOLKIT_SYSENG_TASK10",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column6": "HMI Display element",
+  "Column7": "TOOLKIT_HMI_TASK1",
+  "Column8": 0.5,
+  "Column9": 0
+ },
+ {
+  "Column6": "Overview \/ Hierarchy displays",
+  "Column7": "TOOLKIT_HMI_TASK2",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column6": "Process displays",
+  "Column7": "TOOLKIT_HMI_TASK3",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column6": "Repeat Process displays",
+  "Column7": "TOOLKIT_HMI_TASK4",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column6": "ESD \/ Bypass displays",
+  "Column7": "TOOLKIT_HMI_TASK5",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column6": "Trend displays",
+  "Column7": "TOOLKIT_HMI_TASK6",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column6": "Group displays",
+  "Column7": "TOOLKIT_HMI_TASK7",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column6": " Faceplate overlays",
+  "Column7": "TOOLKIT_HMI_TASK8",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column6": "Configure Environments ",
+  "Column7": "TOOLKIT_HMI_TASK9",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column6": "Configure Annunciators & Alarm Mgr",
+  "Column7": "TOOLKIT_HMI_TASK10",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column6": "Design",
+  "Column7": "TOOLKIT_CP_TASK1",
+  "Column8": 0.5,
+  "Column9": 0
+ },
+ {
+  "Column6": "Analog Input and  Pulse Input",
+  "Column7": "TOOLKIT_CP_TASK2",
+  "Column8": 0.5,
+  "Column9": 0
+ },
+ {
+  "Column6": "Anolog Output",
+  "Column7": "TOOLKIT_CP_TASK3",
+  "Column8": 0.5,
+  "Column9": 0
+ },
+ {
+  "Column6": "Digital Input",
+  "Column7": "TOOLKIT_CP_TASK4",
+  "Column8": 0.5,
+  "Column9": 0
+ },
+ {
+  "Column6": "Digital output",
+  "Column7": "TOOLKIT_CP_TASK5",
+  "Column8": 0.5,
+  "Column9": 0
+ },
+ {
+  "Column6": "Logic",
+  "Column7": "TOOLKIT_CP_TASK6",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column6": "Sequence Start up",
+  "Column7": "TOOLKIT_CP_TASK7",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column6": "Sequence Control",
+  "Column7": "TOOLKIT_CP_TASK8",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column7": "TOOLKIT_CP_TASK9",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column7": "TOOLKIT_CP_TASK10",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column6": "Design",
+  "Column7": "TOOLKIT_DI_TASK1",
+  "Column8": 0.5,
+  "Column9": 0
+ },
+ {
+  "Column6": "Analog Input and  Pulse Input",
+  "Column7": "TOOLKIT_DI_TASK2",
+  "Column8": 0.5,
+  "Column9": 0
+ },
+ {
+  "Column6": "Anolog Output",
+  "Column7": "TOOLKIT_DI_TASK3",
+  "Column8": 0.5,
+  "Column9": 0
+ },
+ {
+  "Column6": "Digital Input",
+  "Column7": "TOOLKIT_DI_TASK4",
+  "Column8": 0.5,
+  "Column9": 0
+ },
+ {
+  "Column6": "Digital output",
+  "Column7": "TOOLKIT_DI_TASK5",
+  "Column8": 0.5,
+  "Column9": 0
+ },
+ {
+  "Column6": "Logic",
+  "Column7": "TOOLKIT_DI_TASK6",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column6": "Sequence Start up",
+  "Column7": "TOOLKIT_DI_TASK7",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column6": "Sequence Control",
+  "Column7": "TOOLKIT_DI_TASK8",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column7": "TOOLKIT_DI_TASK9",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column7": "TOOLKIT_DI_TASK10",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column6": "Design ",
+  "Column7": "TOOLKIT_ESD_TASK1",
+  "Column8": 0.5,
+  "Column9": 0
+ },
+ {
+  "Column6": "Analog Input and  Pulse Input",
+  "Column7": "TOOLKIT_ESD_TASK2",
+  "Column8": 0.5,
+  "Column9": 0
+ },
+ {
+  "Column6": "Anolog Output",
+  "Column7": "TOOLKIT_ESD_TASK3",
+  "Column8": 0.5,
+  "Column9": 0
+ },
+ {
+  "Column6": "Digital Input",
+  "Column7": "TOOLKIT_ESD_TASK4",
+  "Column8": 0.5,
+  "Column9": 0
+ },
+ {
+  "Column6": "Digital output",
+  "Column7": "TOOLKIT_ESD_TASK5",
+  "Column8": 0.5,
+  "Column9": 0
+ },
+ {
+  "Column6": "Logic",
+  "Column7": "TOOLKIT_ESD_TASK6",
+  "Column8": 0.2,
+  "Column9": 0
+ },
+ {
+  "Column6": "Sequence Start up",
+  "Column7": "TOOLKIT_ESD_TASK7",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column6": "TMC Drive",
+  "Column7": "TOOLKIT_ESD_TASK8",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column6": "TMC Load",
+  "Column7": "TOOLKIT_ESD_TASK9",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column7": "TOOLKIT_ESD_TASK10",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column6": "Historical Data",
+  "Column7": "TOOLKIT_REP_TASK1",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column6": "Standard Template report",
+  "Column7": "TOOLKIT_REP_TASK2",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column6": "Custom Template report",
+  "Column7": "TOOLKIT_REP_TASK3",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column7": "TOOLKIT_REP_TASK4",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column7": "TOOLKIT_REP_TASK5",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column7": "TOOLKIT_REP_TASK6",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column7": "TOOLKIT_REP_TASK7",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column7": "TOOLKIT_REP_TASK8",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column7": "TOOLKIT_REP_TASK9",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column7": "TOOLKIT_REP_TASK10",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column6": "Application 1",
+  "Column7": "TOOLKIT_APP_TASK1",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column6": "Application 2",
+  "Column7": "TOOLKIT_APP_TASK2",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column6": "Application 3",
+  "Column7": "TOOLKIT_APP_TASK3",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column6": "Application 4",
+  "Column7": "TOOLKIT_APP_TASK4",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column6": "Application 5",
+  "Column7": "TOOLKIT_APP_TASK5",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column6": "Application 6",
+  "Column7": "TOOLKIT_APP_TASK6",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column6": "Application 7",
+  "Column7": "TOOLKIT_APP_TASK7",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column6": "Application 8",
+  "Column7": "TOOLKIT_APP_TASK8",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column6": "Business Application",
+  "Column7": "TOOLKIT_APP_TASK9",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column7": "TOOLKIT_APP_TASK10",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column6": "Factory Acceptance Test ( FAT )",
+  "Column7": "TOOLKIT_TEST_TASK1",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column6": "Internal I\/O Testing",
+  "Column7": "TOOLKIT_TEST_TASK2",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column6": "System Integration",
+  "Column7": "TOOLKIT_TEST_TASK3",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column6": "Packing \/Inventory  + system assembly",
+  "Column7": "TOOLKIT_TEST_TASK4",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column6": "Simulation",
+  "Column7": "TOOLKIT_TEST_TASK5",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column6": "Rental cost",
+  "Column7": "TOOLKIT_TEST_TASK6",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column7": "TOOLKIT_TEST_TASK7",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column7": "TOOLKIT_TEST_TASK8",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column7": "TOOLKIT_TEST_TASK9",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column7": "TOOLKIT_TEST_TASK10",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column6": "Bill of Material ( BOM )",
+  "Column7": "TOOLKIT_DOC_TASK1",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column6": "System Architecture",
+  "Column7": "TOOLKIT_DOC_TASK2",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column6": "System Interconnections",
+  "Column7": "TOOLKIT_DOC_TASK3",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column6": "Power & Grounding ",
+  "Column7": "TOOLKIT_DOC_TASK4",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column6": "Cabinet Mechanical",
+  "Column7": "TOOLKIT_DOC_TASK5",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column6": "Cabinet Electrical",
+  "Column7": "TOOLKIT_DOC_TASK6",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column6": "Power & heat consumption",
+  "Column7": "TOOLKIT_DOC_TASK7",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column6": "Logic + Field Informations",
+  "Column7": "TOOLKIT_DOC_TASK8",
+  "Column8": 0.2,
+  "Column9": 0
+ },
+ {
+  "Column6": "Custom documentation",
+  "Column7": "TOOLKIT_DOC_TASK9",
+  "Column8": 0,
+  "Column9": 0
+ },
+ {
+  "Column6": "Taglist",
+  "Column7": "TOOLKIT_DOC_TASK10",
+  "Column8": 0,
+  "Column9": 0
+ }
+],

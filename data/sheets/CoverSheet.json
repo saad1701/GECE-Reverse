@@ -1,0 +1,125 @@
+{
+"CoverSheet":[
+ {
+  "Description": "HW Project Management",
+  "Named Range Description": "FE_HW_PM_TOTAL_COST",
+  "Amount": 12123.397786439313
+ },
+ {
+  "Named Range Description": "FE_HW_PM_TOTAL_LIST",
+  "Amount": 23314.22651238329
+ },
+ {
+  "Named Range Description": "FE_HW_PM_TOTAL_HOURS",
+  "Amount": 260.15192365558096
+ },
+ {
+  "Description": "Configuration",
+  "Named Range Description": "FE_TOTAL_CONFIGURATION_COST",
+  "Amount": 155946.78727724022
+ },
+ {
+  "Named Range Description": "FE_TOTAL_CONFIGURATION_LIST",
+  "Amount": 299897.6678408466
+ },
+ {
+  "Named Range Description": "FE_TOTAL_CONFIGURATION_HOURS",
+  "Amount": 3060.6108665362462
+ },
+ {
+  "Description": "Factory Acceptance Testing",
+  "Named Range Description": "FE_TEST_TASK1_TOTAL_COST",
+  "Amount": 0
+ },
+ {
+  "Named Range Description": "FE_TEST_FAT_TOTAL_LIST",
+  "Amount": 0
+ },
+ {
+  "Named Range Description": "FE_TEST_TASK1_TOTAL_HOURS",
+  "Amount": 0
+ },
+ {
+  "Description": "Site Acceptance Testing",
+  "Named Range Description": "FE_SITE_TASK4_TOTAL_COST",
+  "Amount": 0
+ },
+ {
+  "Named Range Description": "FE_SITE_SAT_TOTAL_LIST",
+  "Amount": 0
+ },
+ {
+  "Named Range Description": "FE_SITE_TASK4_TOTAL_HOURS",
+  "Amount": 0
+ },
+ {
+  "Description": "Training",
+  "Named Range Description": "FE_COURSE_TOTAL_COST",
+  "Amount": 0
+ },
+ {
+  "Named Range Description": "FE_COURSE_TOTAL_LIST",
+  "Amount": 0
+ },
+ {
+  "Named Range Description": "FE_COURSE_TOTAL_HOURS",
+  "Amount": 0
+ },
+ {
+  "Description": "Process Displays",
+  "Named Range Description": "FE_HMI_TASK3_QTY",
+  "Amount": 117
+ },
+ {
+  "Description": "Trend Displays",
+  "Named Range Description": "FE_HMI_TASK6_QTY",
+  "Amount": 21.25
+ },
+ {
+  "Description": "Overlays",
+  "Named Range Description": "FE_HMI_TASK8_QTY",
+  "Amount": 110.9
+ },
+ {
+  "Description": "Historical Points",
+  "Named Range Description": "FE_REP_TASK1_QTY",
+  "Amount": 706
+ },
+ {
+  "Description": "Report Count",
+  "Named Range Description": "FE_REP_TASK2_QTY",
+  "Amount": 0
+ },
+ {
+  "Description": "Hours In Day",
+  "Named Range Description": "FE_HR_DAY",
+  "Amount": 8
+ },
+ {
+  "Description": "Process id of current Excel instance",
+  "Named Range Description": "FE_PROCESS_ID",
+  "Amount": 4960
+ },
+ null,
+ {
+  "Description": "Total hours and cost",
+  "Named Range Description": "FE_TOTAL_LOC_COST",
+  "Amount": 135709.91661189083
+ },
+ {
+  "Named Range Description": "FE_TOTAL_LOC_HOURS",
+  "Amount": 1793.2119067035865
+ },
+ {
+  "Named Range Description": "FE_TOTAL_REM_HOURS",
+  "Amount": 1527.5508834882405
+ },
+ {
+  "Named Range Description": "FE_TOTAL_REM_COST",
+  "Amount": 32360.26845178869
+ },
+ {
+  "Named Range Description": "GECE_XLS_VERSION",
+  "Amount": "1.0"
+ }
+],
