@@ -1,0 +1,34 @@
+[
+  {
+    "action": "ADD_LINK",
+    "type": "sheet",
+    "name": "CurrencyUpdate",
+    "path": "data/sheets/CurrencyUpdate.json",
+    "status": "proposed",
+    "id": "sheet:CurrencyUpdate"
+  },
+  {
+    "action": "ADD_LINK",
+    "type": "sheet",
+    "name": "CoverSheet",
+    "path": "data/sheets/CoverSheet.json",
+    "status": "proposed",
+    "id": "sheet:CoverSheet"
+  },
+  {
+    "action": "ADD_LINK",
+    "type": "sheet",
+    "name": "Application Based",
+    "path": "data/sheets/Application Based.json",
+    "status": "proposed",
+    "id": "sheet:Application Based"
+  },
+  {
+    "action": "ADD_LINK",
+    "type": "sheet",
+    "name": "Assumptions - Proposal infos",
+    "path": "data/sheets/Assumptions - Proposal infos.json",
+    "status": "proposed",
+    "id": "sheet:Assumptions - Proposal infos"
+  }
+]
