@@ -9,7 +9,8 @@
       "name": "Application Based",
       "owner": "data-team",
       "tags": [
-        "sheet"
+        "sheet",
+        "data"
       ],
       "source": "registry/registry_patch.json"
     },
@@ -22,7 +23,8 @@
       "name": "Assumptions - Proposal infos",
       "owner": "data-team",
       "tags": [
-        "sheet"
+        "sheet",
+        "data"
       ],
       "source": "registry/registry_patch.json"
     },
@@ -35,7 +37,8 @@
       "name": "CoverSheet",
       "owner": "data-team",
       "tags": [
-        "sheet"
+        "sheet",
+        "data"
       ],
       "source": "registry/registry_patch.json"
     },
@@ -48,7 +51,8 @@
       "name": "CurrencyUpdate",
       "owner": "data-team",
       "tags": [
-        "sheet"
+        "sheet",
+        "data"
       ],
       "source": "registry/registry_patch.json"
     }
