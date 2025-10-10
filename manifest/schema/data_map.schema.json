@@ -3,20 +3,31 @@
   "type":"object",
   "required":["sheets"],
   "properties":{
-    "sheets":{"type":"array","items":{
-      "type":"object","required":["name","ranges"],
-      "properties":{
-        "name":{"type":"string"},
-        "ranges":{"type":"array","items":{
-          "type":"object","required":["name","address"],
-          "properties":{
-            "name":{"type":"string"},
-            "address":{"type":"string"},
-            "depends_on":{"type":"array","items":{"type":"string"}}
+    "version":{"type":"string"},
+    "source":{"type":"string"},
+    "notes":{"type":"array","items":{"type":"string"}},
+    "sheets":{
+      "type":"array","minItems":0,
+      "items":{
+        "type":"object","required":["name","ranges"],
+        "properties":{
+          "name":{"type":"string"},
+          "ranges":{
+            "type":"array","minItems":0,
+            "items":{
+              "type":"object","required":["name","address"],
+              "properties":{
+                "name":{"type":"string"},
+                "address":{"type":"string"},
+                "depends_on":{"type":"array","items":{"type":"string"}}
+              },
+              "additionalProperties":false
+            }
           }
-        }}
+        },
+        "additionalProperties":false
       }
-    }}
+    }
   },
   "additionalProperties":false
 }
