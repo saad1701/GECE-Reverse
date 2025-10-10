@@ -1,0 +1,17 @@
+# Append this under your existing steps (after schema validate + drift check)
+      - name: Diff manifests against origin/main
+        run: |
+          python scripts/diff_manifest.py --base origin/main --head . --out manifest_diff.json --rules manifest/rules/breaking_rules.yml
+      - name: Render manifest report
+        run: |
+          python scripts/render_report.py --in manifest_diff.json --out manifest_report.html
+      - name: Upload manifest diff artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: manifest-diff
+          path: |
+            manifest_diff.json
+            manifest_report.html
+      - name: Fail on breaking changes
+        run: |
+          python scripts/diff_manifest.py --base origin/main --head . --out manifest_diff.json --rules manifest/rules/breaking_rules.yml --fail-on-breaking

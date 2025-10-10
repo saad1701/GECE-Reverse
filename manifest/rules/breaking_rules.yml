@@ -1,0 +1,14 @@
+# Breaking rules for GECE manifests
+breaking:
+  - file: manifest/data_map.json
+    path: sheets[].fields[]
+    type: removal
+  - file: manifest/logic_map.json
+    path: modules[].subs[]
+    type: removal
+  - file: manifest/logic_map.json
+    path: modules[].functions[]
+    type: removal
+  - file: manifest/ui_map.json
+    path: forms[].controls[]
+    type: removal
