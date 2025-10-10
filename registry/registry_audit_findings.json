@@ -1,0 +1,37 @@
+{
+  "schema": [],
+  "crossref_missing_from_registry": [],
+  "orphans": [
+    {
+      "canonical_id": "sheet:Application Based",
+      "bucket": "sheets",
+      "path": "data/sheets/Application Based.json"
+    },
+    {
+      "canonical_id": "sheet:Assumptions - Proposal infos",
+      "bucket": "sheets",
+      "path": "data/sheets/Assumptions - Proposal infos.json"
+    },
+    {
+      "canonical_id": "sheet:CoverSheet",
+      "bucket": "sheets",
+      "path": "data/sheets/CoverSheet.json"
+    },
+    {
+      "canonical_id": "sheet:CurrencyUpdate",
+      "bucket": "sheets",
+      "path": "data/sheets/CurrencyUpdate.json"
+    }
+  ],
+  "duplicates": [],
+  "conflicts": [],
+  "normalization_deviations": [],
+  "coverage": {
+    "total_registry_entries": 4,
+    "covered_from_manifest": 0,
+    "orphans_detected": 4,
+    "duplicates_found": 0,
+    "schema_errors": 0,
+    "overall_coverage_percent": 0.0
+  }
+}
