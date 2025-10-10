@@ -1,0 +1,16 @@
+name: Manifest Guard
+on: [push, pull_request]
+jobs:
+  guard:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: '3.9' }
+      - run: pip install jsonschema
+      - name: Schema validate
+        run: python scripts/validate_manifest.py
+      - name: Regenerate + drift check
+        run: |
+          python scripts/generate_manifest.py --root . --out manifest --force
+          git diff --exit-code || (echo "::error::Manifest drift detected. Commit regenerated files." && exit 1)
