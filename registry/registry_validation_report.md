@@ -1,27 +1,12 @@
-# Registry Validation Report (Phase 6)
+# Registry Validation Report (Phase 8)
 
-## Coverage Stats
-- total_registry_entries: 4
-- covered_from_manifest: 0
-- orphans_detected: 4
-- duplicates_found: 0
-- schema_errors: 0
-- overall_coverage_percent: 0.0
+- total_manifest_entities: 1
+- linked_entities: 1
+- orphans: 0
+- missing_links: 0
+- coverage_percent: 100.0
 
-## Schema Gaps
-- none
+## Missing IDs
 
-## Cross-Reference Audit
-- missing in registry for manifest added: 0
-- orphans in registry (not in manifest): 4
-  - sheets data/sheets/Application Based.json
-  - sheets data/sheets/Assumptions - Proposal infos.json
-  - sheets data/sheets/CoverSheet.json
-  - sheets data/sheets/CurrencyUpdate.json
 
-## Normalization Deviations
-- none
-
-## Duplicates and Conflicts
-- duplicates_found: 0
-- owner conflicts: 0
+## Orphans

@@ -1,0 +1,412 @@
+--- manifest_curr_old.json
+
++++ manifest_curr_new.json
+
+@@ -1,371 +1,42 @@
+
+ {
+-  "forms": [
++  "forms": [],
++  "generated_at": "2025-10-11T19:30:21.512319Z",
++  "modules": [
+     {
+-      "caption": "Detailed Data Entry Form",
+-      "controls": [],
+-      "height": null,
+-      "id": "form:frmComplete",
+-      "name": "frmComplete",
+-      "path": "data/forms/frmComplete.frm",
+-      "type": "form",
+-      "width": null
++      "id": "module:unknown",
++      "name": "unknown",
++      "path": null
+     },
+     {
+-      "caption": "GECE",
+-      "controls": [],
+-      "height": null,
+-      "id": "form:frmSplash",
+-      "name": "frmSplash",
+-      "path": "data/forms/frmSplash.frm",
+-      "type": "form",
+-      "width": null
++      "id": "module:unknown",
++      "name": "unknown",
++      "path": null
++    },
++    {
++      "id": "module:unknown",
++      "name": "unknown",
++      "path": null
++    },
++    {
++      "id": "module:unknown",
++      "name": "unknown",
++      "path": null
++    },
++    {
++      "id": "module:unknown",
++      "name": "unknown",
++      "path": null
++    },
++    {
++      "id": "module:unknown",
++      "name": "unknown",
++      "path": null
++    },
++    {
++      "id": "module:unknown",
++      "name": "unknown",
++      "path": null
+     }
+   ],
+-  "sheets": [
+-    {
+-      "id": "sheets:Application Based",
+-      "path": "data/sheets/Application Based.json"
+-    },
+-    {
+-      "id": "sheets:Assumptions - Proposal infos",
+-      "path": "data/sheets/Assumptions - Proposal infos.json"
+-    },
+-    {
+-      "id": "sheets:CoverSheet",
+-      "path": "data/sheets/CoverSheet.json"
+-    },
+-    {
+-      "id": "sheets:CurrencyUpdate",
+-      "path": "data/sheets/CurrencyUpdate.json"
+-    },
+-    {
+-      "id": "sheets:Data Entry",
+-      "path": "data/sheets/Data Entry.json"
+-    },
+-    {
+-      "id": "sheets:Duration Based",
+-      "path": "data/sheets/Duration Based.json"
+-    },
+-    {
+-      "id": "sheets:ExportToERP",
+-      "path": "data/sheets/ExportToERP.json"
+-    },
+-    {
+-      "id": "sheets:GECE TO CQA Output",
+-      "path": "data/sheets/GECE TO CQA Output.json"
+-    },
+-    {
+-      "id": "sheets:Global Factor",
+-      "path": "data/sheets/Global Factor.json"
+-    },
+-    {
+-      "id": "sheets:Industry",
+-      "path": "data/sheets/Industry.json"
+-    },
+-    {
+-      "id": "sheets:Price Make-up",
+-      "path": "data/sheets/Price Make-up.json"
+-    },
+-    {
+-      "id": "sheets:Proposal Summary",
+-      "path": "data/sheets/Proposal Summary.json"
+-    },
+-    {
+-      "id": "sheets:Schedule",
+-      "path": "data/sheets/Schedule.json"
+-    },
+-    {
+-      "id": "sheets:Task Based",
+-      "path": "data/sheets/Task Based.json"
+-    },
+-    {
+-      "id": "sheets:Toolkit",
+-      "path": "data/sheets/Toolkit.json"
+-    },
+-    {
+-      "id": "sheets:Unit Price",
+-      "path": "data/sheets/Unit Price.json"
+-    },
+-    {
+-      "id": "sheets:Unit Pricing Calculations",
+-      "path": "data/sheets/Unit Pricing Calculations.json"
+-    },
+-    {
+-      "id": "sheets:World Cost tables",
+-      "path": "data/sheets/World Cost tables.json"
+-    },
+-    {
+-      "id": "sheets:World Currency Table",
+-      "path": "data/sheets/World Currency Table.json"
+-    },
+-    {
+-      "id": "sheets:WPA",
+-      "path": "data/sheets/WPA.json"
+-    }
+-  ],
+-  "ui": [],
+-  "vba": [
+-    {
+-      "id": "vba:modExRateAPI",
+-      "module": "modExRateAPI",
+-      "path": "data/vba/modExRateAPI.bas",
+-      "procedures": [
+-        {
+-          "kind": "Sub",
+-          "name": "GetExchangeRates_ExchangeRateAPI"
+-        },
+-        {
+-          "kind": "Function",
+-          "name": "GetCurrencyForCountry"
+-        },
+-        {
+-          "kind": "Sub",
+-          "name": "FormatCurrencyRates"
+-        }
+-      ],
+-      "type": "vba_module"
+-    },
+-    {
+-      "id": "vba:modGeceExport",
+-      "module": "modGeceExport",
+-      "path": "data/vba/modGeceExport.bas",
+-      "procedures": [],
+-      "type": "vba_module"
+-    },
+-    {
+-      "id": "vba:modImport",
+-      "module": "modImport",
+-      "path": "data/vba/modImport.bas",
+-      "procedures": [
+-        {
+-          "kind": "Sub",
+-          "name": "ImportApplicationBasedSheet_428"
+-        },
+-        {
+-          "kind": "Sub",
+-          "name": "ImportApplicationBasedSheet_428_part2"
+-        },
+-        {
+-          "kind": "Sub",
+-          "name": "ImportApplicationBasedSheet"
+-        },
+-        {
+-          "kind": "Sub",
+-          "name": "ImportAssumptionsProposalSheet"
+-        },
+-        {
+-          "kind": "Sub",
+-          "name": "ImportDataEntrySheet"
+-        }
+-      ],
+-      "type": "vba_module"
+-    },
+-    {
+-      "id": "vba:modMain",
+-      "module": "modMain",
+-      "path": "data/vba/modMain.bas",
+-      "procedures": [
+-        {
+-          "kind": "Sub",
+-          "name": "UpdateSummaryPage"
+-        },
+-        {
+-          "kind": "Sub",
+-          "name": "SetUnitLabels"
+-        },
+-        {
+-          "kind": "Function",
+-          "name": "ModPctPossible"
+-        },
+-        {
+-          "kind": "Function",
+-          "name": "NewRemotePercentage"
+-        }
+-      ],
+-      "type": "vba_module"
+-    },
+-    {
+-      "id": "vba:modRTFPrintFromExcel",
+-      "module": "modRTFPrintFromExcel",
+-      "path": "data/vba/modRTFPrintFromExcel.bas",
+-      "procedures": [
+-        {
+-          "kind": "Function",
+-          "name": "NamedRangeExists"
+-        },
+-        {
+-          "kind": "Function",
+-          "name": "GetField"
+-        },
+-        {
+-          "kind": "Sub",
+-          "name": "Table_DataEntry"
+-        },
+-        {
+-          "kind": "Sub",
+-          "name": "Table_AssumptionsProposal"
+-        },
+-        {
+-          "kind": "Sub",
+-          "name": "Table_ApplicationBased"
+-        },
+-        {
+-          "kind": "Sub",
+-          "name": "Table_DurationBased"
+-        },
+-        {
+-          "kind": "Sub",
+-          "name": "Table_TaskBased"
+-        },
+-        {
+-          "kind": "Sub",
+-          "name": "Table_PriceMakeUp"
+-        },
+-        {
+-          "kind": "Sub",
+-          "name": "Table_APPOverRides"
+-        },
+-        {
+-          "kind": "Sub",
+-          "name": "Table_CourseOverRides"
+-        },
+-        {
+-          "kind": "Sub",
+-          "name": "Table_CPOverRides"
+-        },
+-        {
+-          "kind": "Sub",
+-          "name": "Table_DIOverRides"
+-        },
+-        {
+-          "kind": "Sub",
+-          "name": "Table_DOCOverRides"
+-        },
+-        {
+-          "kind": "Sub",
+-          "name": "Table_ESDOverRides"
+-        },
+-        {
+-          "kind": "Sub",
+-          "name": "Table_FATOverRides"
+-        },
+-        {
+-          "kind": "Sub",
+-          "name": "Table_HMIOverRides"
+-        },
+-        {
+-          "kind": "Sub",
+-          "name": "Table_PMOverRides"
+-        },
+-        {
+-          "kind": "Sub",
+-          "name": "Table_SITEOverRides"
+-        },
+-        {
+-          "kind": "Sub",
+-          "name": "Table_Spec_OverRide"
+-        },
+-        {
+-          "kind": "Sub",
+-          "name": "Table_SystemOverRides"
+-        },
+-        {
+-          "kind": "Sub",
+-          "name": "Table_TLOverRides"
+-        },
+-        {
+-          "kind": "Sub",
+-          "name": "Table_PROPOSAL_SUMMARY_APP"
+-        },
+-        {
+-          "kind": "Sub",
+-          "name": "Table_PROPOSAL_SUMMARY_COURSE"
+-        },
+-        {
+-          "kind": "Sub",
+-          "name": "Table_PROPOSAL_SUMMARY_CP"
+-        },
+-        {
+-          "kind": "Sub",
+-          "name": "Table_PROPOSAL_SUMMARY_DI"
+-        },
+-        {
+-          "kind": "Sub",
+-          "name": "Table_PROPOSAL_SUMMARY_DOCS"
+-        },
+-        {
+-          "kind": "Sub",
+-          "name": "Table_PROPOSAL_SUMMARY_ESD"
+-        },
+-        {
+-          "kind": "Sub",
+-          "name": "Table_PROPOSAL_SUMMARY_HIST_POINTS"
+-        },
+-        {
+-          "kind": "Sub",
+-          "name": "Table_PROPOSAL_SUMMARY_HMI"
+-        },
+-        {
+-          "kind": "Sub",
+-          "name": "Table_PROPOSAL_SUMMARY_MEETING"
+-        },
+-        {
+-          "kind": "Sub",
+-          "name": "Table_PROPOSAL_SUMMARY_REPORTS"
+-        },
+-        {
+-          "kind": "Sub",
+-          "name": "Table_PROPOSAL_SUMMARY_TL"
+-        },
+-        {
+-          "kind": "Sub",
+-          "name": "Table_Report_Override"
+-        },
+-        {
+-          "kind": "Function",
+-          "name": "CreatePATfile"
+-        },
+-        {
+-          "kind": "Function",
+-          "name": "SaveReplace"
+-        },
+-        {
+-          "kind": "Function",
+-          "name": "MyDocumentsFolder"
+-        }
+-      ],
+-      "type": "vba_module"
+-    },
+-    {
+-      "id": "vba:modSched",
+-      "module": "modSched",
+-      "path": "data/vba/modSched.bas",
+-      "procedures": [],
+-      "type": "vba_module"
+-    },
+-    {
+-      "id": "vba:xmlMod",
+-      "module": "xmlMod",
+-      "path": "data/vba/xmlMod.bas",
+-      "procedures": [
+-        {
+-          "kind": "Sub",
+-          "name": "ExportAssumptionsProposalSheet"
+-        },
+-        {
+-          "kind": "Sub",
+-          "name": "ExportDurationBasedSheet"
+-        },
+-        {
+-          "kind": "Sub",
+-          "name": "ExportTaskBasedSheet"
+-        },
+-        {
+-          "kind": "Sub",
+-          "name": "ExportApplicationBasedSheet"
+-        }
+-      ],
+-      "type": "vba_module"
+-    }
+-  ]
++  "sheets": []
+ }

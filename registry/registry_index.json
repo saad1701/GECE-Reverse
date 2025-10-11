@@ -1,54 +1,14 @@
 [
   {
-    "bucket": "sheets",
-    "path": "data/sheets/Application Based.json",
-    "registry_ref": "sheet:Application Based",
-    "canonical_id": "sheet:Application Based",
-    "type": "sheet",
-    "name": "Application Based",
-    "owner": "data-team",
+    "canonical_id": "module:unknown",
+    "name": "unknown",
+    "type": "module",
+    "path": null,
+    "owner": "vba-team",
     "tags": [
-      "sheet"
+      "module",
+      "phase8"
     ],
-    "source": "registry/registry_patch.json"
-  },
-  {
-    "bucket": "sheets",
-    "path": "data/sheets/Assumptions - Proposal infos.json",
-    "registry_ref": "sheet:Assumptions - Proposal infos",
-    "canonical_id": "sheet:Assumptions - Proposal infos",
-    "type": "sheet",
-    "name": "Assumptions - Proposal infos",
-    "owner": "data-team",
-    "tags": [
-      "sheet"
-    ],
-    "source": "registry/registry_patch.json"
-  },
-  {
-    "bucket": "sheets",
-    "path": "data/sheets/CoverSheet.json",
-    "registry_ref": "sheet:CoverSheet",
-    "canonical_id": "sheet:CoverSheet",
-    "type": "sheet",
-    "name": "CoverSheet",
-    "owner": "data-team",
-    "tags": [
-      "sheet"
-    ],
-    "source": "registry/registry_patch.json"
-  },
-  {
-    "bucket": "sheets",
-    "path": "data/sheets/CurrencyUpdate.json",
-    "registry_ref": "sheet:CurrencyUpdate",
-    "canonical_id": "sheet:CurrencyUpdate",
-    "type": "sheet",
-    "name": "CurrencyUpdate",
-    "owner": "data-team",
-    "tags": [
-      "sheet"
-    ],
-    "source": "registry/registry_patch.json"
+    "version": "0.8.0"
   }
 ]
