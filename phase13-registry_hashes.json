@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2025-10-12T17:11:11.944359Z",
+  "generated_utc": "2025-10-12T18:19:19.478165Z",
   "files": [
     {
       "path": "manifest/data_map.json",
@@ -13,48 +13,48 @@
     },
     {
       "path": "manifest/manifest_curr.json",
-      "size": 8695,
-      "sha256": "e4307a368117f6622e8608283681bfcd1489280b5e328e23b86ebc50d8bc2434"
+      "size": 710,
+      "sha256": "f30911aa60985ad9a22fb2b1d49db4f4095822b9ebe70548e6b19cb9dcd1197e"
     },
     {
       "path": "manifest/manifest_diff.json",
-      "size": 10755,
-      "sha256": "4e38ebc5ab872ca7d8eb9be8b6a6a6bb54f22c937c5418cc1a7656ad7795408f"
+      "size": 10753,
+      "sha256": "4cb1b3262309a0991419506138bb9f08b2ba974238e19799af673a2c90bed6a4"
     },
     {
       "path": "manifest/manifest_readme.md",
-      "size": 420,
-      "sha256": "75e1e6c9f46abb39ca2dd6343f7627606cab48944dcc4898e9c18356ea173d64"
+      "size": 409,
+      "sha256": "3e3fd3d45da921c5e6e2b244df053b0dbdfede683a40163db35e819ec6336df5"
     },
     {
       "path": "manifest/manifest_readme_addition.md",
-      "size": 412,
-      "sha256": "de232fd3ccd589bba07205cf1cb2b7ae3bcd0180a9084f7db144f9a20f371d21"
+      "size": 408,
+      "sha256": "3ac6ad4fde696090f8a68a0b81bd5d40e0015a302019b34122bbfb7e87d41e5f"
     },
     {
       "path": "manifest/manifest_report.html",
-      "size": 327,
-      "sha256": "9222839438c4442902f596c5eaab641600abbcac988558f34ee20d4d1d17bd11"
+      "size": 321,
+      "sha256": "b6cbc35b2269730ac0658e3b5e2a55bb03b539a0e11aac4a808c723068bc69a7"
     },
     {
       "path": "manifest/rules/breaking_rules.yml",
-      "size": 380,
-      "sha256": "11cb1d6be3a3dfe87efb5ef1b2e120aab3f3465c0a2bb8899108869dc03383d9"
+      "size": 366,
+      "sha256": "d3d6afbeafbbab9e3194dd787be24f3b4391b3f5767668595d6e3955d9269590"
     },
     {
       "path": "manifest/schema/data_map.schema.json",
-      "size": 1418,
-      "sha256": "6f9c186a5e86634712dd5dac9f34e902b15833983a162256a2358e9eb4bc0b24"
+      "size": 1354,
+      "sha256": "92f94811da6733817e9e2bbaf7c12b66259aac74b423dbec6c5924b1d7f14ff1"
     },
     {
       "path": "manifest/schema/logic_map.schema.json",
-      "size": 1840,
-      "sha256": "4f59ba2e61958ff49d86ff27d9993ff8d80d80d6452117d2512948480729c4c1"
+      "size": 1761,
+      "sha256": "4a8f792723dfd01e2148e3e0df3294b031c8f51103df788c8548aa1034e2acf1"
     },
     {
       "path": "manifest/schema/ui_map.schema.json",
-      "size": 1154,
-      "sha256": "e68931935d93507d628523d1e5323cd8b2f1ede0f5a920765df9d8ee214a34fd"
+      "size": 1116,
+      "sha256": "ad1cb90ecbd42da7cd93756cd1c2735a362dc8223c114138e162e3a2c6ba449f"
     },
     {
       "path": "manifest/ui_map.json",
@@ -68,13 +68,13 @@
     },
     {
       "path": "registry/registry_audit_findings.json",
-      "size": 944,
-      "sha256": "454ff12893c86d29f23bf166cc776f7df3c509b8f46ea61ac6bc55090e2e319d"
+      "size": 908,
+      "sha256": "a363ae66002c96efe6a7669757d22cc149554c43ca3e7faf6dbd87b02e28502e"
     },
     {
       "path": "registry/registry_conflicts.json",
-      "size": 61,
-      "sha256": "8518b7435c3689d27839a58ad2a822d0e7824b93392042a0c8d5414253e98e23"
+      "size": 57,
+      "sha256": "c65ca01eccd4fda33657ac7cf9b03a3752b0a4dc422af83f40fa7f6b6eeea7a9"
     },
     {
       "path": "registry/registry_crossmap.json",
@@ -88,8 +88,8 @@
     },
     {
       "path": "registry/registry_integrity_report.md",
-      "size": 768,
-      "sha256": "423cd62cdea40b409ac7de303f67a731bb1d554090c4069e2fda162f12bf08ac"
+      "size": 741,
+      "sha256": "75734d288f05d8cfe6add5e2c51c8d46a289d70decd748f69cb4983f48bb3957"
     },
     {
       "path": "registry/registry_links_merged.json",
@@ -98,43 +98,43 @@
     },
     {
       "path": "registry/registry_merge_patch.json",
-      "size": 1071,
-      "sha256": "8f93f52cbb579f6e872b1a7e499fd2550d93e8b689bb060a588ee9cf0c55db7f"
+      "size": 1016,
+      "sha256": "abae4bd65e114a0de512d0efac631b848152fe50ba14da5723cd2d85c539bf8d"
     },
     {
       "path": "registry/registry_merge_report.md",
-      "size": 292,
-      "sha256": "9b19d3216244cfbedbf8353a0f09dd1d24197e58e890725c181c48e255e99da0"
+      "size": 283,
+      "sha256": "c81a66c858341dad34f7c1158eb59860f320e40dbbaea5420fa99dbf3eb65631"
     },
     {
       "path": "registry/registry_orphans.md",
-      "size": 306,
-      "sha256": "0bac74e71b27b9dc31f0fa9b229ae27f44e262fffdb57a61e4b141d3c2ff6630"
+      "size": 301,
+      "sha256": "53c4dbfa60c3bc235a6cc5f996a965fe444b4312783679cd97b9653a17906e1a"
     },
     {
       "path": "registry/registry_patch.json",
-      "size": 842,
-      "sha256": "7ff9d54844539d01e8c38325554edd0798ee81c617713a9207fb4e4b7dfeb4e1"
+      "size": 809,
+      "sha256": "89515bfb6214d4136c96f8a22539a421863ec2f94b6f9251093cb6ee45b3769d"
     },
     {
       "path": "registry/registry_review.md",
-      "size": 984,
-      "sha256": "8c3414f7c5c089defbf21eb02847b7376531dbf341be7f6b02a39ce5ae3dfd2d"
+      "size": 961,
+      "sha256": "9ffb849f234f197b3d0cd17df768253a407d1025869296c94e51d0980dc7e98b"
     },
     {
       "path": "registry/registry_todo_phase7.md",
-      "size": 105,
-      "sha256": "cffa57140ee5966bd6053ba6a77040d2aed42e99a3ce915fa3375158ed23acf2"
+      "size": 104,
+      "sha256": "33ac2e6335c3af6904c2fe79353dfa8fd3c3520ef24aa7badf287a48f9739044"
     },
     {
       "path": "registry/registry_validation_log.txt",
-      "size": 209,
-      "sha256": "57d64b3fe029750f4ea7bfdbbfce191dc9ee9a8d77ff21814edb798d9694cb5a"
+      "size": 206,
+      "sha256": "3211e69596b0fb2c89fbb5dbb7981061c549c68b98d9516b5b91b99354558c04"
     },
     {
       "path": "registry/registry_validation_report.md",
-      "size": 71,
-      "sha256": "d616a1f73bc37296f7a8364617671dd240f4ceca235b57256b37c1a8c94cdf2a"
+      "size": 68,
+      "sha256": "e4e516450d2cdc9e63642bbb788492bdf2c715c9e9780ac65aa2181df3973d64"
     }
   ]
 }
