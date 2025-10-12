@@ -8,6 +8,8 @@ on:
 jobs:
   validate:
     runs-on: ubuntu-latest
+    env:
+      GECE_SKIP_REBUILD: "1"   # don't rebuild in CI; compare to frozen baseline
 
     steps:
       - name: Checkout
@@ -25,13 +27,11 @@ jobs:
           [ -f phase13-registry_hashes.json ] || python scripts/gen_revstate.py
 
       - name: Drift check
-        run: |
-          python scripts/check_drift.py
+        run: python scripts/check_drift.py
 
       - name: Pack artifact
         if: always()
-        run: |
-          zip -r phase13-release-artifact.zip manifest registry REVSTATE.md phase13-registry_hashes.json || true
+        run: zip -r phase13-release-artifact.zip manifest registry REVSTATE.md phase13-registry_hashes.json || true
 
       - name: Upload artifact
         if: always()
