@@ -1,26 +1,38 @@
 name: Reverse Validate (Phase 13)
+
 on:
   push:
-    branches: [ "**" ]
+    branches: ["**"]
   pull_request:
+
 jobs:
   validate:
     runs-on: ubuntu-latest
+
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
         with:
           python-version: "3.11"
+
+      # Do NOT overwrite the committed baseline; only create it if missing
       - name: Generate REVSTATE (if missing)
         run: |
-          python scripts/gen_revstate.py || true
+          [ -f REVSTATE.md ] || python scripts/gen_revstate.py
+          [ -f phase13-registry_hashes.json ] || python scripts/gen_revstate.py
+
       - name: Drift check
         run: |
           python scripts/check_drift.py
+
       - name: Pack artifact
         if: always()
         run: |
           zip -r phase13-release-artifact.zip manifest registry REVSTATE.md phase13-registry_hashes.json || true
+
       - name: Upload artifact
         if: always()
         uses: actions/upload-artifact@v4
