@@ -1,0 +1,1 @@
+fix(phase14): align manifest + registry with CI regenerated format
