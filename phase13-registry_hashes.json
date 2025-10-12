@@ -1,4 +1,140 @@
 {
-  "generated_utc": "PLACEHOLDER",
-  "files": []
+  "generated_utc": "2025-10-12T17:11:11.944359Z",
+  "files": [
+    {
+      "path": "manifest/data_map.json",
+      "size": 134,
+      "sha256": "838894cbc1f9ee7fc0c60259b5316501a861a5b309c5eb67a6b580077b68d6a9"
+    },
+    {
+      "path": "manifest/logic_map.json",
+      "size": 157898,
+      "sha256": "b4a4d699829a676590569556ce7c90168327196b37b38505b873214d5585a70c"
+    },
+    {
+      "path": "manifest/manifest_curr.json",
+      "size": 8695,
+      "sha256": "e4307a368117f6622e8608283681bfcd1489280b5e328e23b86ebc50d8bc2434"
+    },
+    {
+      "path": "manifest/manifest_diff.json",
+      "size": 10755,
+      "sha256": "4e38ebc5ab872ca7d8eb9be8b6a6a6bb54f22c937c5418cc1a7656ad7795408f"
+    },
+    {
+      "path": "manifest/manifest_readme.md",
+      "size": 420,
+      "sha256": "75e1e6c9f46abb39ca2dd6343f7627606cab48944dcc4898e9c18356ea173d64"
+    },
+    {
+      "path": "manifest/manifest_readme_addition.md",
+      "size": 412,
+      "sha256": "de232fd3ccd589bba07205cf1cb2b7ae3bcd0180a9084f7db144f9a20f371d21"
+    },
+    {
+      "path": "manifest/manifest_report.html",
+      "size": 327,
+      "sha256": "9222839438c4442902f596c5eaab641600abbcac988558f34ee20d4d1d17bd11"
+    },
+    {
+      "path": "manifest/rules/breaking_rules.yml",
+      "size": 380,
+      "sha256": "11cb1d6be3a3dfe87efb5ef1b2e120aab3f3465c0a2bb8899108869dc03383d9"
+    },
+    {
+      "path": "manifest/schema/data_map.schema.json",
+      "size": 1418,
+      "sha256": "6f9c186a5e86634712dd5dac9f34e902b15833983a162256a2358e9eb4bc0b24"
+    },
+    {
+      "path": "manifest/schema/logic_map.schema.json",
+      "size": 1840,
+      "sha256": "4f59ba2e61958ff49d86ff27d9993ff8d80d80d6452117d2512948480729c4c1"
+    },
+    {
+      "path": "manifest/schema/ui_map.schema.json",
+      "size": 1154,
+      "sha256": "e68931935d93507d628523d1e5323cd8b2f1ede0f5a920765df9d8ee214a34fd"
+    },
+    {
+      "path": "manifest/ui_map.json",
+      "size": 163,
+      "sha256": "4b5971ec7456f872536c233dfa31373cfce8eb85dfda641eeaabefd0b4d894a6"
+    },
+    {
+      "path": "registry/components.json",
+      "size": 355,
+      "sha256": "e04f7095846ff7d23cbdc88fabb4a55c2d98ee56a704a2284965585313d4e03e"
+    },
+    {
+      "path": "registry/registry_audit_findings.json",
+      "size": 944,
+      "sha256": "454ff12893c86d29f23bf166cc776f7df3c509b8f46ea61ac6bc55090e2e319d"
+    },
+    {
+      "path": "registry/registry_conflicts.json",
+      "size": 61,
+      "sha256": "8518b7435c3689d27839a58ad2a822d0e7824b93392042a0c8d5414253e98e23"
+    },
+    {
+      "path": "registry/registry_crossmap.json",
+      "size": 79,
+      "sha256": "45c697b781b0c630b74e43f058bc1ea91990a40b33247a0c09b66b0536568404"
+    },
+    {
+      "path": "registry/registry_index.json",
+      "size": 212,
+      "sha256": "116ff7c75860580d31efeb971a0f3b63eed54bb8e1ad368b801692109e960abc"
+    },
+    {
+      "path": "registry/registry_integrity_report.md",
+      "size": 768,
+      "sha256": "423cd62cdea40b409ac7de303f67a731bb1d554090c4069e2fda162f12bf08ac"
+    },
+    {
+      "path": "registry/registry_links_merged.json",
+      "size": 166,
+      "sha256": "c997dbcdc72d05d4226f28d180654c83b32a7cf6aaa35078ce8c3c3de19224ac"
+    },
+    {
+      "path": "registry/registry_merge_patch.json",
+      "size": 1071,
+      "sha256": "8f93f52cbb579f6e872b1a7e499fd2550d93e8b689bb060a588ee9cf0c55db7f"
+    },
+    {
+      "path": "registry/registry_merge_report.md",
+      "size": 292,
+      "sha256": "9b19d3216244cfbedbf8353a0f09dd1d24197e58e890725c181c48e255e99da0"
+    },
+    {
+      "path": "registry/registry_orphans.md",
+      "size": 306,
+      "sha256": "0bac74e71b27b9dc31f0fa9b229ae27f44e262fffdb57a61e4b141d3c2ff6630"
+    },
+    {
+      "path": "registry/registry_patch.json",
+      "size": 842,
+      "sha256": "7ff9d54844539d01e8c38325554edd0798ee81c617713a9207fb4e4b7dfeb4e1"
+    },
+    {
+      "path": "registry/registry_review.md",
+      "size": 984,
+      "sha256": "8c3414f7c5c089defbf21eb02847b7376531dbf341be7f6b02a39ce5ae3dfd2d"
+    },
+    {
+      "path": "registry/registry_todo_phase7.md",
+      "size": 105,
+      "sha256": "cffa57140ee5966bd6053ba6a77040d2aed42e99a3ce915fa3375158ed23acf2"
+    },
+    {
+      "path": "registry/registry_validation_log.txt",
+      "size": 209,
+      "sha256": "57d64b3fe029750f4ea7bfdbbfce191dc9ee9a8d77ff21814edb798d9694cb5a"
+    },
+    {
+      "path": "registry/registry_validation_report.md",
+      "size": 71,
+      "sha256": "d616a1f73bc37296f7a8364617671dd240f4ceca235b57256b37c1a8c94cdf2a"
+    }
+  ]
 }
