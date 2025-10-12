@@ -1,1 +1,18 @@
 name: Reverse Validate (Phase 13)
+on:
+  push:
+    branches: ["**"]
+  pull_request: {}
+jobs:
+  reverse-validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with: { fetch-depth: 0 }
+      - run: |
+          git config --global core.autocrlf false
+          git config --global core.eol lf
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.11" }
+      - run: python scripts/gen_revstate.py --create-if-missing
+      - run: python scripts/check_drift.py --fail-on-drift

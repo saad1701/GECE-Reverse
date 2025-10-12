@@ -1,4 +1,17 @@
 {
-  "generated_utc": "PLACEHOLDER",
-  "files": []
+  "components.json": "e04f7095846ff7d23cbdc88fabb4a55c2d98ee56a704a2284965585313d4e03e",
+  "registry_audit_findings.json": "a363ae66002c96efe6a7669757d22cc149554c43ca3e7faf6dbd87b02e28502e",
+  "registry_conflicts.json": "c65ca01eccd4fda33657ac7cf9b03a3752b0a4dc422af83f40fa7f6b6eeea7a9",
+  "registry_crossmap.json": "45c697b781b0c630b74e43f058bc1ea91990a40b33247a0c09b66b0536568404",
+  "registry_index.json": "116ff7c75860580d31efeb971a0f3b63eed54bb8e1ad368b801692109e960abc",
+  "registry_integrity_report.md": "75734d288f05d8cfe6add5e2c51c8d46a289d70decd748f69cb4983f48bb3957",
+  "registry_links_merged.json": "c997dbcdc72d05d4226f28d180654c83b32a7cf6aaa35078ce8c3c3de19224ac",
+  "registry_merge_patch.json": "abae4bd65e114a0de512d0efac631b848152fe50ba14da5723cd2d85c539bf8d",
+  "registry_merge_report.md": "c81a66c858341dad34f7c1158eb59860f320e40dbbaea5420fa99dbf3eb65631",
+  "registry_orphans.md": "53c4dbfa60c3bc235a6cc5f996a965fe444b4312783679cd97b9653a17906e1a",
+  "registry_patch.json": "89515bfb6214d4136c96f8a22539a421863ec2f94b6f9251093cb6ee45b3769d",
+  "registry_review.md": "9ffb849f234f197b3d0cd17df768253a407d1025869296c94e51d0980dc7e98b",
+  "registry_todo_phase7.md": "33ac2e6335c3af6904c2fe79353dfa8fd3c3520ef24aa7badf287a48f9739044",
+  "registry_validation_log.txt": "3211e69596b0fb2c89fbb5dbb7981061c549c68b98d9516b5b91b99354558c04",
+  "registry_validation_report.md": "e4e516450d2cdc9e63642bbb788492bdf2c715c9e9780ac65aa2181df3973d64"
 }

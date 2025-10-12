@@ -1,0 +1,1107 @@
+import _frozen_importlib # frozen
+import _imp # builtin
+import '_thread' # <class '_frozen_importlib.BuiltinImporter'>
+import '_warnings' # <class '_frozen_importlib.BuiltinImporter'>
+import '_weakref' # <class '_frozen_importlib.BuiltinImporter'>
+import '_io' # <class '_frozen_importlib.BuiltinImporter'>
+import 'marshal' # <class '_frozen_importlib.BuiltinImporter'>
+import 'nt' # <class '_frozen_importlib.BuiltinImporter'>
+import 'winreg' # <class '_frozen_importlib.BuiltinImporter'>
+import '_frozen_importlib_external' # <class '_frozen_importlib.FrozenImporter'>
+# installing zipimport hook
+import 'time' # <class '_frozen_importlib.BuiltinImporter'>
+import 'zipimport' # <class '_frozen_importlib.FrozenImporter'>
+# installed zipimport hook
+import 'faulthandler' # <class '_frozen_importlib.BuiltinImporter'>
+# C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\encodings\__pycache__\__init__.cpython-39.pyc matches C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\encodings\__init__.py
+# code object from 'C:\\Users\\sendb\\AppData\\Local\\Programs\\Python\\Python39\\lib\\encodings\\__pycache__\\__init__.cpython-39.pyc'
+# C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\__pycache__\codecs.cpython-39.pyc matches C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\codecs.py
+# code object from 'C:\\Users\\sendb\\AppData\\Local\\Programs\\Python\\Python39\\lib\\__pycache__\\codecs.cpython-39.pyc'
+import '_codecs' # <class '_frozen_importlib.BuiltinImporter'>
+import 'codecs' # <_frozen_importlib_external.SourceFileLoader object at 0x000001E1B4FEF5F0>
+# C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\encodings\__pycache__\aliases.cpython-39.pyc matches C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\encodings\aliases.py
+# code object from 'C:\\Users\\sendb\\AppData\\Local\\Programs\\Python\\Python39\\lib\\encodings\\__pycache__\\aliases.cpython-39.pyc'
+import 'encodings.aliases' # <_frozen_importlib_external.SourceFileLoader object at 0x000001E1B50108C0>
+import 'encodings' # <_frozen_importlib_external.SourceFileLoader object at 0x000001E1B4FE1A00>
+# C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\encodings\__pycache__\utf_8.cpython-39.pyc matches C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\encodings\utf_8.py
+# code object from 'C:\\Users\\sendb\\AppData\\Local\\Programs\\Python\\Python39\\lib\\encodings\\__pycache__\\utf_8.cpython-39.pyc'
+import 'encodings.utf_8' # <_frozen_importlib_external.SourceFileLoader object at 0x000001E1B5025E10>
+# C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\encodings\__pycache__\cp1252.cpython-39.pyc matches C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\encodings\cp1252.py
+# code object from 'C:\\Users\\sendb\\AppData\\Local\\Programs\\Python\\Python39\\lib\\encodings\\__pycache__\\cp1252.cpython-39.pyc'
+import 'encodings.cp1252' # <_frozen_importlib_external.SourceFileLoader object at 0x000001E1B50293C0>
+import '_signal' # <class '_frozen_importlib.BuiltinImporter'>
+# C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\encodings\__pycache__\latin_1.cpython-39.pyc matches C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\encodings\latin_1.py
+# code object from 'C:\\Users\\sendb\\AppData\\Local\\Programs\\Python\\Python39\\lib\\encodings\\__pycache__\\latin_1.cpython-39.pyc'
+import 'encodings.latin_1' # <_frozen_importlib_external.SourceFileLoader object at 0x000001E1B5029D20>
+# C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\__pycache__\io.cpython-39.pyc matches C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\io.py
+# code object from 'C:\\Users\\sendb\\AppData\\Local\\Programs\\Python\\Python39\\lib\\__pycache__\\io.cpython-39.pyc'
+# C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\__pycache__\abc.cpython-39.pyc matches C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\abc.py
+# code object from 'C:\\Users\\sendb\\AppData\\Local\\Programs\\Python\\Python39\\lib\\__pycache__\\abc.cpython-39.pyc'
+import '_abc' # <class '_frozen_importlib.BuiltinImporter'>
+import 'abc' # <_frozen_importlib_external.SourceFileLoader object at 0x000001E1B5031730>
+import 'io' # <_frozen_importlib_external.SourceFileLoader object at 0x000001E1B5031230>
+# C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\__pycache__\warnings.cpython-39.pyc matches C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\warnings.py
+# code object from 'C:\\Users\\sendb\\AppData\\Local\\Programs\\Python\\Python39\\lib\\__pycache__\\warnings.cpython-39.pyc'
+import 'warnings' # <_frozen_importlib_external.SourceFileLoader object at 0x000001E1B5035B40>
+# C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\__pycache__\site.cpython-39.pyc matches C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\site.py
+# code object from 'C:\\Users\\sendb\\AppData\\Local\\Programs\\Python\\Python39\\lib\\__pycache__\\site.cpython-39.pyc'
+# C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\__pycache__\os.cpython-39.pyc matches C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\os.py
+# code object from 'C:\\Users\\sendb\\AppData\\Local\\Programs\\Python\\Python39\\lib\\__pycache__\\os.cpython-39.pyc'
+# C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\__pycache__\stat.cpython-39.pyc matches C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\stat.py
+# code object from 'C:\\Users\\sendb\\AppData\\Local\\Programs\\Python\\Python39\\lib\\__pycache__\\stat.cpython-39.pyc'
+import '_stat' # <class '_frozen_importlib.BuiltinImporter'>
+import 'stat' # <_frozen_importlib_external.SourceFileLoader object at 0x000001E1B505FEB0>
+# C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\__pycache__\_collections_abc.cpython-39.pyc matches C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\_collections_abc.py
+# code object from 'C:\\Users\\sendb\\AppData\\Local\\Programs\\Python\\Python39\\lib\\__pycache__\\_collections_abc.cpython-39.pyc'
+import '_collections_abc' # <_frozen_importlib_external.SourceFileLoader object at 0x000001E1B50630F0>
+# C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\__pycache__\ntpath.cpython-39.pyc matches C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\ntpath.py
+# code object from 'C:\\Users\\sendb\\AppData\\Local\\Programs\\Python\\Python39\\lib\\__pycache__\\ntpath.cpython-39.pyc'
+# C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\__pycache__\genericpath.cpython-39.pyc matches C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\genericpath.py
+# code object from 'C:\\Users\\sendb\\AppData\\Local\\Programs\\Python\\Python39\\lib\\__pycache__\\genericpath.cpython-39.pyc'
+import 'genericpath' # <_frozen_importlib_external.SourceFileLoader object at 0x000001E1B50A0550>
+import 'ntpath' # <_frozen_importlib_external.SourceFileLoader object at 0x000001E1B5066F50>
+import 'os' # <_frozen_importlib_external.SourceFileLoader object at 0x000001E1B504D640>
+# C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\__pycache__\_sitebuiltins.cpython-39.pyc matches C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\_sitebuiltins.py
+# code object from 'C:\\Users\\sendb\\AppData\\Local\\Programs\\Python\\Python39\\lib\\__pycache__\\_sitebuiltins.cpython-39.pyc'
+import '_sitebuiltins' # <_frozen_importlib_external.SourceFileLoader object at 0x000001E1B504DDC0>
+# C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\__pycache__\_bootlocale.cpython-39.pyc matches C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\_bootlocale.py
+# code object from 'C:\\Users\\sendb\\AppData\\Local\\Programs\\Python\\Python39\\lib\\__pycache__\\_bootlocale.cpython-39.pyc'
+import '_locale' # <class '_frozen_importlib.BuiltinImporter'>
+import '_bootlocale' # <_frozen_importlib_external.SourceFileLoader object at 0x000001E1B505D1E0>
+# C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\__pycache__\types.cpython-39.pyc matches C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\types.py
+# code object from 'C:\\Users\\sendb\\AppData\\Local\\Programs\\Python\\Python39\\lib\\__pycache__\\types.cpython-39.pyc'
+import 'types' # <_frozen_importlib_external.SourceFileLoader object at 0x000001E1B50B8820>
+# C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\importlib\__pycache__\__init__.cpython-39.pyc matches C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\importlib\__init__.py
+# code object from 'C:\\Users\\sendb\\AppData\\Local\\Programs\\Python\\Python39\\lib\\importlib\\__pycache__\\__init__.cpython-39.pyc'
+import 'importlib' # <_frozen_importlib_external.SourceFileLoader object at 0x000001E1B50BD960>
+# C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\importlib\__pycache__\util.cpython-39.pyc matches C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\importlib\util.py
+# code object from 'C:\\Users\\sendb\\AppData\\Local\\Programs\\Python\\Python39\\lib\\importlib\\__pycache__\\util.cpython-39.pyc'
+# C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\importlib\__pycache__\abc.cpython-39.pyc matches C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\importlib\abc.py
+# code object from 'C:\\Users\\sendb\\AppData\\Local\\Programs\\Python\\Python39\\lib\\importlib\\__pycache__\\abc.cpython-39.pyc'
+# C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\importlib\__pycache__\machinery.cpython-39.pyc matches C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\importlib\machinery.py
+# code object from 'C:\\Users\\sendb\\AppData\\Local\\Programs\\Python\\Python39\\lib\\importlib\\__pycache__\\machinery.cpython-39.pyc'
+import 'importlib.machinery' # <_frozen_importlib_external.SourceFileLoader object at 0x000001E1B50D8190>
+# C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\__pycache__\typing.cpython-39.pyc matches C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\typing.py
+# code object from 'C:\\Users\\sendb\\AppData\\Local\\Programs\\Python\\Python39\\lib\\__pycache__\\typing.cpython-39.pyc'
+# C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\collections\__pycache__\__init__.cpython-39.pyc matches C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\collections\__init__.py
+# code object from 'C:\\Users\\sendb\\AppData\\Local\\Programs\\Python\\Python39\\lib\\collections\\__pycache__\\__init__.cpython-39.pyc'
+# C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\__pycache__\heapq.cpython-39.pyc matches C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\heapq.py
+# code object from 'C:\\Users\\sendb\\AppData\\Local\\Programs\\Python\\Python39\\lib\\__pycache__\\heapq.cpython-39.pyc'
+import '_heapq' # <class '_frozen_importlib.BuiltinImporter'>
+import 'heapq' # <_frozen_importlib_external.SourceFileLoader object at 0x000001E1B51297D0>
+import 'itertools' # <class '_frozen_importlib.BuiltinImporter'>
+# C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\__pycache__\keyword.cpython-39.pyc matches C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\keyword.py
+# code object from 'C:\\Users\\sendb\\AppData\\Local\\Programs\\Python\\Python39\\lib\\__pycache__\\keyword.cpython-39.pyc'
+import 'keyword' # <_frozen_importlib_external.SourceFileLoader object at 0x000001E1B512EEB0>
+# C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\__pycache__\operator.cpython-39.pyc matches C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\operator.py
+# code object from 'C:\\Users\\sendb\\AppData\\Local\\Programs\\Python\\Python39\\lib\\__pycache__\\operator.cpython-39.pyc'
+import '_operator' # <class '_frozen_importlib.BuiltinImporter'>
+import 'operator' # <_frozen_importlib_external.SourceFileLoader object at 0x000001E1B513AB40>
+# C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\__pycache__\reprlib.cpython-39.pyc matches C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\reprlib.py
+# code object from 'C:\\Users\\sendb\\AppData\\Local\\Programs\\Python\\Python39\\lib\\__pycache__\\reprlib.cpython-39.pyc'
+import 'reprlib' # <_frozen_importlib_external.SourceFileLoader object at 0x000001E1B513DA50>
+import '_collections' # <class '_frozen_importlib.BuiltinImporter'>
+import 'collections' # <_frozen_importlib_external.SourceFileLoader object at 0x000001E1B51046E0>
+# C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\collections\__pycache__\abc.cpython-39.pyc matches C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\collections\abc.py
+# code object from 'C:\\Users\\sendb\\AppData\\Local\\Programs\\Python\\Python39\\lib\\collections\\__pycache__\\abc.cpython-39.pyc'
+import 'collections.abc' # <_frozen_importlib_external.SourceFileLoader object at 0x000001E1B5104FA0>
+# C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\__pycache__\contextlib.cpython-39.pyc matches C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\contextlib.py
+# code object from 'C:\\Users\\sendb\\AppData\\Local\\Programs\\Python\\Python39\\lib\\__pycache__\\contextlib.cpython-39.pyc'
+# C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\__pycache__\functools.cpython-39.pyc matches C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\functools.py
+# code object from 'C:\\Users\\sendb\\AppData\\Local\\Programs\\Python\\Python39\\lib\\__pycache__\\functools.cpython-39.pyc'
+import '_functools' # <class '_frozen_importlib.BuiltinImporter'>
+import 'functools' # <_frozen_importlib_external.SourceFileLoader object at 0x000001E1B58889B0>
+import 'contextlib' # <_frozen_importlib_external.SourceFileLoader object at 0x000001E1B5104F00>
+# C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\__pycache__\re.cpython-39.pyc matches C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\re.py
+# code object from 'C:\\Users\\sendb\\AppData\\Local\\Programs\\Python\\Python39\\lib\\__pycache__\\re.cpython-39.pyc'
+# C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\__pycache__\enum.cpython-39.pyc matches C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\enum.py
+# code object from 'C:\\Users\\sendb\\AppData\\Local\\Programs\\Python\\Python39\\lib\\__pycache__\\enum.cpython-39.pyc'
+import 'enum' # <_frozen_importlib_external.SourceFileLoader object at 0x000001E1B58AE690>
+# C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\__pycache__\sre_compile.cpython-39.pyc matches C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\sre_compile.py
+# code object from 'C:\\Users\\sendb\\AppData\\Local\\Programs\\Python\\Python39\\lib\\__pycache__\\sre_compile.cpython-39.pyc'
+import '_sre' # <class '_frozen_importlib.BuiltinImporter'>
+# C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\__pycache__\sre_parse.cpython-39.pyc matches C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\sre_parse.py
+# code object from 'C:\\Users\\sendb\\AppData\\Local\\Programs\\Python\\Python39\\lib\\__pycache__\\sre_parse.cpython-39.pyc'
+# C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\__pycache__\sre_constants.cpython-39.pyc matches C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\sre_constants.py
+# code object from 'C:\\Users\\sendb\\AppData\\Local\\Programs\\Python\\Python39\\lib\\__pycache__\\sre_constants.cpython-39.pyc'
+import 'sre_constants' # <_frozen_importlib_external.SourceFileLoader object at 0x000001E1B58E0190>
+import 'sre_parse' # <_frozen_importlib_external.SourceFileLoader object at 0x000001E1B58D05F0>
+import 'sre_compile' # <_frozen_importlib_external.SourceFileLoader object at 0x000001E1B58C3A50>
+# C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\__pycache__\copyreg.cpython-39.pyc matches C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\copyreg.py
+# code object from 'C:\\Users\\sendb\\AppData\\Local\\Programs\\Python\\Python39\\lib\\__pycache__\\copyreg.cpython-39.pyc'
+import 'copyreg' # <_frozen_importlib_external.SourceFileLoader object at 0x000001E1B58F16E0>
+import 're' # <_frozen_importlib_external.SourceFileLoader object at 0x000001E1B513FD20>
+import 'typing' # <_frozen_importlib_external.SourceFileLoader object at 0x000001E1B50D8690>
+import 'importlib.abc' # <_frozen_importlib_external.SourceFileLoader object at 0x000001E1B50C83C0>
+import 'importlib.util' # <_frozen_importlib_external.SourceFileLoader object at 0x000001E1B50BDF00>
+# possible namespace for C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\site-packages\google
+# C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\site-packages\win32\lib\__pycache__\pywin32_bootstrap.cpython-39.pyc matches C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\site-packages\win32\lib\pywin32_bootstrap.py
+# code object from 'C:\\Users\\sendb\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\win32\\lib\\__pycache__\\pywin32_bootstrap.cpython-39.pyc'
+# possible namespace for C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\site-packages\pywin32_system32
+import 'pywin32_system32' # <_frozen_importlib_external._NamespaceLoader object at 0x000001E1B50A6E10>
+import 'pywin32_bootstrap' # <_frozen_importlib_external.SourceFileLoader object at 0x000001E1B5932A50>
+import 'site' # <_frozen_importlib_external.SourceFileLoader object at 0x000001E1B503F730>
+Python 3.9.9 (tags/v3.9.9:ccb0e6a, Nov 15 2021, 18:08:50) [MSC v.1929 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license" for more information.
+# C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\json\__pycache__\__init__.cpython-39.pyc matches C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\json\__init__.py
+# code object from 'C:\\Users\\sendb\\AppData\\Local\\Programs\\Python\\Python39\\lib\\json\\__pycache__\\__init__.cpython-39.pyc'
+# C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\json\__pycache__\decoder.cpython-39.pyc matches C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\json\decoder.py
+# code object from 'C:\\Users\\sendb\\AppData\\Local\\Programs\\Python\\Python39\\lib\\json\\__pycache__\\decoder.cpython-39.pyc'
+# C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\json\__pycache__\scanner.cpython-39.pyc matches C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\json\scanner.py
+# code object from 'C:\\Users\\sendb\\AppData\\Local\\Programs\\Python\\Python39\\lib\\json\\__pycache__\\scanner.cpython-39.pyc'
+import '_json' # <class '_frozen_importlib.BuiltinImporter'>
+import 'json.scanner' # <_frozen_importlib_external.SourceFileLoader object at 0x000001E1B5948FA0>
+import 'json.decoder' # <_frozen_importlib_external.SourceFileLoader object at 0x000001E1B59484B0>
+# C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\json\__pycache__\encoder.cpython-39.pyc matches C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\json\encoder.py
+# code object from 'C:\\Users\\sendb\\AppData\\Local\\Programs\\Python\\Python39\\lib\\json\\__pycache__\\encoder.cpython-39.pyc'
+import 'json.encoder' # <_frozen_importlib_external.SourceFileLoader object at 0x000001E1B5940730>
+import 'json' # <_frozen_importlib_external.SourceFileLoader object at 0x000001E1B594A410>
+# C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\__pycache__\subprocess.cpython-39.pyc matches C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\subprocess.py
+# code object from 'C:\\Users\\sendb\\AppData\\Local\\Programs\\Python\\Python39\\lib\\__pycache__\\subprocess.cpython-39.pyc'
+import 'errno' # <class '_frozen_importlib.BuiltinImporter'>
+# C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\__pycache__\signal.cpython-39.pyc matches C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\signal.py
+# code object from 'C:\\Users\\sendb\\AppData\\Local\\Programs\\Python\\Python39\\lib\\__pycache__\\signal.cpython-39.pyc'
+import 'signal' # <_frozen_importlib_external.SourceFileLoader object at 0x000001E1B596E1E0>
+# C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\__pycache__\threading.cpython-39.pyc matches C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\threading.py
+# code object from 'C:\\Users\\sendb\\AppData\\Local\\Programs\\Python\\Python39\\lib\\__pycache__\\threading.cpython-39.pyc'
+# C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\__pycache__\_weakrefset.cpython-39.pyc matches C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\_weakrefset.py
+# code object from 'C:\\Users\\sendb\\AppData\\Local\\Programs\\Python\\Python39\\lib\\__pycache__\\_weakrefset.cpython-39.pyc'
+import '_weakrefset' # <_frozen_importlib_external.SourceFileLoader object at 0x000001E1B5988910>
+import 'threading' # <_frozen_importlib_external.SourceFileLoader object at 0x000001E1B596E3C0>
+import 'msvcrt' # <class '_frozen_importlib.BuiltinImporter'>
+import '_winapi' # <class '_frozen_importlib.BuiltinImporter'>
+import 'subprocess' # <_frozen_importlib_external.SourceFileLoader object at 0x000001E1B5953CD0>
+# C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\__pycache__\pathlib.cpython-39.pyc matches C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\pathlib.py
+# code object from 'C:\\Users\\sendb\\AppData\\Local\\Programs\\Python\\Python39\\lib\\__pycache__\\pathlib.cpython-39.pyc'
+# C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\__pycache__\fnmatch.cpython-39.pyc matches C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\fnmatch.py
+# code object from 'C:\\Users\\sendb\\AppData\\Local\\Programs\\Python\\Python39\\lib\\__pycache__\\fnmatch.cpython-39.pyc'
+# C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\__pycache__\posixpath.cpython-39.pyc matches C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\posixpath.py
+# code object from 'C:\\Users\\sendb\\AppData\\Local\\Programs\\Python\\Python39\\lib\\__pycache__\\posixpath.cpython-39.pyc'
+import 'posixpath' # <_frozen_importlib_external.SourceFileLoader object at 0x000001E1B59C4640>
+import 'fnmatch' # <_frozen_importlib_external.SourceFileLoader object at 0x000001E1B59BE910>
+# C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\urllib\__pycache__\__init__.cpython-39.pyc matches C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\urllib\__init__.py
+# code object from 'C:\\Users\\sendb\\AppData\\Local\\Programs\\Python\\Python39\\lib\\urllib\\__pycache__\\__init__.cpython-39.pyc'
+import 'urllib' # <_frozen_importlib_external.SourceFileLoader object at 0x000001E1B59CA6E0>
+# C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\urllib\__pycache__\parse.cpython-39.pyc matches C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\urllib\parse.py
+# code object from 'C:\\Users\\sendb\\AppData\\Local\\Programs\\Python\\Python39\\lib\\urllib\\__pycache__\\parse.cpython-39.pyc'
+import 'urllib.parse' # <_frozen_importlib_external.SourceFileLoader object at 0x000001E1B59CA7D0>
+import 'pathlib' # <_frozen_importlib_external.SourceFileLoader object at 0x000001E1B595DF50>
+# C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\__pycache__\hashlib.cpython-39.pyc matches C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\hashlib.py
+# code object from 'C:\\Users\\sendb\\AppData\\Local\\Programs\\Python\\Python39\\lib\\__pycache__\\hashlib.cpython-39.pyc'
+# C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\encodings\__pycache__\ascii.cpython-39.pyc matches C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\encodings\ascii.py
+# code object from 'C:\\Users\\sendb\\AppData\\Local\\Programs\\Python\\Python39\\lib\\encodings\\__pycache__\\ascii.cpython-39.pyc'
+import 'encodings.ascii' # <_frozen_importlib_external.SourceFileLoader object at 0x000001E1B59FCAA0>
+# extension module '_hashlib' loaded from 'C:\\Users\\sendb\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\_hashlib.pyd'
+# extension module '_hashlib' executed from 'C:\\Users\\sendb\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\_hashlib.pyd'
+import '_hashlib' # <_frozen_importlib_external.ExtensionFileLoader object at 0x000001E1B59FC690>
+import '_blake2' # <class '_frozen_importlib.BuiltinImporter'>
+import 'hashlib' # <_frozen_importlib_external.SourceFileLoader object at 0x000001E1B59665A0>
+import _frozen_importlib # frozen
+import _imp # builtin
+import '_thread' # <class '_frozen_importlib.BuiltinImporter'>
+import '_warnings' # <class '_frozen_importlib.BuiltinImporter'>
+import '_weakref' # <class '_frozen_importlib.BuiltinImporter'>
+import '_io' # <class '_frozen_importlib.BuiltinImporter'>
+import 'marshal' # <class '_frozen_importlib.BuiltinImporter'>
+import 'nt' # <class '_frozen_importlib.BuiltinImporter'>
+import 'winreg' # <class '_frozen_importlib.BuiltinImporter'>
+import '_frozen_importlib_external' # <class '_frozen_importlib.FrozenImporter'>
+# installing zipimport hook
+import 'time' # <class '_frozen_importlib.BuiltinImporter'>
+import 'zipimport' # <class '_frozen_importlib.FrozenImporter'>
+# installed zipimport hook
+# C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\encodings\__pycache__\__init__.cpython-39.pyc matches C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\encodings\__init__.py
+# code object from 'C:\\Users\\sendb\\AppData\\Local\\Programs\\Python\\Python39\\lib\\encodings\\__pycache__\\__init__.cpython-39.pyc'
+# C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\__pycache__\codecs.cpython-39.pyc matches C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\codecs.py
+# code object from 'C:\\Users\\sendb\\AppData\\Local\\Programs\\Python\\Python39\\lib\\__pycache__\\codecs.cpython-39.pyc'
+import '_codecs' # <class '_frozen_importlib.BuiltinImporter'>
+import 'codecs' # <_frozen_importlib_external.SourceFileLoader object at 0x000001713CF74880>
+# C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\encodings\__pycache__\aliases.cpython-39.pyc matches C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\encodings\aliases.py
+# code object from 'C:\\Users\\sendb\\AppData\\Local\\Programs\\Python\\Python39\\lib\\encodings\\__pycache__\\aliases.cpython-39.pyc'
+import 'encodings.aliases' # <_frozen_importlib_external.SourceFileLoader object at 0x000001713CF92DF0>
+import 'encodings' # <_frozen_importlib_external.SourceFileLoader object at 0x000001713CF74670>
+# C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\encodings\__pycache__\utf_8.cpython-39.pyc matches C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\encodings\utf_8.py
+# code object from 'C:\\Users\\sendb\\AppData\\Local\\Programs\\Python\\Python39\\lib\\encodings\\__pycache__\\utf_8.cpython-39.pyc'
+import 'encodings.utf_8' # <_frozen_importlib_external.SourceFileLoader object at 0x000001713CF74A90>
+# C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\encodings\__pycache__\cp1252.cpython-39.pyc matches C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\encodings\cp1252.py
+# code object from 'C:\\Users\\sendb\\AppData\\Local\\Programs\\Python\\Python39\\lib\\encodings\\__pycache__\\cp1252.cpython-39.pyc'
+import 'encodings.cp1252' # <_frozen_importlib_external.SourceFileLoader object at 0x000001713CF92EE0>
+import '_signal' # <class '_frozen_importlib.BuiltinImporter'>
+# C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\encodings\__pycache__\latin_1.cpython-39.pyc matches C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\encodings\latin_1.py
+# code object from 'C:\\Users\\sendb\\AppData\\Local\\Programs\\Python\\Python39\\lib\\encodings\\__pycache__\\latin_1.cpython-39.pyc'
+import 'encodings.latin_1' # <_frozen_importlib_external.SourceFileLoader object at 0x000001713CFAB280>
+# C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\__pycache__\io.cpython-39.pyc matches C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\io.py
+# code object from 'C:\\Users\\sendb\\AppData\\Local\\Programs\\Python\\Python39\\lib\\__pycache__\\io.cpython-39.pyc'
+# C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\__pycache__\abc.cpython-39.pyc matches C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\abc.py
+# code object from 'C:\\Users\\sendb\\AppData\\Local\\Programs\\Python\\Python39\\lib\\__pycache__\\abc.cpython-39.pyc'
+import '_abc' # <class '_frozen_importlib.BuiltinImporter'>
+import 'abc' # <_frozen_importlib_external.SourceFileLoader object at 0x000001713CFAB730>
+import 'io' # <_frozen_importlib_external.SourceFileLoader object at 0x000001713CFAB460>
+# C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\__pycache__\site.cpython-39.pyc matches C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\site.py
+# code object from 'C:\\Users\\sendb\\AppData\\Local\\Programs\\Python\\Python39\\lib\\__pycache__\\site.cpython-39.pyc'
+# C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\__pycache__\os.cpython-39.pyc matches C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\os.py
+# code object from 'C:\\Users\\sendb\\AppData\\Local\\Programs\\Python\\Python39\\lib\\__pycache__\\os.cpython-39.pyc'
+# C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\__pycache__\stat.cpython-39.pyc matches C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\stat.py
+# code object from 'C:\\Users\\sendb\\AppData\\Local\\Programs\\Python\\Python39\\lib\\__pycache__\\stat.cpython-39.pyc'
+import '_stat' # <class '_frozen_importlib.BuiltinImporter'>
+import 'stat' # <_frozen_importlib_external.SourceFileLoader object at 0x000001713D4CFFD0>
+# C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\__pycache__\_collections_abc.cpython-39.pyc matches C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\_collections_abc.py
+# code object from 'C:\\Users\\sendb\\AppData\\Local\\Programs\\Python\\Python39\\lib\\__pycache__\\_collections_abc.cpython-39.pyc'
+import '_collections_abc' # <_frozen_importlib_external.SourceFileLoader object at 0x000001713D4CFF70>
+# C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\__pycache__\ntpath.cpython-39.pyc matches C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\ntpath.py
+# code object from 'C:\\Users\\sendb\\AppData\\Local\\Programs\\Python\\Python39\\lib\\__pycache__\\ntpath.cpython-39.pyc'
+# C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\__pycache__\genericpath.cpython-39.pyc matches C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\genericpath.py
+# code object from 'C:\\Users\\sendb\\AppData\\Local\\Programs\\Python\\Python39\\lib\\__pycache__\\genericpath.cpython-39.pyc'
+import 'genericpath' # <_frozen_importlib_external.SourceFileLoader object at 0x000001713D4FF8B0>
+import 'ntpath' # <_frozen_importlib_external.SourceFileLoader object at 0x000001713D4D69A0>
+import 'os' # <_frozen_importlib_external.SourceFileLoader object at 0x000001713CFBF700>
+# C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\__pycache__\_sitebuiltins.cpython-39.pyc matches C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\_sitebuiltins.py
+# code object from 'C:\\Users\\sendb\\AppData\\Local\\Programs\\Python\\Python39\\lib\\__pycache__\\_sitebuiltins.cpython-39.pyc'
+import '_sitebuiltins' # <_frozen_importlib_external.SourceFileLoader object at 0x000001713D4CF3A0>
+# C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\__pycache__\_bootlocale.cpython-39.pyc matches C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\_bootlocale.py
+# code object from 'C:\\Users\\sendb\\AppData\\Local\\Programs\\Python\\Python39\\lib\\__pycache__\\_bootlocale.cpython-39.pyc'
+import '_locale' # <class '_frozen_importlib.BuiltinImporter'>
+import '_bootlocale' # <_frozen_importlib_external.SourceFileLoader object at 0x000001713D4FFC40>
+# C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\__pycache__\types.cpython-39.pyc matches C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\types.py
+# code object from 'C:\\Users\\sendb\\AppData\\Local\\Programs\\Python\\Python39\\lib\\__pycache__\\types.cpython-39.pyc'
+import 'types' # <_frozen_importlib_external.SourceFileLoader object at 0x000001713D5148E0>
+# C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\importlib\__pycache__\__init__.cpython-39.pyc matches C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\importlib\__init__.py
+# code object from 'C:\\Users\\sendb\\AppData\\Local\\Programs\\Python\\Python39\\lib\\importlib\\__pycache__\\__init__.cpython-39.pyc'
+# C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\__pycache__\warnings.cpython-39.pyc matches C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\warnings.py
+# code object from 'C:\\Users\\sendb\\AppData\\Local\\Programs\\Python\\Python39\\lib\\__pycache__\\warnings.cpython-39.pyc'
+import 'warnings' # <_frozen_importlib_external.SourceFileLoader object at 0x000001713D513220>
+import 'importlib' # <_frozen_importlib_external.SourceFileLoader object at 0x000001713D5140A0>
+# C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\importlib\__pycache__\util.cpython-39.pyc matches C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\importlib\util.py
+# code object from 'C:\\Users\\sendb\\AppData\\Local\\Programs\\Python\\Python39\\lib\\importlib\\__pycache__\\util.cpython-39.pyc'
+# C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\importlib\__pycache__\abc.cpython-39.pyc matches C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\importlib\abc.py
+# code object from 'C:\\Users\\sendb\\AppData\\Local\\Programs\\Python\\Python39\\lib\\importlib\\__pycache__\\abc.cpython-39.pyc'
+# C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\importlib\__pycache__\machinery.cpython-39.pyc matches C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\importlib\machinery.py
+# code object from 'C:\\Users\\sendb\\AppData\\Local\\Programs\\Python\\Python39\\lib\\importlib\\__pycache__\\machinery.cpython-39.pyc'
+import 'importlib.machinery' # <_frozen_importlib_external.SourceFileLoader object at 0x000001713D5345B0>
+# C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\__pycache__\typing.cpython-39.pyc matches C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\typing.py
+# code object from 'C:\\Users\\sendb\\AppData\\Local\\Programs\\Python\\Python39\\lib\\__pycache__\\typing.cpython-39.pyc'
+# C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\collections\__pycache__\__init__.cpython-39.pyc matches C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\collections\__init__.py
+# code object from 'C:\\Users\\sendb\\AppData\\Local\\Programs\\Python\\Python39\\lib\\collections\\__pycache__\\__init__.cpython-39.pyc'
+# C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\__pycache__\heapq.cpython-39.pyc matches C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\heapq.py
+# code object from 'C:\\Users\\sendb\\AppData\\Local\\Programs\\Python\\Python39\\lib\\__pycache__\\heapq.cpython-39.pyc'
+import '_heapq' # <class '_frozen_importlib.BuiltinImporter'>
+import 'heapq' # <_frozen_importlib_external.SourceFileLoader object at 0x000001713D7A6730>
+import 'itertools' # <class '_frozen_importlib.BuiltinImporter'>
+# C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\__pycache__\keyword.cpython-39.pyc matches C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\keyword.py
+# code object from 'C:\\Users\\sendb\\AppData\\Local\\Programs\\Python\\Python39\\lib\\__pycache__\\keyword.cpython-39.pyc'
+import 'keyword' # <_frozen_importlib_external.SourceFileLoader object at 0x000001713D7A6CA0>
+# C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\__pycache__\operator.cpython-39.pyc matches C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\operator.py
+# code object from 'C:\\Users\\sendb\\AppData\\Local\\Programs\\Python\\Python39\\lib\\__pycache__\\operator.cpython-39.pyc'
+import '_operator' # <class '_frozen_importlib.BuiltinImporter'>
+import 'operator' # <_frozen_importlib_external.SourceFileLoader object at 0x000001713D7A6D30>
+# C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\__pycache__\reprlib.cpython-39.pyc matches C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\reprlib.py
+# code object from 'C:\\Users\\sendb\\AppData\\Local\\Programs\\Python\\Python39\\lib\\__pycache__\\reprlib.cpython-39.pyc'
+import 'reprlib' # <_frozen_importlib_external.SourceFileLoader object at 0x000001713D7A6DF0>
+import '_collections' # <class '_frozen_importlib.BuiltinImporter'>
+import 'collections' # <_frozen_importlib_external.SourceFileLoader object at 0x000001713D789BB0>
+# C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\collections\__pycache__\abc.cpython-39.pyc matches C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\collections\abc.py
+# code object from 'C:\\Users\\sendb\\AppData\\Local\\Programs\\Python\\Python39\\lib\\collections\\__pycache__\\abc.cpython-39.pyc'
+import 'collections.abc' # <_frozen_importlib_external.SourceFileLoader object at 0x000001713D789F10>
+# C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\__pycache__\contextlib.cpython-39.pyc matches C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\contextlib.py
+# code object from 'C:\\Users\\sendb\\AppData\\Local\\Programs\\Python\\Python39\\lib\\__pycache__\\contextlib.cpython-39.pyc'
+# C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\__pycache__\functools.cpython-39.pyc matches C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\functools.py
+# code object from 'C:\\Users\\sendb\\AppData\\Local\\Programs\\Python\\Python39\\lib\\__pycache__\\functools.cpython-39.pyc'
+import '_functools' # <class '_frozen_importlib.BuiltinImporter'>
+import 'functools' # <_frozen_importlib_external.SourceFileLoader object at 0x000001713D7BB790>
+import 'contextlib' # <_frozen_importlib_external.SourceFileLoader object at 0x000001713D789D30>
+# C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\__pycache__\re.cpython-39.pyc matches C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\re.py
+# code object from 'C:\\Users\\sendb\\AppData\\Local\\Programs\\Python\\Python39\\lib\\__pycache__\\re.cpython-39.pyc'
+# C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\__pycache__\enum.cpython-39.pyc matches C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\enum.py
+# code object from 'C:\\Users\\sendb\\AppData\\Local\\Programs\\Python\\Python39\\lib\\__pycache__\\enum.cpython-39.pyc'
+import 'enum' # <_frozen_importlib_external.SourceFileLoader object at 0x000001713D7E7970>
+# C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\__pycache__\sre_compile.cpython-39.pyc matches C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\sre_compile.py
+# code object from 'C:\\Users\\sendb\\AppData\\Local\\Programs\\Python\\Python39\\lib\\__pycache__\\sre_compile.cpython-39.pyc'
+import '_sre' # <class '_frozen_importlib.BuiltinImporter'>
+# C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\__pycache__\sre_parse.cpython-39.pyc matches C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\sre_parse.py
+# code object from 'C:\\Users\\sendb\\AppData\\Local\\Programs\\Python\\Python39\\lib\\__pycache__\\sre_parse.cpython-39.pyc'
+# C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\__pycache__\sre_constants.cpython-39.pyc matches C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\sre_constants.py
+# code object from 'C:\\Users\\sendb\\AppData\\Local\\Programs\\Python\\Python39\\lib\\__pycache__\\sre_constants.cpython-39.pyc'
+import 'sre_constants' # <_frozen_importlib_external.SourceFileLoader object at 0x000001713D816220>
+import 'sre_parse' # <_frozen_importlib_external.SourceFileLoader object at 0x000001713D8077F0>
+import 'sre_compile' # <_frozen_importlib_external.SourceFileLoader object at 0x000001713D7F9F10>
+# C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\__pycache__\copyreg.cpython-39.pyc matches C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\copyreg.py
+# code object from 'C:\\Users\\sendb\\AppData\\Local\\Programs\\Python\\Python39\\lib\\__pycache__\\copyreg.cpython-39.pyc'
+import 'copyreg' # <_frozen_importlib_external.SourceFileLoader object at 0x000001713D820940>
+import 're' # <_frozen_importlib_external.SourceFileLoader object at 0x000001713D7A6580>
+import 'typing' # <_frozen_importlib_external.SourceFileLoader object at 0x000001713D534850>
+import 'importlib.abc' # <_frozen_importlib_external.SourceFileLoader object at 0x000001713D516700>
+import 'importlib.util' # <_frozen_importlib_external.SourceFileLoader object at 0x000001713D513EE0>
+# possible namespace for C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\site-packages\google
+# C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\site-packages\win32\lib\__pycache__\pywin32_bootstrap.cpython-39.pyc matches C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\site-packages\win32\lib\pywin32_bootstrap.py
+# code object from 'C:\\Users\\sendb\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\win32\\lib\\__pycache__\\pywin32_bootstrap.cpython-39.pyc'
+# possible namespace for C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\site-packages\pywin32_system32
+import 'pywin32_system32' # <_frozen_importlib_external._NamespaceLoader object at 0x000001713D85BA30>
+import 'pywin32_bootstrap' # <_frozen_importlib_external.SourceFileLoader object at 0x000001713D85BA00>
+import 'site' # <_frozen_importlib_external.SourceFileLoader object at 0x000001713CFABFD0>
+Python 3.9.9 (tags/v3.9.9:ccb0e6a, Nov 15 2021, 18:08:50) [MSC v.1929 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license" for more information.
+# C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\json\__pycache__\__init__.cpython-39.pyc matches C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\json\__init__.py
+# code object from 'C:\\Users\\sendb\\AppData\\Local\\Programs\\Python\\Python39\\lib\\json\\__pycache__\\__init__.cpython-39.pyc'
+# C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\json\__pycache__\decoder.cpython-39.pyc matches C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\json\decoder.py
+# code object from 'C:\\Users\\sendb\\AppData\\Local\\Programs\\Python\\Python39\\lib\\json\\__pycache__\\decoder.cpython-39.pyc'
+# C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\json\__pycache__\scanner.cpython-39.pyc matches C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\json\scanner.py
+# code object from 'C:\\Users\\sendb\\AppData\\Local\\Programs\\Python\\Python39\\lib\\json\\__pycache__\\scanner.cpython-39.pyc'
+import '_json' # <class '_frozen_importlib.BuiltinImporter'>
+import 'json.scanner' # <_frozen_importlib_external.SourceFileLoader object at 0x000001713D862850>
+import 'json.decoder' # <_frozen_importlib_external.SourceFileLoader object at 0x000001713D862AF0>
+# C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\json\__pycache__\encoder.cpython-39.pyc matches C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\json\encoder.py
+# code object from 'C:\\Users\\sendb\\AppData\\Local\\Programs\\Python\\Python39\\lib\\json\\__pycache__\\encoder.cpython-39.pyc'
+import 'json.encoder' # <_frozen_importlib_external.SourceFileLoader object at 0x000001713D8627F0>
+import 'json' # <_frozen_importlib_external.SourceFileLoader object at 0x000001713D862D00>
+# C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\__pycache__\pathlib.cpython-39.pyc matches C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\pathlib.py
+# code object from 'C:\\Users\\sendb\\AppData\\Local\\Programs\\Python\\Python39\\lib\\__pycache__\\pathlib.cpython-39.pyc'
+# C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\__pycache__\fnmatch.cpython-39.pyc matches C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\fnmatch.py
+# code object from 'C:\\Users\\sendb\\AppData\\Local\\Programs\\Python\\Python39\\lib\\__pycache__\\fnmatch.cpython-39.pyc'
+# C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\__pycache__\posixpath.cpython-39.pyc matches C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\posixpath.py
+# code object from 'C:\\Users\\sendb\\AppData\\Local\\Programs\\Python\\Python39\\lib\\__pycache__\\posixpath.cpython-39.pyc'
+import 'posixpath' # <_frozen_importlib_external.SourceFileLoader object at 0x000001713D83BD90>
+import 'fnmatch' # <_frozen_importlib_external.SourceFileLoader object at 0x000001713D534F70>
+import 'errno' # <class '_frozen_importlib.BuiltinImporter'>
+# C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\urllib\__pycache__\__init__.cpython-39.pyc matches C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\urllib\__init__.py
+# code object from 'C:\\Users\\sendb\\AppData\\Local\\Programs\\Python\\Python39\\lib\\urllib\\__pycache__\\__init__.cpython-39.pyc'
+import 'urllib' # <_frozen_importlib_external.SourceFileLoader object at 0x000001713D85BAF0>
+# C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\urllib\__pycache__\parse.cpython-39.pyc matches C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\urllib\parse.py
+# code object from 'C:\\Users\\sendb\\AppData\\Local\\Programs\\Python\\Python39\\lib\\urllib\\__pycache__\\parse.cpython-39.pyc'
+import 'urllib.parse' # <_frozen_importlib_external.SourceFileLoader object at 0x000001713D85B5B0>
+import 'pathlib' # <_frozen_importlib_external.SourceFileLoader object at 0x000001713D8625E0>
+# C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\encodings\__pycache__\utf_8_sig.cpython-39.pyc matches C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\encodings\utf_8_sig.py
+# code object from 'C:\\Users\\sendb\\AppData\\Local\\Programs\\Python\\Python39\\lib\\encodings\\__pycache__\\utf_8_sig.cpython-39.pyc'
+import 'encodings.utf_8_sig' # <_frozen_importlib_external.SourceFileLoader object at 0x000001713D8612B0>
+Traceback (most recent call last):
+  File "C:\GECE Rev.0\GECE-Reverse\tools\build_manifest.py", line 39, in <module>
+    print(f"\u2713 manifest_curr.json created with {len(sheets)} sheets, {len(vba)} vba modules, {len(forms)} forms")
+  File "C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+UnicodeEncodeError: 'charmap' codec can't encode character '\u2713' in position 0: character maps to <undefined>
+# clear builtins._
+# clear sys.path
+# clear sys.argv
+# clear sys.ps1
+# clear sys.ps2
+# clear sys.last_type
+# clear sys.last_value
+# clear sys.last_traceback
+# clear sys.path_hooks
+# clear sys.path_importer_cache
+# clear sys.meta_path
+# clear sys.__interactivehook__
+# restore sys.stdin
+# restore sys.stdout
+# restore sys.stderr
+# cleanup[2] removing sys
+# cleanup[2] removing builtins
+# cleanup[2] removing _frozen_importlib
+# cleanup[2] removing _imp
+# cleanup[2] removing _thread
+# cleanup[2] removing _warnings
+# cleanup[2] removing _weakref
+# cleanup[2] removing _io
+# cleanup[2] removing marshal
+# cleanup[2] removing nt
+# cleanup[2] removing winreg
+# cleanup[2] removing _frozen_importlib_external
+# cleanup[2] removing time
+# cleanup[2] removing zipimport
+# destroy zipimport
+# cleanup[2] removing _codecs
+# cleanup[2] removing codecs
+# cleanup[2] removing encodings.aliases
+# cleanup[2] removing encodings
+# destroy encodings
+# cleanup[2] removing encodings.utf_8
+# cleanup[2] removing encodings.cp1252
+# cleanup[2] removing _signal
+# cleanup[2] removing encodings.latin_1
+# cleanup[2] removing _abc
+# cleanup[2] removing abc
+# cleanup[2] removing io
+# cleanup[2] removing __main__
+# destroy __main__
+# cleanup[2] removing _stat
+# cleanup[2] removing stat
+# cleanup[2] removing _collections_abc
+# cleanup[2] removing genericpath
+# cleanup[2] removing ntpath
+# cleanup[2] removing os.path
+# cleanup[2] removing os
+# cleanup[2] removing _sitebuiltins
+# cleanup[2] removing _locale
+# cleanup[2] removing _bootlocale
+# destroy _bootlocale
+# cleanup[2] removing types
+# cleanup[2] removing importlib._bootstrap
+# cleanup[2] removing importlib._bootstrap_external
+# cleanup[2] removing warnings
+# cleanup[2] removing importlib
+# destroy importlib
+# cleanup[2] removing importlib.machinery
+# cleanup[2] removing _heapq
+# cleanup[2] removing heapq
+# cleanup[2] removing itertools
+# cleanup[2] removing keyword
+# destroy keyword
+# cleanup[2] removing _operator
+# cleanup[2] removing operator
+# cleanup[2] removing reprlib
+# destroy reprlib
+# cleanup[2] removing _collections
+# cleanup[2] removing collections
+# cleanup[2] removing collections.abc
+# cleanup[2] removing _functools
+# cleanup[2] removing functools
+# cleanup[2] removing contextlib
+# cleanup[2] removing enum
+# cleanup[2] removing _sre
+# cleanup[2] removing sre_constants
+# destroy sre_constants
+# cleanup[2] removing sre_parse
+# cleanup[2] removing sre_compile
+# cleanup[2] removing copyreg
+# cleanup[2] removing re
+# cleanup[2] removing typing
+# destroy typing
+# cleanup[2] removing importlib.abc
+# cleanup[2] removing importlib.util
+# cleanup[2] removing mpl_toolkits
+# destroy mpl_toolkits
+# cleanup[2] removing google
+# destroy google
+# cleanup[2] removing pywin32_system32
+# cleanup[2] removing pywin32_bootstrap
+# destroy pywin32_bootstrap
+# destroy pywin32_system32
+# cleanup[2] removing site
+# destroy site
+# cleanup[2] removing _json
+# cleanup[2] removing json.scanner
+# cleanup[2] removing json.decoder
+# cleanup[2] removing json.encoder
+# cleanup[2] removing json
+# cleanup[2] removing posixpath
+# cleanup[2] removing fnmatch
+# cleanup[2] removing errno
+# destroy errno
+# cleanup[2] removing urllib
+# destroy urllib
+# cleanup[2] removing urllib.parse
+# destroy urllib.parse
+# cleanup[2] removing pathlib
+# cleanup[2] removing encodings.utf_8_sig
+# destroy time
+# destroy json
+# destroy pathlib
+# destroy _sitebuiltins
+# destroy importlib.util
+# destroy importlib.abc
+# destroy importlib.machinery
+# destroy contextlib
+# destroy operator
+# destroy itertools
+# destroy abc
+# destroy json.decoder
+# destroy json.encoder
+# destroy fnmatch
+# destroy io
+# destroy _stat
+# destroy os
+# destroy stat
+# destroy genericpath
+# destroy types
+# destroy collections
+# destroy warnings
+# destroy ntpath
+# destroy posixpath
+# cleanup[3] wiping encodings.utf_8_sig
+# cleanup[3] wiping json.scanner
+# cleanup[3] wiping _json
+# cleanup[3] wiping re
+# destroy enum
+# destroy sre_compile
+# destroy functools
+# destroy copyreg
+# cleanup[3] wiping sre_parse
+# cleanup[3] wiping _sre
+# cleanup[3] wiping _functools
+# cleanup[3] wiping collections.abc
+# cleanup[3] wiping _collections
+# cleanup[3] wiping _operator
+# cleanup[3] wiping heapq
+# cleanup[3] wiping _heapq
+# destroy _heapq
+# cleanup[3] wiping importlib._bootstrap_external
+# cleanup[3] wiping importlib._bootstrap
+# destroy _frozen_importlib_external
+# cleanup[3] wiping _locale
+# destroy _locale
+# cleanup[3] wiping _collections_abc
+# cleanup[3] wiping _abc
+# cleanup[3] wiping encodings.latin_1
+# cleanup[3] wiping _signal
+# cleanup[3] wiping encodings.cp1252
+# cleanup[3] wiping encodings.utf_8
+# cleanup[3] wiping encodings.aliases
+# cleanup[3] wiping codecs
+# cleanup[3] wiping _codecs
+# cleanup[3] wiping winreg
+# cleanup[3] wiping nt
+# cleanup[3] wiping marshal
+# cleanup[3] wiping _io
+# cleanup[3] wiping _weakref
+# cleanup[3] wiping _warnings
+# cleanup[3] wiping _thread
+# cleanup[3] wiping _imp
+# destroy _imp
+# cleanup[3] wiping _frozen_importlib
+# cleanup[3] wiping sys
+# cleanup[3] wiping builtins
+# destroy _signal
+# destroy winreg
+# destroy marshal
+# destroy io
+# destroy _warnings
+# destroy nt
+# destroy _sre
+# destroy sre_parse
+# destroy _functools
+# destroy _collections_abc
+# destroy heapq
+# destroy _operator
+# destroy _weakref
+# destroy _collections
+# destroy collections.abc
+# destroy _thread
+# destroy _abc
+# destroy _frozen_importlib
+# clear sys.audit hooks
+import _frozen_importlib # frozen
+import _imp # builtin
+import '_thread' # <class '_frozen_importlib.BuiltinImporter'>
+import '_warnings' # <class '_frozen_importlib.BuiltinImporter'>
+import '_weakref' # <class '_frozen_importlib.BuiltinImporter'>
+import '_io' # <class '_frozen_importlib.BuiltinImporter'>
+import 'marshal' # <class '_frozen_importlib.BuiltinImporter'>
+import 'nt' # <class '_frozen_importlib.BuiltinImporter'>
+import 'winreg' # <class '_frozen_importlib.BuiltinImporter'>
+import '_frozen_importlib_external' # <class '_frozen_importlib.FrozenImporter'>
+# installing zipimport hook
+import 'time' # <class '_frozen_importlib.BuiltinImporter'>
+import 'zipimport' # <class '_frozen_importlib.FrozenImporter'>
+# installed zipimport hook
+# C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\encodings\__pycache__\__init__.cpython-39.pyc matches C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\encodings\__init__.py
+# code object from 'C:\\Users\\sendb\\AppData\\Local\\Programs\\Python\\Python39\\lib\\encodings\\__pycache__\\__init__.cpython-39.pyc'
+# C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\__pycache__\codecs.cpython-39.pyc matches C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\codecs.py
+# code object from 'C:\\Users\\sendb\\AppData\\Local\\Programs\\Python\\Python39\\lib\\__pycache__\\codecs.cpython-39.pyc'
+import '_codecs' # <class '_frozen_importlib.BuiltinImporter'>
+import 'codecs' # <_frozen_importlib_external.SourceFileLoader object at 0x00000144A23D4880>
+# C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\encodings\__pycache__\aliases.cpython-39.pyc matches C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\encodings\aliases.py
+# code object from 'C:\\Users\\sendb\\AppData\\Local\\Programs\\Python\\Python39\\lib\\encodings\\__pycache__\\aliases.cpython-39.pyc'
+import 'encodings.aliases' # <_frozen_importlib_external.SourceFileLoader object at 0x00000144A23F2DF0>
+import 'encodings' # <_frozen_importlib_external.SourceFileLoader object at 0x00000144A23D4670>
+# C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\encodings\__pycache__\utf_8.cpython-39.pyc matches C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\encodings\utf_8.py
+# code object from 'C:\\Users\\sendb\\AppData\\Local\\Programs\\Python\\Python39\\lib\\encodings\\__pycache__\\utf_8.cpython-39.pyc'
+import 'encodings.utf_8' # <_frozen_importlib_external.SourceFileLoader object at 0x00000144A23D4A90>
+# C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\encodings\__pycache__\cp1252.cpython-39.pyc matches C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\encodings\cp1252.py
+# code object from 'C:\\Users\\sendb\\AppData\\Local\\Programs\\Python\\Python39\\lib\\encodings\\__pycache__\\cp1252.cpython-39.pyc'
+import 'encodings.cp1252' # <_frozen_importlib_external.SourceFileLoader object at 0x00000144A23F2EE0>
+import '_signal' # <class '_frozen_importlib.BuiltinImporter'>
+# C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\encodings\__pycache__\latin_1.cpython-39.pyc matches C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\encodings\latin_1.py
+# code object from 'C:\\Users\\sendb\\AppData\\Local\\Programs\\Python\\Python39\\lib\\encodings\\__pycache__\\latin_1.cpython-39.pyc'
+import 'encodings.latin_1' # <_frozen_importlib_external.SourceFileLoader object at 0x00000144A240B280>
+# C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\__pycache__\io.cpython-39.pyc matches C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\io.py
+# code object from 'C:\\Users\\sendb\\AppData\\Local\\Programs\\Python\\Python39\\lib\\__pycache__\\io.cpython-39.pyc'
+# C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\__pycache__\abc.cpython-39.pyc matches C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\abc.py
+# code object from 'C:\\Users\\sendb\\AppData\\Local\\Programs\\Python\\Python39\\lib\\__pycache__\\abc.cpython-39.pyc'
+import '_abc' # <class '_frozen_importlib.BuiltinImporter'>
+import 'abc' # <_frozen_importlib_external.SourceFileLoader object at 0x00000144A240B730>
+import 'io' # <_frozen_importlib_external.SourceFileLoader object at 0x00000144A240B460>
+# C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\__pycache__\site.cpython-39.pyc matches C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\site.py
+# code object from 'C:\\Users\\sendb\\AppData\\Local\\Programs\\Python\\Python39\\lib\\__pycache__\\site.cpython-39.pyc'
+# C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\__pycache__\os.cpython-39.pyc matches C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\os.py
+# code object from 'C:\\Users\\sendb\\AppData\\Local\\Programs\\Python\\Python39\\lib\\__pycache__\\os.cpython-39.pyc'
+# C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\__pycache__\stat.cpython-39.pyc matches C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\stat.py
+# code object from 'C:\\Users\\sendb\\AppData\\Local\\Programs\\Python\\Python39\\lib\\__pycache__\\stat.cpython-39.pyc'
+import '_stat' # <class '_frozen_importlib.BuiltinImporter'>
+import 'stat' # <_frozen_importlib_external.SourceFileLoader object at 0x00000144A242FFD0>
+# C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\__pycache__\_collections_abc.cpython-39.pyc matches C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\_collections_abc.py
+# code object from 'C:\\Users\\sendb\\AppData\\Local\\Programs\\Python\\Python39\\lib\\__pycache__\\_collections_abc.cpython-39.pyc'
+import '_collections_abc' # <_frozen_importlib_external.SourceFileLoader object at 0x00000144A242FF70>
+# C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\__pycache__\ntpath.cpython-39.pyc matches C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\ntpath.py
+# code object from 'C:\\Users\\sendb\\AppData\\Local\\Programs\\Python\\Python39\\lib\\__pycache__\\ntpath.cpython-39.pyc'
+# C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\__pycache__\genericpath.cpython-39.pyc matches C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\genericpath.py
+# code object from 'C:\\Users\\sendb\\AppData\\Local\\Programs\\Python\\Python39\\lib\\__pycache__\\genericpath.cpython-39.pyc'
+import 'genericpath' # <_frozen_importlib_external.SourceFileLoader object at 0x00000144A245F8B0>
+import 'ntpath' # <_frozen_importlib_external.SourceFileLoader object at 0x00000144A24369A0>
+import 'os' # <_frozen_importlib_external.SourceFileLoader object at 0x00000144A2420700>
+# C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\__pycache__\_sitebuiltins.cpython-39.pyc matches C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\_sitebuiltins.py
+# code object from 'C:\\Users\\sendb\\AppData\\Local\\Programs\\Python\\Python39\\lib\\__pycache__\\_sitebuiltins.cpython-39.pyc'
+import '_sitebuiltins' # <_frozen_importlib_external.SourceFileLoader object at 0x00000144A242F3A0>
+# C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\__pycache__\_bootlocale.cpython-39.pyc matches C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\_bootlocale.py
+# code object from 'C:\\Users\\sendb\\AppData\\Local\\Programs\\Python\\Python39\\lib\\__pycache__\\_bootlocale.cpython-39.pyc'
+import '_locale' # <class '_frozen_importlib.BuiltinImporter'>
+import '_bootlocale' # <_frozen_importlib_external.SourceFileLoader object at 0x00000144A245FC40>
+# C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\__pycache__\types.cpython-39.pyc matches C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\types.py
+# code object from 'C:\\Users\\sendb\\AppData\\Local\\Programs\\Python\\Python39\\lib\\__pycache__\\types.cpython-39.pyc'
+import 'types' # <_frozen_importlib_external.SourceFileLoader object at 0x00000144A24748E0>
+# C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\importlib\__pycache__\__init__.cpython-39.pyc matches C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\importlib\__init__.py
+# code object from 'C:\\Users\\sendb\\AppData\\Local\\Programs\\Python\\Python39\\lib\\importlib\\__pycache__\\__init__.cpython-39.pyc'
+# C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\__pycache__\warnings.cpython-39.pyc matches C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\warnings.py
+# code object from 'C:\\Users\\sendb\\AppData\\Local\\Programs\\Python\\Python39\\lib\\__pycache__\\warnings.cpython-39.pyc'
+import 'warnings' # <_frozen_importlib_external.SourceFileLoader object at 0x00000144A2473220>
+import 'importlib' # <_frozen_importlib_external.SourceFileLoader object at 0x00000144A24740A0>
+# C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\importlib\__pycache__\util.cpython-39.pyc matches C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\importlib\util.py
+# code object from 'C:\\Users\\sendb\\AppData\\Local\\Programs\\Python\\Python39\\lib\\importlib\\__pycache__\\util.cpython-39.pyc'
+# C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\importlib\__pycache__\abc.cpython-39.pyc matches C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\importlib\abc.py
+# code object from 'C:\\Users\\sendb\\AppData\\Local\\Programs\\Python\\Python39\\lib\\importlib\\__pycache__\\abc.cpython-39.pyc'
+# C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\importlib\__pycache__\machinery.cpython-39.pyc matches C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\importlib\machinery.py
+# code object from 'C:\\Users\\sendb\\AppData\\Local\\Programs\\Python\\Python39\\lib\\importlib\\__pycache__\\machinery.cpython-39.pyc'
+import 'importlib.machinery' # <_frozen_importlib_external.SourceFileLoader object at 0x00000144A24945B0>
+# C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\__pycache__\typing.cpython-39.pyc matches C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\typing.py
+# code object from 'C:\\Users\\sendb\\AppData\\Local\\Programs\\Python\\Python39\\lib\\__pycache__\\typing.cpython-39.pyc'
+# C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\collections\__pycache__\__init__.cpython-39.pyc matches C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\collections\__init__.py
+# code object from 'C:\\Users\\sendb\\AppData\\Local\\Programs\\Python\\Python39\\lib\\collections\\__pycache__\\__init__.cpython-39.pyc'
+# C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\__pycache__\heapq.cpython-39.pyc matches C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\heapq.py
+# code object from 'C:\\Users\\sendb\\AppData\\Local\\Programs\\Python\\Python39\\lib\\__pycache__\\heapq.cpython-39.pyc'
+import '_heapq' # <class '_frozen_importlib.BuiltinImporter'>
+import 'heapq' # <_frozen_importlib_external.SourceFileLoader object at 0x00000144A24D6730>
+import 'itertools' # <class '_frozen_importlib.BuiltinImporter'>
+# C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\__pycache__\keyword.cpython-39.pyc matches C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\keyword.py
+# code object from 'C:\\Users\\sendb\\AppData\\Local\\Programs\\Python\\Python39\\lib\\__pycache__\\keyword.cpython-39.pyc'
+import 'keyword' # <_frozen_importlib_external.SourceFileLoader object at 0x00000144A24D6CA0>
+# C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\__pycache__\operator.cpython-39.pyc matches C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\operator.py
+# code object from 'C:\\Users\\sendb\\AppData\\Local\\Programs\\Python\\Python39\\lib\\__pycache__\\operator.cpython-39.pyc'
+import '_operator' # <class '_frozen_importlib.BuiltinImporter'>
+import 'operator' # <_frozen_importlib_external.SourceFileLoader object at 0x00000144A24D6D30>
+# C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\__pycache__\reprlib.cpython-39.pyc matches C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\reprlib.py
+# code object from 'C:\\Users\\sendb\\AppData\\Local\\Programs\\Python\\Python39\\lib\\__pycache__\\reprlib.cpython-39.pyc'
+import 'reprlib' # <_frozen_importlib_external.SourceFileLoader object at 0x00000144A24D6DF0>
+import '_collections' # <class '_frozen_importlib.BuiltinImporter'>
+import 'collections' # <_frozen_importlib_external.SourceFileLoader object at 0x00000144A24B9BB0>
+# C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\collections\__pycache__\abc.cpython-39.pyc matches C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\collections\abc.py
+# code object from 'C:\\Users\\sendb\\AppData\\Local\\Programs\\Python\\Python39\\lib\\collections\\__pycache__\\abc.cpython-39.pyc'
+import 'collections.abc' # <_frozen_importlib_external.SourceFileLoader object at 0x00000144A24B9F10>
+# C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\__pycache__\contextlib.cpython-39.pyc matches C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\contextlib.py
+# code object from 'C:\\Users\\sendb\\AppData\\Local\\Programs\\Python\\Python39\\lib\\__pycache__\\contextlib.cpython-39.pyc'
+# C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\__pycache__\functools.cpython-39.pyc matches C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\functools.py
+# code object from 'C:\\Users\\sendb\\AppData\\Local\\Programs\\Python\\Python39\\lib\\__pycache__\\functools.cpython-39.pyc'
+import '_functools' # <class '_frozen_importlib.BuiltinImporter'>
+import 'functools' # <_frozen_importlib_external.SourceFileLoader object at 0x00000144A2BFB790>
+import 'contextlib' # <_frozen_importlib_external.SourceFileLoader object at 0x00000144A24B9D30>
+# C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\__pycache__\re.cpython-39.pyc matches C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\re.py
+# code object from 'C:\\Users\\sendb\\AppData\\Local\\Programs\\Python\\Python39\\lib\\__pycache__\\re.cpython-39.pyc'
+# C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\__pycache__\enum.cpython-39.pyc matches C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\enum.py
+# code object from 'C:\\Users\\sendb\\AppData\\Local\\Programs\\Python\\Python39\\lib\\__pycache__\\enum.cpython-39.pyc'
+import 'enum' # <_frozen_importlib_external.SourceFileLoader object at 0x00000144A2C27970>
+# C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\__pycache__\sre_compile.cpython-39.pyc matches C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\sre_compile.py
+# code object from 'C:\\Users\\sendb\\AppData\\Local\\Programs\\Python\\Python39\\lib\\__pycache__\\sre_compile.cpython-39.pyc'
+import '_sre' # <class '_frozen_importlib.BuiltinImporter'>
+# C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\__pycache__\sre_parse.cpython-39.pyc matches C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\sre_parse.py
+# code object from 'C:\\Users\\sendb\\AppData\\Local\\Programs\\Python\\Python39\\lib\\__pycache__\\sre_parse.cpython-39.pyc'
+# C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\__pycache__\sre_constants.cpython-39.pyc matches C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\sre_constants.py
+# code object from 'C:\\Users\\sendb\\AppData\\Local\\Programs\\Python\\Python39\\lib\\__pycache__\\sre_constants.cpython-39.pyc'
+import 'sre_constants' # <_frozen_importlib_external.SourceFileLoader object at 0x00000144A2C56220>
+import 'sre_parse' # <_frozen_importlib_external.SourceFileLoader object at 0x00000144A2C477F0>
+import 'sre_compile' # <_frozen_importlib_external.SourceFileLoader object at 0x00000144A2C39F10>
+# C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\__pycache__\copyreg.cpython-39.pyc matches C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\copyreg.py
+# code object from 'C:\\Users\\sendb\\AppData\\Local\\Programs\\Python\\Python39\\lib\\__pycache__\\copyreg.cpython-39.pyc'
+import 'copyreg' # <_frozen_importlib_external.SourceFileLoader object at 0x00000144A2C60940>
+import 're' # <_frozen_importlib_external.SourceFileLoader object at 0x00000144A24D6580>
+import 'typing' # <_frozen_importlib_external.SourceFileLoader object at 0x00000144A2494850>
+import 'importlib.abc' # <_frozen_importlib_external.SourceFileLoader object at 0x00000144A2476700>
+import 'importlib.util' # <_frozen_importlib_external.SourceFileLoader object at 0x00000144A2473EE0>
+# possible namespace for C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\site-packages\google
+# C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\site-packages\win32\lib\__pycache__\pywin32_bootstrap.cpython-39.pyc matches C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\site-packages\win32\lib\pywin32_bootstrap.py
+# code object from 'C:\\Users\\sendb\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\win32\\lib\\__pycache__\\pywin32_bootstrap.cpython-39.pyc'
+# possible namespace for C:\Users\sendb\AppData\Local\Programs\Python\Python39\lib\site-packages\pywin32_system32
+import 'pywin32_system32' # <_frozen_importlib_external._NamespaceLoader object at 0x00000144A2C9BA30>
+import 'pywin32_bootstrap' # <_frozen_importlib_external.SourceFileLoader object at 0x00000144A2C9BA00>
+import 'site' # <_frozen_importlib_external.SourceFileLoader object at 0x00000144A240BFD0>
+Python 3.9.9 (tags/v3.9.9:ccb0e6a, Nov 15 2021, 18:08:50) [MSC v.1929 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license" for more information.
+C:\Users\sendb\AppData\Local\Programs\Python\Python39\python.exe: can't open file 'C:\GECE Rev.0\GECE-Reverse\tools\build_registry.py': [Errno 2] No such file or directory
+# clear builtins._
+# clear sys.path
+# clear sys.argv
+# clear sys.ps1
+# clear sys.ps2
+# clear sys.last_type
+# clear sys.last_value
+# clear sys.last_traceback
+# clear sys.path_hooks
+# clear sys.path_importer_cache
+# clear sys.meta_path
+# clear sys.__interactivehook__
+# restore sys.stdin
+# restore sys.stdout
+# restore sys.stderr
+# cleanup[2] removing sys
+# cleanup[2] removing builtins
+# cleanup[2] removing _frozen_importlib
+# cleanup[2] removing _imp
+# cleanup[2] removing _thread
+# cleanup[2] removing _warnings
+# cleanup[2] removing _weakref
+# cleanup[2] removing _io
+# cleanup[2] removing marshal
+# cleanup[2] removing nt
+# cleanup[2] removing winreg
+# cleanup[2] removing _frozen_importlib_external
+# cleanup[2] removing time
+# cleanup[2] removing zipimport
+# destroy zipimport
+# cleanup[2] removing _codecs
+# cleanup[2] removing codecs
+# cleanup[2] removing encodings.aliases
+# cleanup[2] removing encodings
+# destroy encodings
+# cleanup[2] removing encodings.utf_8
+# cleanup[2] removing encodings.cp1252
+# cleanup[2] removing _signal
+# cleanup[2] removing encodings.latin_1
+# cleanup[2] removing _abc
+# cleanup[2] removing abc
+# cleanup[2] removing io
+# cleanup[2] removing __main__
+# destroy __main__
+# cleanup[2] removing _stat
+# cleanup[2] removing stat
+# cleanup[2] removing _collections_abc
+# cleanup[2] removing genericpath
+# cleanup[2] removing ntpath
+# cleanup[2] removing os.path
+# cleanup[2] removing os
+# cleanup[2] removing _sitebuiltins
+# cleanup[2] removing _locale
+# cleanup[2] removing _bootlocale
+# destroy _bootlocale
+# cleanup[2] removing types
+# cleanup[2] removing importlib._bootstrap
+# cleanup[2] removing importlib._bootstrap_external
+# cleanup[2] removing warnings
+# cleanup[2] removing importlib
+# destroy importlib
+# cleanup[2] removing importlib.machinery
+# cleanup[2] removing _heapq
+# cleanup[2] removing heapq
+# cleanup[2] removing itertools
+# cleanup[2] removing keyword
+# destroy keyword
+# cleanup[2] removing _operator
+# cleanup[2] removing operator
+# cleanup[2] removing reprlib
+# destroy reprlib
+# cleanup[2] removing _collections
+# cleanup[2] removing collections
+# cleanup[2] removing collections.abc
+# cleanup[2] removing _functools
+# cleanup[2] removing functools
+# cleanup[2] removing contextlib
+# cleanup[2] removing enum
+# cleanup[2] removing _sre
+# cleanup[2] removing sre_constants
+# destroy sre_constants
+# cleanup[2] removing sre_parse
+# cleanup[2] removing sre_compile
+# cleanup[2] removing copyreg
+# cleanup[2] removing re
+# cleanup[2] removing typing
+# destroy typing
+# cleanup[2] removing importlib.abc
+# cleanup[2] removing importlib.util
+# cleanup[2] removing mpl_toolkits
+# destroy mpl_toolkits
+# cleanup[2] removing google
+# destroy google
+# cleanup[2] removing pywin32_system32
+# cleanup[2] removing pywin32_bootstrap
+# destroy pywin32_bootstrap
+# destroy pywin32_system32
+# cleanup[2] removing site
+# destroy site
+# destroy time
+# destroy _sitebuiltins
+# destroy io
+# destroy ntpath
+# destroy _stat
+# destroy genericpath
+# destroy os
+# destroy stat
+# destroy importlib.util
+# destroy importlib.abc
+# destroy importlib.machinery
+# destroy warnings
+# destroy collections
+# destroy contextlib
+# destroy operator
+# destroy re
+# destroy types
+# destroy heapq
+# destroy collections.abc
+# destroy _heapq
+# destroy itertools
+# destroy _operator
+# destroy _collections
+# destroy abc
+# destroy _collections_abc
+# destroy _abc
+# destroy _functools
+# destroy enum
+# destroy sre_compile
+# destroy functools
+# destroy _locale
+# destroy copyreg
+# destroy sre_parse
+# cleanup[3] wiping _sre
+# cleanup[3] wiping importlib._bootstrap_external
+# cleanup[3] wiping importlib._bootstrap
+# destroy _frozen_importlib_external
+# cleanup[3] wiping encodings.latin_1
+# cleanup[3] wiping _signal
+# cleanup[3] wiping encodings.cp1252
+# cleanup[3] wiping encodings.utf_8
+# cleanup[3] wiping encodings.aliases
+# cleanup[3] wiping codecs
+# cleanup[3] wiping _codecs
+# cleanup[3] wiping winreg
+# cleanup[3] wiping nt
+# cleanup[3] wiping marshal
+# cleanup[3] wiping _io
+# cleanup[3] wiping _weakref
+# destroy _weakref
+# cleanup[3] wiping _warnings
+# cleanup[3] wiping _thread
+# cleanup[3] wiping _imp
+# destroy _imp
+# cleanup[3] wiping _frozen_importlib
+# cleanup[3] wiping sys
+# cleanup[3] wiping builtins
+# destroy _sre
+# destroy _signal
+# destroy winreg
+# destroy marshal
+# destroy io
+# destroy _warnings
+# destroy _thread
+# destroy nt
+# destroy _frozen_importlib
+# clear sys.audit hooks
+[ok] No drift detected.
+# clear builtins._
+# clear sys.path
+# clear sys.argv
+# clear sys.ps1
+# clear sys.ps2
+# clear sys.last_type
+# clear sys.last_value
+# clear sys.last_traceback
+# clear sys.path_hooks
+# clear sys.path_importer_cache
+# clear sys.meta_path
+# clear sys.__interactivehook__
+# restore sys.stdin
+# restore sys.stdout
+# restore sys.stderr
+# cleanup[2] removing sys
+# cleanup[2] removing builtins
+# cleanup[2] removing _frozen_importlib
+# cleanup[2] removing _imp
+# cleanup[2] removing _thread
+# cleanup[2] removing _warnings
+# cleanup[2] removing _weakref
+# cleanup[2] removing _io
+# cleanup[2] removing marshal
+# cleanup[2] removing nt
+# cleanup[2] removing winreg
+# cleanup[2] removing _frozen_importlib_external
+# cleanup[2] removing time
+# cleanup[2] removing zipimport
+# destroy zipimport
+# cleanup[2] removing faulthandler
+# cleanup[2] removing _codecs
+# cleanup[2] removing codecs
+# cleanup[2] removing encodings.aliases
+# cleanup[2] removing encodings
+# destroy encodings
+# cleanup[2] removing encodings.utf_8
+# cleanup[2] removing encodings.cp1252
+# cleanup[2] removing _signal
+# cleanup[2] removing encodings.latin_1
+# cleanup[2] removing _abc
+# cleanup[2] removing abc
+# cleanup[2] removing io
+# cleanup[2] removing __main__
+# destroy __main__
+# cleanup[2] removing warnings
+# cleanup[2] removing _stat
+# cleanup[2] removing stat
+# cleanup[2] removing _collections_abc
+# cleanup[2] removing genericpath
+# cleanup[2] removing ntpath
+# cleanup[2] removing os.path
+# cleanup[2] removing os
+# cleanup[2] removing _sitebuiltins
+# cleanup[2] removing _locale
+# cleanup[2] removing _bootlocale
+# destroy _bootlocale
+# cleanup[2] removing types
+# cleanup[2] removing importlib._bootstrap
+# cleanup[2] removing importlib._bootstrap_external
+# cleanup[2] removing importlib
+# destroy importlib
+# cleanup[2] removing importlib.machinery
+# cleanup[2] removing _heapq
+# cleanup[2] removing heapq
+# cleanup[2] removing itertools
+# cleanup[2] removing keyword
+# destroy keyword
+# cleanup[2] removing _operator
+# cleanup[2] removing operator
+# cleanup[2] removing reprlib
+# destroy reprlib
+# cleanup[2] removing _collections
+# cleanup[2] removing collections
+# cleanup[2] removing collections.abc
+# cleanup[2] removing _functools
+# cleanup[2] removing functools
+# cleanup[2] removing contextlib
+# cleanup[2] removing enum
+# cleanup[2] removing _sre
+# cleanup[2] removing sre_constants
+# destroy sre_constants
+# cleanup[2] removing sre_parse
+# cleanup[2] removing sre_compile
+# cleanup[2] removing copyreg
+# cleanup[2] removing re
+# cleanup[2] removing typing
+# destroy typing
+# cleanup[2] removing importlib.abc
+# cleanup[2] removing importlib.util
+# cleanup[2] removing mpl_toolkits
+# destroy mpl_toolkits
+# cleanup[2] removing google
+# destroy google
+# cleanup[2] removing pywin32_system32
+# cleanup[2] removing pywin32_bootstrap
+# destroy pywin32_bootstrap
+# destroy pywin32_system32
+# cleanup[2] removing site
+# destroy site
+# cleanup[2] removing _json
+# cleanup[2] removing json.scanner
+# cleanup[2] removing json.decoder
+# cleanup[2] removing json.encoder
+# cleanup[2] removing json
+# cleanup[2] removing errno
+# cleanup[2] removing signal
+# cleanup[2] removing _weakrefset
+# destroy _weakrefset
+# cleanup[2] removing threading
+# cleanup[2] removing msvcrt
+# cleanup[2] removing _winapi
+# cleanup[2] removing subprocess
+# cleanup[2] removing posixpath
+# cleanup[2] removing fnmatch
+# cleanup[2] removing urllib
+# destroy urllib
+# cleanup[2] removing urllib.parse
+# destroy urllib.parse
+# cleanup[2] removing pathlib
+# cleanup[2] removing encodings.ascii
+# cleanup[2] removing _hashlib
+# cleanup[2] removing _blake2
+# cleanup[2] removing hashlib
+# destroy json
+# destroy subprocess
+# destroy pathlib
+# destroy hashlib
+# destroy _sitebuiltins
+# destroy importlib.util
+# destroy importlib.abc
+# destroy importlib.machinery
+# destroy operator
+# destroy heapq
+# destroy collections.abc
+# destroy _heapq
+# destroy itertools
+# destroy _operator
+# destroy _collections
+# destroy abc
+# destroy _collections_abc
+# destroy _abc
+# destroy _functools
+# destroy enum
+# destroy sre_compile
+# destroy _locale
+# destroy copyreg
+# destroy sre_parse
+# destroy json.decoder
+# destroy json.encoder
+# destroy json.scanner
+# destroy _json
+# destroy errno
+# destroy signal
+# destroy threading
+# destroy contextlib
+# destroy time
+# destroy fnmatch
+# destroy io
+# destroy _stat
+# destroy functools
+# destroy os
+# destroy stat
+# destroy genericpath
+# destroy re
+# destroy types
+# destroy collections
+# destroy warnings
+# destroy ntpath
+# destroy posixpath
+# cleanup[3] wiping _blake2
+# cleanup[3] wiping _hashlib
+# cleanup[3] wiping encodings.ascii
+# cleanup[3] wiping _winapi
+# cleanup[3] wiping msvcrt
+# cleanup[3] wiping _sre
+# cleanup[3] wiping importlib._bootstrap_external
+# cleanup[3] wiping importlib._bootstrap
+# destroy _frozen_importlib_external
+# cleanup[3] wiping encodings.latin_1
+# cleanup[3] wiping _signal
+# cleanup[3] wiping encodings.cp1252
+# cleanup[3] wiping encodings.utf_8
+# cleanup[3] wiping encodings.aliases
+# cleanup[3] wiping codecs
+# cleanup[3] wiping _codecs
+# cleanup[3] wiping faulthandler
+# cleanup[3] wiping winreg
+# cleanup[3] wiping nt
+# cleanup[3] wiping marshal
+# cleanup[3] wiping _io
+# cleanup[3] wiping _weakref
+# destroy _weakref
+# cleanup[3] wiping _warnings
+# cleanup[3] wiping _thread
+# cleanup[3] wiping _imp
+# destroy _imp
+# cleanup[3] wiping _frozen_importlib
+# cleanup[3] wiping sys
+# cleanup[3] wiping builtins
+# destroy _blake2
+# destroy _hashlib
+# destroy _winapi
+# destroy msvcrt
+# destroy _sre
+# destroy _signal
+# destroy faulthandler
+# destroy winreg
+# destroy marshal
+# destroy io
+# destroy _warnings
+# destroy _thread
+# destroy nt
+# destroy _frozen_importlib
+# clear sys.audit hooks
