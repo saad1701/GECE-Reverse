@@ -1,4 +1,12 @@
-[
-  {"id":"sheet:Data Entry","type":"sheet","name":"Data Entry","aliases":["DataEntry","DATA_ENTRY"],"owner":"GECE-Core","tags":["inputs","io_scoping","rates"],"version":"1.0.0"},
-  {"id":"module:xmlMod","type":"vba_module","name":"xmlMod","aliases":["modXML","modGeetExport-XML"],"owner":"GECE-Exports","tags":["xml","export","erp"],"version":"1.0.0"}
-]
+{
+  "components": [],
+  "phase": 14,
+  "source_phases": [
+    8,
+    9,
+    10,
+    11,
+    12,
+    13
+  ]
+}
