@@ -1,27 +1,14 @@
 {
   "steps": [
     {
-      "dataAndForms missing": true,
-      "event": "executed by scripts/generate_manifest.py",
       "id": 0,
       "purchase": [
-        0,
-        1,
-        2,
-        3,
-        4,
-        5,
-        6,
-        7,
-        8,
-        9,
-        10,
-        11,
-        12,
-        13
+        0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13
       ],
       "source": "v1.0.1",
-      "target": "GECE-Recover"
+      "target": "GECE-Recover",
+      "event": "executed by scripts/generate_manifest.py",
+      "dataAndForms.missing": true
     }
   ],
   "ui_map": []
