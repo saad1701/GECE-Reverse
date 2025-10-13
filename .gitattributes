@@ -1,10 +1,2 @@
-* text=auto eol=lf
-*.bat eol=crlf
-*.zip -diff -merge -text
-*.7z  -diff -merge -text
-*.bin -diff -merge -text
-*.pdf -diff -merge -text
-*.png -diff -merge -text
-*.jpg -diff -merge -text
-*.jpeg -diff -merge -text
-*.exe -diff -merge -text
+manifest/ui_map.json text eol=lf
+registry/components.json text eol=lf
