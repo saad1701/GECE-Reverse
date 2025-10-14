@@ -1,1 +1,9 @@
-[]
+{
+  "owner": "saad1701",
+  "repo": "GECE-Reverse",
+  "branch": "phase-14-data",
+  "path": "manifest/ui_map.json",
+  "sha": "<sha-from-phase-14-data-manifest/ui_map.json>",
+  "message": "fix(phase14): mirror CI baseline for Manifest Guard",
+  "content_base64": "ewogICJzdGVwcyI6IFsKICAgIHsKICAgICAgImlkIjogMCwKICAgICAgInB1cmNoYXNlIjogWwogICAgICAgIDAsIDEsIDIsIDMsIDQsIDUsIDYsIDcsIDgsIDksIDEwLCAxMSwgMTIsIDEzCiAgICAgIF0sCiAgICAgICJzb3VyY2UiOiAidjEuMC4xIiwKICAgICAgInRhcmdldCI6ICJHRUNFLVJlY292ZXIiLAogICAgICAiZXZlbnQiOiAiZXhlY3V0ZWQgYnkgc2NyaXB0cy9nZW5lcmF0ZV9tYW5pZmVzdC5weSIsCiAgICAgICJkYXRhQW5kRm9ybXMubWlzc2luZyI6IHRydWUKICAgIH0KICBdLAogICJ1aV9tYXAiOiBbXQp9Cg=="
+}

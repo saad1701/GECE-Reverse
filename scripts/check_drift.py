@@ -43,8 +43,6 @@ def main():
     for hdr, items in (("Added:", added), ("Removed:", removed), ("Changed:", changed)):
         if items:
             print(hdr); [print(i) for i in items]
-
     sys.exit(1 if fail and (added or removed or changed) else 0)
-
 if __name__ == "__main__":
     main()

@@ -1,1 +1,1 @@
-fix(phase14): align manifest + registry with CI regenerated format
+fix(phase14): mirror CI baseline for Manifest Guard
