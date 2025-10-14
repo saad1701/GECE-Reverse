@@ -1,18 +1,46 @@
-name: Reverse Validate (Phase 13)
+name: Reverse-Validate (Phase-13)
+
 on:
   push:
     branches: ["**"]
   pull_request: {}
+
 jobs:
   reverse-validate:
     runs-on: ubuntu-latest
+
     steps:
-      - uses: actions/checkout@v4
-        with: { fetch-depth: 0 }
-      - run: |
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Configure git line endings
+        run: |
           git config --global core.autocrlf false
           git config --global core.eol lf
-      - uses: actions/setup-python@v5
-        with: { python-version: "3.11" }
-      - run: python scripts/gen_revstate.py --create-if-missing
-      - run: python scripts/check_drift.py --fail-on-drift
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Generate REVSTATE (if missing)
+        run: |
+          python scripts/gen_revstate.py --create-if-missing
+
+      - name: 🕵️ Diagnose registry creation
+        run: |
+          echo ">>> Registry contents BEFORE drift check:"
+          ls -R registry || echo "(no registry folder)"
+          echo "-----------------------------------------"
+
+      - name: Run drift validation
+        run: |
+          python scripts/check_drift.py --fail-on-drift
+
+      - name: 🧩 Registry contents AFTER drift check
+        if: always()
+        run: |
+          echo ">>> Registry contents AFTER drift check:"
+          ls -R registry || echo "(no registry folder)"
