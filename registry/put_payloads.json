@@ -1,0 +1,9 @@
+{
+  "owner": "saad1701",
+  "repo": "GECE-Reverse",
+  "branch": "phase-14-data",
+  "path": "registry/components.json",
+  "sha": "<sha-from-phase-14-data-registry/components.json>",
+  "message": "fix(phase14): mirror CI baseline for Reverse Validate",
+  "content_base64": "ewogICJjb21wb25lbnRzIjogW10KfQo="
+}
